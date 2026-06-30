@@ -175,6 +175,24 @@ Researchers requesting access should provide:
 - Research Purpose
 - Intended Use
 - Expected Publication
+---
+
+# 🔐 Data Access Policy
+
+The complete **BanglaAccento** audio dataset is **not publicly downloadable** to protect participant privacy and ensure responsible use.
+
+This repository contains only:
+
+- Dataset documentation
+- Metadata
+- Data dictionary
+- Citation information
+- License
+- Sample data
+
+📝 **Dataset Access Request Form:** (https://docs.google.com/forms/d/e/1FAIpQLSd68-BZtHXPwb1RB5KkN5fYUPZIIXDPLCEbPFZ7y-EsDNmEOA/viewform?usp=dialog)
+
+Each request will be reviewed by the dataset maintainers before access is granted.
 
 ---
 
