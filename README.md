@@ -1,45 +1,60 @@
-# BanglaAccento: A Benchmark Dataset for Bangla Regional Dialect Speech Recognition
+# BanglaAccento
+### A Benchmark Dataset for Bangla Regional Dialect Speech Recognition
 
-<div align="center">
+<p align="center">
 
-![License](https://img.shields.io/badge/Access-On%20Request-orange)
-![Language](https://img.shields.io/badge/Language-Bangla%20(Bengali)-green)
-![Task](https://img.shields.io/badge/Task-ASR-blue)
-![Status](https://img.shields.io/badge/Version-v1.0-success)
+![Version](https://img.shields.io/badge/Version-v1.0-blue)
+![Language](https://img.shields.io/badge/Language-Bangla-success)
+![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-green)
+![Dataset](https://img.shields.io/badge/Dataset-6650_Recordings-orange)
+![Speakers](https://img.shields.io/badge/Speakers-49-red)
 
-</div>
+</p>
 
 ---
 
 ## 📖 Overview
 
-**BanglaAccento** is a benchmark Bangla regional dialect speech dataset designed for Automatic Speech Recognition (ASR), dialect classification, speech processing, and Natural Language Processing (NLP) research.
+**BanglaAccento** is a benchmark Bangla regional dialect speech dataset developed to support research in Automatic Speech Recognition (ASR), dialect recognition, speech processing, computational linguistics, and low-resource language technologies.
 
-The dataset contains recordings from native speakers representing five major regional dialects of Bangladesh. Each speech recording is paired with a manually verified Standard Bangla transcription, making the dataset suitable for supervised machine learning and speech recognition tasks.
+The dataset contains **6,650 manually verified speech recordings** collected from **49 native Bangla speakers** across **five major regional dialects of Bangladesh**. Each audio recording is paired with its corresponding Standard Bangla transcription and comprehensive metadata, enabling supervised learning and benchmarking for speech technologies.
 
 ---
 
-## 📊 Dataset Statistics
+## 🎯 Objectives
+
+BanglaAccento aims to:
+
+- Develop benchmark datasets for Bangla ASR.
+- Support regional dialect recognition research.
+- Advance speech processing in low-resource languages.
+- Enable robust speech-to-text systems.
+- Facilitate NLP and linguistic research.
+
+---
+
+# 📊 Dataset Statistics
 
 | Property | Value |
 |----------|--------|
 | Dataset Name | BanglaAccento |
-| Language | Bangla (Bengali) |
-| Speakers | 49 |
-| Dialect Regions | 5 |
+| Version | v1.0 |
+| Language | Bangla |
+| Native Speakers | 49 |
+| Regional Dialects | 5 |
 | Speech Categories | 19 |
 | Sentences per Category | 70 |
-| Total Recordings | 6,650 |
+| Total Recordings | 6650 |
 | Audio Format | WAV |
 | Sampling Rate | 16 kHz |
-| Channel | Mono |
-| Total Duration | ~6 Hours |
+| Audio Channel | Mono |
+| Total Duration | Approximately 6 Hours |
 
 ---
 
-## 🌍 Regional Coverage
+# 🌍 Regional Coverage
 
-The dataset contains speech collected from the following regional dialects:
+The dataset contains recordings from five regional dialects of Bangladesh.
 
 - Barishal
 - Chattogram
@@ -49,12 +64,13 @@ The dataset contains speech collected from the following regional dialects:
 
 ---
 
-## 📁 Repository Structure
+# 📂 Repository Structure
 
 ```
 BanglaAccento/
 │
 ├── README.md
+├── README.pdf
 ├── Dataset_Description.pdf
 ├── Metadata.csv
 ├── Data_Dictionary.pdf
@@ -68,41 +84,73 @@ BanglaAccento/
 
 ---
 
-## 🎯 Applications
+# 🎤 Recording Specifications
 
-The dataset can be used for:
+| Feature | Specification |
+|----------|---------------|
+| Format | WAV |
+| Bit Depth | 16-bit |
+| Sampling Rate | 16 kHz |
+| Channel | Mono |
+| Recording Device | Smartphones & External Microphones |
+| Recording Environment | Quiet & Moderate Noise |
+
+---
+
+# 📁 Original Dataset Structure
+
+```
+BanglaAccento/
+│
+├── Fully Processed/
+│   ├── Barishal/
+│   ├── Chattogram/
+│   ├── Noakhali/
+│   ├── Rangpur/
+│   └── Sylhet/
+│
+├── Processed/
+│   ├── Barishal/
+│   ├── Chattogram/
+│   ├── Noakhali/
+│   ├── Rangpur/
+│   └── Sylhet/
+│
+├── Original Raw Dataset/
+│   ├── Barishal/
+│   ├── Chattogram/
+│   ├── Noakhali/
+│   ├── Rangpur/
+│   └── Sylhet/
+│
+├── metadata.csv
+├── dataset_script.xlsx
+└── README.pdf
+```
+
+---
+
+# 🔬 Applications
+
+The dataset is suitable for:
 
 - Automatic Speech Recognition (ASR)
+- Speech-to-Text
 - Regional Dialect Recognition
-- Speech-to-Text Systems
-- Accent Identification
+- Accent Classification
+- Speaker Adaptation
 - Speech Processing
-- Computational Linguistics
-- Low-Resource Language Research
 - Deep Learning
 - Machine Learning
-- Natural Language Processing (NLP)
+- Natural Language Processing
+- Computational Linguistics
 
 ---
 
-## 🔒 Dataset Availability
+# 📄 Documentation
 
-The complete dataset is **not publicly downloadable**.
+The repository includes
 
-Due to ethical considerations and participant privacy, the full speech recordings are available **only upon reasonable academic request**.
-
-Researchers interested in using the dataset should contact the corresponding author with:
-
-- Name
-- Institution
-- Research purpose
-- Intended use of the dataset
-
----
-
-## 📄 Included Files
-
-- README.md
 - Dataset Description
 - Metadata
 - Data Dictionary
@@ -110,62 +158,106 @@ Researchers interested in using the dataset should contact the corresponding aut
 - Citation Information
 - License
 - Data Access Policy
-- Access Request Form
-- Sample Dataset
+- Sample Data
 
 ---
 
-## 📚 Citation
+# 🔒 Dataset Availability
 
-If you use **BanglaAccento** in your research, please cite the corresponding dataset publication.
+The complete dataset is **not publicly downloadable**.
 
-Detailed citation information is available in **Citation.txt**.
+To protect participant privacy and ensure responsible data usage, the full audio dataset is available **only upon reasonable academic request**.
+
+Researchers requesting access should provide:
+
+- Full Name
+- Institution
+- Research Purpose
+- Intended Use
+- Expected Publication
 
 ---
 
-## 📜 License
+# 📚 Citation
 
-This repository contains documentation only.
+If you use **BanglaAccento** in your research, please cite:
+
+```
+Rahman, M. S., Shimul, S. A., Ramim, S. N.
+
+BanglaAccento: A Benchmark Dataset for Bangla Regional Dialect Speech Recognition.
+
+Mendeley Data, Version 1.
+
+DOI:
+https://doi.org/10.17632/mwcwbwzf7r.1
+```
+
+---
+
+# 🔗 Links
+
+**Mendeley Data**
+
+https://doi.org/10.17632/mwcwbwzf7r.1
+
+**GitHub Repository**
+
+https://github.com/MSakibR/BanglaAccento
+
+---
+
+# 📜 License
+
+This repository is licensed under the
+
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
 
 The complete dataset is distributed under an **Access on Request** policy.
 
-Please refer to **LICENSE.txt** and **DATA_ACCESS_POLICY.pdf** for details.
-
 ---
 
-## 📧 Contact
+# 📧 Contact
 
-For dataset access or research collaboration, please contact:
-
-**Corresponding Author**
-
-**M Sakib Rahman**
+**M. Sakib Rahman**
 
 Department of Computer Science and Engineering
 
 University of Asia Pacific
 
-Email: **22201240@uap-bd.edu**
+Email:
+
+22201240@uap-bd.edu
 
 ---
 
-## ⭐ Acknowledgements
+# 👨‍💻 Contributors
 
-We sincerely thank all volunteers who participated in the speech recording process and contributed to the development of this benchmark dataset.
+- M. Sakib Rahman
+- Shahrier Alam Shimul
+- Salman Nur Ramim
 
 ---
 
-## 🚀 Future Work
+# 🙏 Acknowledgements
 
-Future releases aim to include:
+We sincerely thank all volunteers who participated in the recording sessions and contributed to the development of this benchmark dataset.
 
-- Additional regional dialects
+Special thanks to the Department of Computer Science and Engineering, University of Asia Pacific, for supporting this research.
+
+---
+
+# 🚀 Future Work
+
+Future versions of BanglaAccento will include
+
+- More regional dialects
 - Larger speaker diversity
 - Spontaneous speech
-- Conversational speech
-- Cross-dialect normalization
-- Benchmark baselines for modern ASR models
+- Conversational recordings
+- Speaker verification labels
+- Benchmark baselines using Whisper, Wav2Vec2, and HuBERT
 
 ---
 
-**BanglaAccento** aims to support the advancement of Bangla speech technology and foster research in low-resource language processing.
+## ⭐ If you find this dataset useful, please consider giving this repository a star.
