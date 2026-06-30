@@ -139,13 +139,13 @@ For dataset access or research collaboration, please contact:
 
 **Corresponding Author**
 
-**Dr. Nasima Begum**
+**M Sakib Rahman**
 
 Department of Computer Science and Engineering
 
 University of Asia Pacific
 
-Email: **nasima.cse@uap-bd.edu**
+Email: **22201240@uap-bd.edu**
 
 ---
 
