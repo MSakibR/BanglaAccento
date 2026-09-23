@@ -1,351 +1,701 @@
-filename,audio_path,transcript,region,category
-sentence_01.wav,dataset/chunks/barishal/bar_cate_06/sentence_01.wav,আমার মাথা ব্যথা করছে।,barishal,bar_cate_06
-sentence_02.wav,dataset/chunks/barishal/bar_cate_06/sentence_02.wav,কাছাকাছি হাসপাতাল কোথায়?,barishal,bar_cate_06
-sentence_03.wav,dataset/chunks/barishal/bar_cate_06/sentence_03.wav,ডাক্তারের জন্য কীভাবে অ্যাপয়েন্টমেন্ট নেব?,barishal,bar_cate_06
-sentence_04.wav,dataset/chunks/barishal/bar_cate_06/sentence_04.wav,আমাকে একটি ওষুধের দোকান দেখান।,barishal,bar_cate_06
-sentence_05.wav,dataset/chunks/barishal/bar_cate_06/sentence_05.wav,আমি জ্বর অনুভব করছি।,barishal,bar_cate_06
-sentence_06.wav,dataset/chunks/barishal/bar_cate_06/sentence_06.wav,আমি দুর্ঘটনার শিকার হয়েছি।,barishal,bar_cate_06
-sentence_07.wav,dataset/chunks/barishal/bar_cate_06/sentence_07.wav,হাসপাতালে কত সময় লাগবে পৌঁছাতে?,barishal,bar_cate_06
-sentence_08.wav,dataset/chunks/barishal/bar_cate_06/sentence_08.wav,আমার পায়ে চোট লেগেছে।,barishal,bar_cate_06
-sentence_09.wav,dataset/chunks/barishal/bar_cate_06/sentence_09.wav,আমাকে হাসপাতালে নিয়ে যান।,barishal,bar_cate_06
-sentence_10.wav,dataset/chunks/barishal/bar_cate_06/sentence_10.wav,আমি শ্বাসকষ্ট অনুভব করছি।,barishal,bar_cate_06
-sentence_11.wav,dataset/chunks/barishal/bar_cate_06/sentence_11.wav,আমাকে দ্রুত সাহায্য করুন।,barishal,bar_cate_06
-sentence_12.wav,dataset/chunks/barishal/bar_cate_06/sentence_12.wav,ডাক্তার কখন উপস্থিত থাকবেন?,barishal,bar_cate_06
-sentence_13.wav,dataset/chunks/barishal/bar_cate_06/sentence_13.wav,আমার শিশু অসুস্থ।,barishal,bar_cate_06
-sentence_14.wav,dataset/chunks/barishal/bar_cate_06/sentence_14.wav,আমার পেটে ব্যথা করছে।,barishal,bar_cate_06
-sentence_15.wav,dataset/chunks/barishal/bar_cate_06/sentence_15.wav,ওষুধের নাম কী?,barishal,bar_cate_06
-sentence_16.wav,dataset/chunks/barishal/bar_cate_06/sentence_16.wav,আমি ধমনীতে ব্যথা অনুভব করছি।,barishal,bar_cate_06
-sentence_17.wav,dataset/chunks/barishal/bar_cate_06/sentence_17.wav,এটি কি জরুরি অবস্থা?,barishal,bar_cate_06
-sentence_18.wav,dataset/chunks/barishal/bar_cate_06/sentence_18.wav,আমি অলস লাগছে।,barishal,bar_cate_06
-sentence_19.wav,dataset/chunks/barishal/bar_cate_06/sentence_19.wav,আমার চোখে সমস্যা হচ্ছে।,barishal,bar_cate_06
-sentence_20.wav,dataset/chunks/barishal/bar_cate_06/sentence_20.wav,ডাক্তার কি বাংলা বলতে পারেন?,barishal,bar_cate_06
-sentence_21.wav,dataset/chunks/barishal/bar_cate_06/sentence_21.wav,আমি অ্যালার্জি আক্রান্ত।,barishal,bar_cate_06
-sentence_22.wav,dataset/chunks/barishal/bar_cate_06/sentence_22.wav,আমার সর্দি কাশি আছে।,barishal,bar_cate_06
-sentence_23.wav,dataset/chunks/barishal/bar_cate_06/sentence_23.wav,হাসপাতালে কি ভিড় বেশি?,barishal,bar_cate_06
-sentence_24.wav,dataset/chunks/barishal/bar_cate_06/sentence_24.wav,আমাকে একটি ব্যান্ডেজ দিন।,barishal,bar_cate_06
-sentence_25.wav,dataset/chunks/barishal/bar_cate_06/sentence_25.wav,আমার দাঁতে ব্যথা করছে।,barishal,bar_cate_06
-sentence_26.wav,dataset/chunks/barishal/bar_cate_06/sentence_26.wav,এখানে কি জরুরি ওষুধ পাওয়া যায়?,barishal,bar_cate_06
-sentence_27.wav,dataset/chunks/barishal/bar_cate_06/sentence_27.wav,"আমি অসুস্থ, আমার বিশ্রাম প্রয়োজন।",barishal,bar_cate_06
-sentence_28.wav,dataset/chunks/barishal/bar_cate_06/sentence_28.wav,আপনার ওষুধের পরিমাণ কত?,barishal,bar_cate_06
-sentence_29.wav,dataset/chunks/barishal/bar_cate_06/sentence_29.wav,আমার পায়ে জ্বালা অনুভব হচ্ছে।,barishal,bar_cate_06
-sentence_30.wav,dataset/chunks/barishal/bar_cate_06/sentence_30.wav,হাসপাতালে কি ডাক্তার সারাদিন থাকে?,barishal,bar_cate_06
-sentence_31.wav,dataset/chunks/barishal/bar_cate_06/sentence_31.wav,আমাকে দ্রুত ট্যাক্সি দিন।,barishal,bar_cate_06
-sentence_32.wav,dataset/chunks/barishal/bar_cate_06/sentence_32.wav,আমি গলা ব্যথা অনুভব করছি।,barishal,bar_cate_06
-sentence_33.wav,dataset/chunks/barishal/bar_cate_06/sentence_33.wav,আমার হাতে কাটা গেছে।,barishal,bar_cate_06
-sentence_34.wav,dataset/chunks/barishal/bar_cate_06/sentence_34.wav,এখানে কি স্বাস্থ্য পরীক্ষা করা যায়?,barishal,bar_cate_06
-sentence_35.wav,dataset/chunks/barishal/bar_cate_06/sentence_35.wav,আমার পেট খারাপ লাগছে।,barishal,bar_cate_06
-sentence_36.wav,dataset/chunks/barishal/bar_cate_06/sentence_36.wav,আমার চুল পড়ছে।,barishal,bar_cate_06
-sentence_37.wav,dataset/chunks/barishal/bar_cate_06/sentence_37.wav,কি ওষুধ খাবো?,barishal,bar_cate_06
-sentence_38.wav,dataset/chunks/barishal/bar_cate_06/sentence_38.wav,আমার শ্বাসনালি ব্যথা করছে।,barishal,bar_cate_06
-sentence_39.wav,dataset/chunks/barishal/bar_cate_06/sentence_39.wav,আমার ডায়াবেটিস আছে।,barishal,bar_cate_06
-sentence_40.wav,dataset/chunks/barishal/bar_cate_06/sentence_40.wav,আমাকে ইনজেকশন দেওয়া দরকার।,barishal,bar_cate_06
-sentence_41.wav,dataset/chunks/barishal/bar_cate_06/sentence_41.wav,আমাকে ব্যথা উপশমের জন্য কিছু দিন।,barishal,bar_cate_06
-sentence_42.wav,dataset/chunks/barishal/bar_cate_06/sentence_42.wav,আমি দুর্বল লাগছি।,barishal,bar_cate_06
-sentence_43.wav,dataset/chunks/barishal/bar_cate_06/sentence_43.wav,আমার নাক দিয়ে রক্ত পড়ছে।,barishal,bar_cate_06
-sentence_44.wav,dataset/chunks/barishal/bar_cate_06/sentence_44.wav,ডাক্তার কি এখন ফ্রি আছেন?,barishal,bar_cate_06
-sentence_45.wav,dataset/chunks/barishal/bar_cate_06/sentence_45.wav,আমার বুক ব্যথা করছে।,barishal,bar_cate_06
-sentence_46.wav,dataset/chunks/barishal/bar_cate_06/sentence_46.wav,আমার চোখ লাল হয়ে গেছে।,barishal,bar_cate_06
-sentence_47.wav,dataset/chunks/barishal/bar_cate_06/sentence_47.wav,কি টেস্ট করাতে হবে?,barishal,bar_cate_06
-sentence_48.wav,dataset/chunks/barishal/bar_cate_06/sentence_48.wav,আমি বুকধড় ধড় করছি।,barishal,bar_cate_06
-sentence_49.wav,dataset/chunks/barishal/bar_cate_06/sentence_49.wav,হাসপাতালে কি অ্যাম্বুল্যান্স আছে?,barishal,bar_cate_06
-sentence_50.wav,dataset/chunks/barishal/bar_cate_06/sentence_50.wav,আমার চামড়ায় চুলকানি হচ্ছে।,barishal,bar_cate_06
-sentence_51.wav,dataset/chunks/barishal/bar_cate_06/sentence_51.wav,ওষুধটি কখন খাবো?,barishal,bar_cate_06
-sentence_52.wav,dataset/chunks/barishal/bar_cate_06/sentence_52.wav,আমার কানে ব্যথা করছে।,barishal,bar_cate_06
-sentence_53.wav,dataset/chunks/barishal/bar_cate_06/sentence_53.wav,আমাকে রক্ত পরীক্ষা করাতে হবে।,barishal,bar_cate_06
-sentence_54.wav,dataset/chunks/barishal/bar_cate_06/sentence_54.wav,আমি গরমে অসুস্থ।,barishal,bar_cate_06
-sentence_55.wav,dataset/chunks/barishal/bar_cate_06/sentence_55.wav,আমার দাঁতের ইনফেকশন হয়েছে।,barishal,bar_cate_06
-sentence_56.wav,dataset/chunks/barishal/bar_cate_06/sentence_56.wav,এখানে কি স্যালাইন দেওয়া হয়?,barishal,bar_cate_06
-sentence_57.wav,dataset/chunks/barishal/bar_cate_06/sentence_57.wav,আমার পায়ের আঙুল ফোলা গেছে।,barishal,bar_cate_06
-sentence_58.wav,dataset/chunks/barishal/bar_cate_06/sentence_58.wav,আমাকে ব্যথানাশক দিন।,barishal,bar_cate_06
-sentence_59.wav,dataset/chunks/barishal/bar_cate_06/sentence_59.wav,কি খেলে সুস্থতা হবে?,barishal,bar_cate_06
-sentence_60.wav,dataset/chunks/barishal/bar_cate_06/sentence_60.wav,আমি মাথা ঘোরাতে লাগছে।,barishal,bar_cate_06
-sentence_61.wav,dataset/chunks/barishal/bar_cate_06/sentence_61.wav,হাসপাতালে কি ডাক্তার রাতেও থাকেন?,barishal,bar_cate_06
-sentence_62.wav,dataset/chunks/barishal/bar_cate_06/sentence_62.wav,আমার গলার প্রদাহ আছে।,barishal,bar_cate_06
-sentence_63.wav,dataset/chunks/barishal/bar_cate_06/sentence_63.wav,আমার শরীরে জ্বালা অনুভূত হচ্ছে।,barishal,bar_cate_06
-sentence_64.wav,dataset/chunks/barishal/bar_cate_06/sentence_64.wav,আমাকে ওষুধের রিসিপি দিন।,barishal,bar_cate_06
-sentence_65.wav,dataset/chunks/barishal/bar_cate_06/sentence_65.wav,কি ওষুধ বেশি কার্যকর?,barishal,bar_cate_06
-sentence_66.wav,dataset/chunks/barishal/bar_cate_06/sentence_66.wav,আমার গায়ে র‍্যাশ হয়েছে।,barishal,bar_cate_06
-sentence_67.wav,dataset/chunks/barishal/bar_cate_06/sentence_67.wav,আমি পায়ে ব্যথা অনুভব করছি।,barishal,bar_cate_06
-sentence_68.wav,dataset/chunks/barishal/bar_cate_06/sentence_68.wav,হাসপাতালে কি অ্যাপয়েন্টমেন্ট লাগবে?,barishal,bar_cate_06
-sentence_69.wav,dataset/chunks/barishal/bar_cate_06/sentence_69.wav,আমাকে দ্রুত দেখুন।,barishal,bar_cate_06
-sentence_70.wav,dataset/chunks/barishal/bar_cate_06/sentence_70.wav,আমার পেট খুব ব্যথা করছে।,barishal,bar_cate_06
-sentence_01.wav,dataset/chunks/chittagong/chi_cate_12/sentence_01.wav,আজকের মিটিং কবে?,chittagong,chi_cate_12
-sentence_02.wav,dataset/chunks/chittagong/chi_cate_12/sentence_02.wav,আমি আমার রিপোর্ট প্রস্তুত করেছি।,chittagong,chi_cate_12
-sentence_03.wav,dataset/chunks/chittagong/chi_cate_12/sentence_03.wav,অফিসে সময়মতো পৌঁছানো উচিত।,chittagong,chi_cate_12
-sentence_04.wav,dataset/chunks/chittagong/chi_cate_12/sentence_04.wav,আপনার সহকর্মী কি সাহায্য করছে?,chittagong,chi_cate_12
-sentence_05.wav,dataset/chunks/chittagong/chi_cate_12/sentence_05.wav,আমরা নতুন প্রকল্প শুরু করছি।,chittagong,chi_cate_12
-sentence_06.wav,dataset/chunks/chittagong/chi_cate_12/sentence_06.wav,আজ অফিসে কি কাজ আছে?,chittagong,chi_cate_12
-sentence_07.wav,dataset/chunks/chittagong/chi_cate_12/sentence_07.wav,আমার কম্পিউটারে সমস্যা হয়েছে।,chittagong,chi_cate_12
-sentence_08.wav,dataset/chunks/chittagong/chi_cate_12/sentence_08.wav,মিটিংটি কত সময়ের জন্য?,chittagong,chi_cate_12
-sentence_09.wav,dataset/chunks/chittagong/chi_cate_12/sentence_09.wav,আমি প্রেজেন্টেশন প্রস্তুত করছি।,chittagong,chi_cate_12
-sentence_10.wav,dataset/chunks/chittagong/chi_cate_12/sentence_10.wav,আপনি কোন দপ্তরে কাজ করেন?,chittagong,chi_cate_12
-sentence_11.wav,dataset/chunks/chittagong/chi_cate_12/sentence_11.wav,অফিসের সময়সূচি কি?,chittagong,chi_cate_12
-sentence_12.wav,dataset/chunks/chittagong/chi_cate_12/sentence_12.wav,আমি নতুন কর্মচারী প্রশিক্ষণ দিচ্ছি।,chittagong,chi_cate_12
-sentence_13.wav,dataset/chunks/chittagong/chi_cate_12/sentence_13.wav,আজ অফিসে তদারকি করা হয়েছে।,chittagong,chi_cate_12
-sentence_14.wav,dataset/chunks/chittagong/chi_cate_12/sentence_14.wav,আমরা ক্লায়েন্টের সঙ্গে মিটিং করেছি।,chittagong,chi_cate_12
-sentence_15.wav,dataset/chunks/chittagong/chi_cate_12/sentence_15.wav,আমার ল্যাপটপ কাজ করছে না।,chittagong,chi_cate_12
-sentence_16.wav,dataset/chunks/chittagong/chi_cate_12/sentence_16.wav,অফিসের কাজ শেষ হয়েছে।,chittagong,chi_cate_12
-sentence_17.wav,dataset/chunks/chittagong/chi_cate_12/sentence_17.wav,কি ধরনের রিপোর্ট আজ জমা দিতে হবে?,chittagong,chi_cate_12
-sentence_18.wav,dataset/chunks/chittagong/chi_cate_12/sentence_18.wav,আমি ইমেইল পাঠাচ্ছি।,chittagong,chi_cate_12
-sentence_19.wav,dataset/chunks/chittagong/chi_cate_12/sentence_19.wav,অফিসে নতুন নীতি প্রয়োগ করা হয়েছে।,chittagong,chi_cate_12
-sentence_20.wav,dataset/chunks/chittagong/chi_cate_12/sentence_20.wav,আপনার সহকর্মী punctual কি?,chittagong,chi_cate_12
-sentence_21.wav,dataset/chunks/chittagong/chi_cate_12/sentence_21.wav,আমরা অফিসে কাজ ভাগ করেছি।,chittagong,chi_cate_12
-sentence_22.wav,dataset/chunks/chittagong/chi_cate_12/sentence_22.wav,আজ অফিসে কি মিটিং আছে?,chittagong,chi_cate_12
-sentence_23.wav,dataset/chunks/chittagong/chi_cate_12/sentence_23.wav,আমি ক্লায়েন্টের জন্য ডকুমেন্ট তৈরি করছি।,chittagong,chi_cate_12
-sentence_24.wav,dataset/chunks/chittagong/chi_cate_12/sentence_24.wav,অফিসের বাতাস ভালো নেই।,chittagong,chi_cate_12
-sentence_25.wav,dataset/chunks/chittagong/chi_cate_12/sentence_25.wav,আমরা নতুন সফটওয়্যার ব্যবহার করছি।,chittagong,chi_cate_12
-sentence_26.wav,dataset/chunks/chittagong/chi_cate_12/sentence_26.wav,কি কাজ দ্রুত শেষ করতে হবে?,chittagong,chi_cate_12
-sentence_27.wav,dataset/chunks/chittagong/chi_cate_12/sentence_27.wav,আমার ডেস্কে অনেক নথি আছে।,chittagong,chi_cate_12
-sentence_28.wav,dataset/chunks/chittagong/chi_cate_12/sentence_28.wav,অফিসে আজ নতুন অতিথি এসেছেন।,chittagong,chi_cate_12
-sentence_29.wav,dataset/chunks/chittagong/chi_cate_12/sentence_29.wav,আমরা টিম মিটিং করছি।,chittagong,chi_cate_12
-sentence_30.wav,dataset/chunks/chittagong/chi_cate_12/sentence_30.wav,আপনার কাজের অগ্রগতি কেমন?,chittagong,chi_cate_12
-sentence_31.wav,dataset/chunks/chittagong/chi_cate_12/sentence_31.wav,আমি নতুন প্রকল্পের পরিকল্পনা করছি।,chittagong,chi_cate_12
-sentence_32.wav,dataset/chunks/chittagong/chi_cate_12/sentence_32.wav,আজ অফিসে অনেক কাজ হয়েছে।,chittagong,chi_cate_12
-sentence_33.wav,dataset/chunks/chittagong/chi_cate_12/sentence_33.wav,আমি ইমেইল চেক করছি।,chittagong,chi_cate_12
-sentence_34.wav,dataset/chunks/chittagong/chi_cate_12/sentence_34.wav,অফিসের কম্পিউটার আপডেট হয়েছে।,chittagong,chi_cate_12
-sentence_35.wav,dataset/chunks/chittagong/chi_cate_12/sentence_35.wav,আপনি আজ কোন দপ্তরে কাজ করছেন?,chittagong,chi_cate_12
-sentence_36.wav,dataset/chunks/chittagong/chi_cate_12/sentence_36.wav,আমরা নতুন টিম মিটিং শুরু করেছি।,chittagong,chi_cate_12
-sentence_37.wav,dataset/chunks/chittagong/chi_cate_12/sentence_37.wav,কি ধরনের রিপোর্ট শেষ হয়েছে?,chittagong,chi_cate_12
-sentence_38.wav,dataset/chunks/chittagong/chi_cate_12/sentence_38.wav,আমি অফিসের জন্য প্রেজেন্টেশন তৈরি করেছি।,chittagong,chi_cate_12
-sentence_39.wav,dataset/chunks/chittagong/chi_cate_12/sentence_39.wav,আমাদের টিমে নতুন সদস্য যোগ হয়েছে।,chittagong,chi_cate_12
-sentence_40.wav,dataset/chunks/chittagong/chi_cate_12/sentence_40.wav,অফিসের কাজের মান খুব ভালো।,chittagong,chi_cate_12
-sentence_41.wav,dataset/chunks/chittagong/chi_cate_12/sentence_41.wav,আজ অফিসে কি মিটিং শিডিউল আছে?,chittagong,chi_cate_12
-sentence_42.wav,dataset/chunks/chittagong/chi_cate_12/sentence_42.wav,আমি অফিসের ডকুমেন্ট স্ক্যান করছি।,chittagong,chi_cate_12
-sentence_43.wav,dataset/chunks/chittagong/chi_cate_12/sentence_43.wav,আপনার সহকর্মী কি ব্যস্ত?,chittagong,chi_cate_12
-sentence_44.wav,dataset/chunks/chittagong/chi_cate_12/sentence_44.wav,আমরা অফিসে নথি আপডেট করেছি।,chittagong,chi_cate_12
-sentence_45.wav,dataset/chunks/chittagong/chi_cate_12/sentence_45.wav,আজ টিমের সঙ্গে আলোচনা হয়েছে।,chittagong,chi_cate_12
-sentence_46.wav,dataset/chunks/chittagong/chi_cate_12/sentence_46.wav,আমি নতুন কর্মচারীর প্রশিক্ষণ দিচ্ছি।,chittagong,chi_cate_12
-sentence_47.wav,dataset/chunks/chittagong/chi_cate_12/sentence_47.wav,অফিসে নতুন নীতি প্রয়োগ করা হয়েছে।,chittagong,chi_cate_12
-sentence_48.wav,dataset/chunks/chittagong/chi_cate_12/sentence_48.wav,আমার কম্পিউটার হ্যাং করেছে।,chittagong,chi_cate_12
-sentence_49.wav,dataset/chunks/chittagong/chi_cate_12/sentence_49.wav,আমরা ক্লায়েন্টের কাছে প্রজেক্ট প্রেজেন্ট করেছি।,chittagong,chi_cate_12
-sentence_50.wav,dataset/chunks/chittagong/chi_cate_12/sentence_50.wav,আপনার অফিসের সময়সূচি কি?,chittagong,chi_cate_12
-sentence_51.wav,dataset/chunks/chittagong/chi_cate_12/sentence_51.wav,আমি আজ নতুন কাজ শিখছি।,chittagong,chi_cate_12
-sentence_52.wav,dataset/chunks/chittagong/chi_cate_12/sentence_52.wav,অফিসে নিরাপত্তা ব্যবস্থা ভালো।,chittagong,chi_cate_12
-sentence_53.wav,dataset/chunks/chittagong/chi_cate_12/sentence_53.wav,আমরা অফিসে নতুন টুল ব্যবহার করছি।,chittagong,chi_cate_12
-sentence_54.wav,dataset/chunks/chittagong/chi_cate_12/sentence_54.wav,আপনার টিম কি প্রস্তুত?,chittagong,chi_cate_12
-sentence_55.wav,dataset/chunks/chittagong/chi_cate_12/sentence_55.wav,আমি অফিসে অনেক নথি সাজাচ্ছি।,chittagong,chi_cate_12
-sentence_56.wav,dataset/chunks/chittagong/chi_cate_12/sentence_56.wav,আজ অফিসে নতুন প্রকল্পের আলোচনা হয়েছে।,chittagong,chi_cate_12
-sentence_57.wav,dataset/chunks/chittagong/chi_cate_12/sentence_57.wav,আমি আজ টিম মিটিং নিয়ে ব্যস্ত।,chittagong,chi_cate_12
-sentence_58.wav,dataset/chunks/chittagong/chi_cate_12/sentence_58.wav,অফিসে নতুন সফটওয়্যার ইনস্টল করা হয়েছে।,chittagong,chi_cate_12
-sentence_59.wav,dataset/chunks/chittagong/chi_cate_12/sentence_59.wav,কি ধরনের অফিস কাজ শেষ করতে হবে?,chittagong,chi_cate_12
-sentence_60.wav,dataset/chunks/chittagong/chi_cate_12/sentence_60.wav,আমি ক্লায়েন্টের জন্য ডকুমেন্ট প্রস্তুত করছি।,chittagong,chi_cate_12
-sentence_61.wav,dataset/chunks/chittagong/chi_cate_12/sentence_61.wav,অফিসে আজ অনেক ইমেইল এসেছে।,chittagong,chi_cate_12
-sentence_62.wav,dataset/chunks/chittagong/chi_cate_12/sentence_62.wav,আমাদের টিমের সদস্য সক্রিয়।,chittagong,chi_cate_12
-sentence_63.wav,dataset/chunks/chittagong/chi_cate_12/sentence_63.wav,আমি অফিসে নতুন প্রকল্প পরিকল্পনা করছি।,chittagong,chi_cate_12
-sentence_64.wav,dataset/chunks/chittagong/chi_cate_12/sentence_64.wav,আজ অফিসে অনেক visitors এসেছে।,chittagong,chi_cate_12
-sentence_65.wav,dataset/chunks/chittagong/chi_cate_12/sentence_65.wav,অফিসে meeting room প্রস্তুত।,chittagong,chi_cate_12
-sentence_66.wav,dataset/chunks/chittagong/chi_cate_12/sentence_66.wav,আমি অফিসের জন্য রিপোর্ট তৈরি করেছি।,chittagong,chi_cate_12
-sentence_67.wav,dataset/chunks/chittagong/chi_cate_12/sentence_67.wav,আমরা নতুন guidelines মেনে চলছি।,chittagong,chi_cate_12
-sentence_68.wav,dataset/chunks/chittagong/chi_cate_12/sentence_68.wav,অফিসে কাজের চাপ বেশি।,chittagong,chi_cate_12
-sentence_69.wav,dataset/chunks/chittagong/chi_cate_12/sentence_69.wav,আমি ক্লায়েন্টের সাথে discussion করেছি।,chittagong,chi_cate_12
-sentence_70.wav,dataset/chunks/chittagong/chi_cate_12/sentence_70.wav,আমাদের অফিসের পরিবেশ খুব ভালো।,chittagong,chi_cate_12
-sentence_01.wav,dataset/chunks/noakhali/noa_cate_09/sentence_01.wav,আজ খুব গরম।,noakhali,noa_cate_09
-sentence_02.wav,dataset/chunks/noakhali/noa_cate_09/sentence_02.wav,কাল বৃষ্টি হবে কি?,noakhali,noa_cate_09
-sentence_03.wav,dataset/chunks/noakhali/noa_cate_09/sentence_03.wav,বাতাস কেমন চলছে?,noakhali,noa_cate_09
-sentence_04.wav,dataset/chunks/noakhali/noa_cate_09/sentence_04.wav,আজ সূর্য ভালোভাবে উঠেছে।,noakhali,noa_cate_09
-sentence_05.wav,dataset/chunks/noakhali/noa_cate_09/sentence_05.wav,তাপমাত্রা কত?,noakhali,noa_cate_09
-sentence_06.wav,dataset/chunks/noakhali/noa_cate_09/sentence_06.wav,আজ মেঘলা দিন।,noakhali,noa_cate_09
-sentence_07.wav,dataset/chunks/noakhali/noa_cate_09/sentence_07.wav,বাতাস খুব ঠান্ডা।,noakhali,noa_cate_09
-sentence_08.wav,dataset/chunks/noakhali/noa_cate_09/sentence_08.wav,আজ দিনের আলো সুন্দর।,noakhali,noa_cate_09
-sentence_09.wav,dataset/chunks/noakhali/noa_cate_09/sentence_09.wav,ঝড় আসছে কি?,noakhali,noa_cate_09
-sentence_10.wav,dataset/chunks/noakhali/noa_cate_09/sentence_10.wav,আজ রাত খুব ঠান্ডা।,noakhali,noa_cate_09
-sentence_11.wav,dataset/chunks/noakhali/noa_cate_09/sentence_11.wav,আকাশ পরিষ্কার।,noakhali,noa_cate_09
-sentence_12.wav,dataset/chunks/noakhali/noa_cate_09/sentence_12.wav,বৃষ্টি শুরু হয়েছে।,noakhali,noa_cate_09
-sentence_13.wav,dataset/chunks/noakhali/noa_cate_09/sentence_13.wav,তাপমাত্রা বেশি হলে গরম লাগবে।,noakhali,noa_cate_09
-sentence_14.wav,dataset/chunks/noakhali/noa_cate_09/sentence_14.wav,ধুলোবালি কেটে গেছে।,noakhali,noa_cate_09
-sentence_15.wav,dataset/chunks/noakhali/noa_cate_09/sentence_15.wav,জলবায়ু পরিবর্তন হচ্ছে।,noakhali,noa_cate_09
-sentence_16.wav,dataset/chunks/noakhali/noa_cate_09/sentence_16.wav,আজ সূর্য ঝলমল করছে।,noakhali,noa_cate_09
-sentence_17.wav,dataset/chunks/noakhali/noa_cate_09/sentence_17.wav,বাতাস কি বেশি তীব্র?,noakhali,noa_cate_09
-sentence_18.wav,dataset/chunks/noakhali/noa_cate_09/sentence_18.wav,আজ দিনের তাপমাত্রা ৩৫°সেলসিয়াস।,noakhali,noa_cate_09
-sentence_19.wav,dataset/chunks/noakhali/noa_cate_09/sentence_19.wav,আকাশে সবুজ মেঘ।,noakhali,noa_cate_09
-sentence_20.wav,dataset/chunks/noakhali/noa_cate_09/sentence_20.wav,বৃষ্টির পর মাটি ভিজে গেছে।,noakhali,noa_cate_09
-sentence_21.wav,dataset/chunks/noakhali/noa_cate_09/sentence_21.wav,আজ খুব আর্দ্রতা আছে।,noakhali,noa_cate_09
-sentence_22.wav,dataset/chunks/noakhali/noa_cate_09/sentence_22.wav,কি ধরনের আবহাওয়া আপনার পছন্দ?,noakhali,noa_cate_09
-sentence_23.wav,dataset/chunks/noakhali/noa_cate_09/sentence_23.wav,সূর্যাস্ত খুব সুন্দর হয়েছে।,noakhali,noa_cate_09
-sentence_24.wav,dataset/chunks/noakhali/noa_cate_09/sentence_24.wav,আগামীকাল খুব ঠান্ডা হবে।,noakhali,noa_cate_09
-sentence_25.wav,dataset/chunks/noakhali/noa_cate_09/sentence_25.wav,ঝড়ের পূর্বাভাস আছে।,noakhali,noa_cate_09
-sentence_26.wav,dataset/chunks/noakhali/noa_cate_09/sentence_26.wav,বাতাসের দিক পরিবর্তিত হয়েছে।,noakhali,noa_cate_09
-sentence_27.wav,dataset/chunks/noakhali/noa_cate_09/sentence_27.wav,আকাশে সূর্যোদয় দেখা যাচ্ছে।,noakhali,noa_cate_09
-sentence_28.wav,dataset/chunks/noakhali/noa_cate_09/sentence_28.wav,আজ রাতের আকাশে তারা দেখা যাচ্ছে।,noakhali,noa_cate_09
-sentence_29.wav,dataset/chunks/noakhali/noa_cate_09/sentence_29.wav,বাতাসে তীব্রতা আছে কি?,noakhali,noa_cate_09
-sentence_30.wav,dataset/chunks/noakhali/noa_cate_09/sentence_30.wav,গ্রীষ্মকাল খুব গরম।,noakhali,noa_cate_09
-sentence_31.wav,dataset/chunks/noakhali/noa_cate_09/sentence_31.wav,শীতকাল খুব ঠান্ডা।,noakhali,noa_cate_09
-sentence_32.wav,dataset/chunks/noakhali/noa_cate_09/sentence_32.wav,আজকের আর্দ্রতা কেমন?,noakhali,noa_cate_09
-sentence_33.wav,dataset/chunks/noakhali/noa_cate_09/sentence_33.wav,মেঘ কেটে গেছে।,noakhali,noa_cate_09
-sentence_34.wav,dataset/chunks/noakhali/noa_cate_09/sentence_34.wav,ঝড়ের সময় বাইরে যাবেন না।,noakhali,noa_cate_09
-sentence_35.wav,dataset/chunks/noakhali/noa_cate_09/sentence_35.wav,আজকের আকাশ নীল।,noakhali,noa_cate_09
-sentence_36.wav,dataset/chunks/noakhali/noa_cate_09/sentence_36.wav,বাতাসে ধুলো আছে।,noakhali,noa_cate_09
-sentence_37.wav,dataset/chunks/noakhali/noa_cate_09/sentence_37.wav,বৃষ্টির পর সবুজ গাছ আরও সুন্দর।,noakhali,noa_cate_09
-sentence_38.wav,dataset/chunks/noakhali/noa_cate_09/sentence_38.wav,আজ খুব ধোঁয়া আছে।,noakhali,noa_cate_09
-sentence_39.wav,dataset/chunks/noakhali/noa_cate_09/sentence_39.wav,আগামীকাল বৃষ্টি হবে কি?,noakhali,noa_cate_09
-sentence_40.wav,dataset/chunks/noakhali/noa_cate_09/sentence_40.wav,আজ দুপুরে তাপমাত্রা কম।,noakhali,noa_cate_09
-sentence_41.wav,dataset/chunks/noakhali/noa_cate_09/sentence_41.wav,সূর্য আকাশে উজ্জ্বল।,noakhali,noa_cate_09
-sentence_42.wav,dataset/chunks/noakhali/noa_cate_09/sentence_42.wav,আজ বাতাস একটু ঠান্ডা।,noakhali,noa_cate_09
-sentence_43.wav,dataset/chunks/noakhali/noa_cate_09/sentence_43.wav,ঝড়ের সময় কি precautions নিতে হবে?,noakhali,noa_cate_09
-sentence_44.wav,dataset/chunks/noakhali/noa_cate_09/sentence_44.wav,আজকের আবহাওয়া স্বাভাবিক।,noakhali,noa_cate_09
-sentence_45.wav,dataset/chunks/noakhali/noa_cate_09/sentence_45.wav,বৃষ্টি হলে রাস্তা ভিজে যাবে।,noakhali,noa_cate_09
-sentence_46.wav,dataset/chunks/noakhali/noa_cate_09/sentence_46.wav,হাওয়া খুব নরম।,noakhali,noa_cate_09
-sentence_47.wav,dataset/chunks/noakhali/noa_cate_09/sentence_47.wav,আজ সূর্য উঠার সময় দেরি হয়েছে।,noakhali,noa_cate_09
-sentence_48.wav,dataset/chunks/noakhali/noa_cate_09/sentence_48.wav,আবহাওয়া রিপোর্ট কি হয়েছে?,noakhali,noa_cate_09
-sentence_49.wav,dataset/chunks/noakhali/noa_cate_09/sentence_49.wav,আজকের তাপমাত্রা বেশী।,noakhali,noa_cate_09
-sentence_50.wav,dataset/chunks/noakhali/noa_cate_09/sentence_50.wav,রাতে খুব ঠান্ডা হবে।,noakhali,noa_cate_09
-sentence_51.wav,dataset/chunks/noakhali/noa_cate_09/sentence_51.wav,গ্রীষ্মের দিন দীর্ঘ।,noakhali,noa_cate_09
-sentence_52.wav,dataset/chunks/noakhali/noa_cate_09/sentence_52.wav,শীতের রাত ছোট।,noakhali,noa_cate_09
-sentence_53.wav,dataset/chunks/noakhali/noa_cate_09/sentence_53.wav,ঝড়ের কারণে বিদ্যুৎ চলে গেছে।,noakhali,noa_cate_09
-sentence_54.wav,dataset/chunks/noakhali/noa_cate_09/sentence_54.wav,মেঘলা দিনে ছবি তোলা ভালো।,noakhali,noa_cate_09
-sentence_55.wav,dataset/chunks/noakhali/noa_cate_09/sentence_55.wav,বাতাসে আর্দ্রতা বেশি।,noakhali,noa_cate_09
-sentence_56.wav,dataset/chunks/noakhali/noa_cate_09/sentence_56.wav,কি ধরনের বাতাস চলছে?,noakhali,noa_cate_09
-sentence_57.wav,dataset/chunks/noakhali/noa_cate_09/sentence_57.wav,আজ রাতের আকাশ পরিষ্কার।,noakhali,noa_cate_09
-sentence_58.wav,dataset/chunks/noakhali/noa_cate_09/sentence_58.wav,বৃষ্টিপাত কম।,noakhali,noa_cate_09
-sentence_59.wav,dataset/chunks/noakhali/noa_cate_09/sentence_59.wav,আগামীকাল তাপমাত্রা বাড়বে।,noakhali,noa_cate_09
-sentence_60.wav,dataset/chunks/noakhali/noa_cate_09/sentence_60.wav,ঝড়ের সময় সড়ক নিরাপদ নয়।,noakhali,noa_cate_09
-sentence_61.wav,dataset/chunks/noakhali/noa_cate_09/sentence_61.wav,আজ হালকা বৃষ্টি হচ্ছে।,noakhali,noa_cate_09
-sentence_62.wav,dataset/chunks/noakhali/noa_cate_09/sentence_62.wav,বাতাসের তীব্রতা কমেছে।,noakhali,noa_cate_09
-sentence_63.wav,dataset/chunks/noakhali/noa_cate_09/sentence_63.wav,আজকের সূর্যাস্ত সুন্দর।,noakhali,noa_cate_09
-sentence_64.wav,dataset/chunks/noakhali/noa_cate_09/sentence_64.wav,কি সময়ে বৃষ্টি হবে?,noakhali,noa_cate_09
-sentence_65.wav,dataset/chunks/noakhali/noa_cate_09/sentence_65.wav,আকাশে মেঘ অনেক।,noakhali,noa_cate_09
-sentence_66.wav,dataset/chunks/noakhali/noa_cate_09/sentence_66.wav,আজ খুব শীতল দিন।,noakhali,noa_cate_09
-sentence_67.wav,dataset/chunks/noakhali/noa_cate_09/sentence_67.wav,বাতাসের দিক পূর্ব।,noakhali,noa_cate_09
-sentence_68.wav,dataset/chunks/noakhali/noa_cate_09/sentence_68.wav,হঠাৎ ঝড় এসেছে।,noakhali,noa_cate_09
-sentence_69.wav,dataset/chunks/noakhali/noa_cate_09/sentence_69.wav,আজ খুব রৌদ্রজ্জ্বল।,noakhali,noa_cate_09
-sentence_70.wav,dataset/chunks/noakhali/noa_cate_09/sentence_70.wav,আগামীকাল হালকা বাতাস থাকবে।,noakhali,noa_cate_09
-sentence_01.wav,dataset/chunks/rangpur/ran_cate_11/sentence_01.wav,আপনার পরীক্ষা কবে?,rangpur,ran_cate_11
-sentence_02.wav,dataset/chunks/rangpur/ran_cate_11/sentence_02.wav,আমি সকাল ৯টায় স্কুলে যাই।,rangpur,ran_cate_11
-sentence_03.wav,dataset/chunks/rangpur/ran_cate_11/sentence_03.wav,আজ কোন বিষয়ের ক্লাস আছে?,rangpur,ran_cate_11
-sentence_04.wav,dataset/chunks/rangpur/ran_cate_11/sentence_04.wav,আমি গণিত পড়াশোনা করছি।,rangpur,ran_cate_11
-sentence_05.wav,dataset/chunks/rangpur/ran_cate_11/sentence_05.wav,আপনার শিক্ষক কে?,rangpur,ran_cate_11
-sentence_06.wav,dataset/chunks/rangpur/ran_cate_11/sentence_06.wav,আমার ক্লাস খুব ছোট।,rangpur,ran_cate_11
-sentence_07.wav,dataset/chunks/rangpur/ran_cate_11/sentence_07.wav,পরীক্ষা কঠিন হবে কি?,rangpur,ran_cate_11
-sentence_08.wav,dataset/chunks/rangpur/ran_cate_11/sentence_08.wav,আমি আজ বাংলা পরীক্ষা দিচ্ছি।,rangpur,ran_cate_11
-sentence_09.wav,dataset/chunks/rangpur/ran_cate_11/sentence_09.wav,আপনি কোন কলেজে পড়েন?,rangpur,ran_cate_11
-sentence_10.wav,dataset/chunks/rangpur/ran_cate_11/sentence_10.wav,আমার বন্ধু বিজ্ঞান পড়ে।,rangpur,ran_cate_11
-sentence_11.wav,dataset/chunks/rangpur/ran_cate_11/sentence_11.wav,আমরা স্কুলে প্রতিদিন ৬ ঘণ্টা পড়ি।,rangpur,ran_cate_11
-sentence_12.wav,dataset/chunks/rangpur/ran_cate_11/sentence_12.wav,আপনার হোমওয়ার্ক শেষ হয়েছে কি?,rangpur,ran_cate_11
-sentence_13.wav,dataset/chunks/rangpur/ran_cate_11/sentence_13.wav,আমি ইতিহাস পড়তে ভালোবাসি।,rangpur,ran_cate_11
-sentence_14.wav,dataset/chunks/rangpur/ran_cate_11/sentence_14.wav,আপনার শিক্ষক ক্লাসে কঠোর কি?,rangpur,ran_cate_11
-sentence_15.wav,dataset/chunks/rangpur/ran_cate_11/sentence_15.wav,আমরা লাইব্রেরিতে বই পড়ি।,rangpur,ran_cate_11
-sentence_16.wav,dataset/chunks/rangpur/ran_cate_11/sentence_16.wav,পরীক্ষা কত নম্বরের?,rangpur,ran_cate_11
-sentence_17.wav,dataset/chunks/rangpur/ran_cate_11/sentence_17.wav,আমার সহপাঠী খুব স্মার্ট।,rangpur,ran_cate_11
-sentence_18.wav,dataset/chunks/rangpur/ran_cate_11/sentence_18.wav,আপনি কোন বিষয়ে দুর্বল?,rangpur,ran_cate_11
-sentence_19.wav,dataset/chunks/rangpur/ran_cate_11/sentence_19.wav,আমি প্রতিদিন ইংরেজি অনুশীলন করি।,rangpur,ran_cate_11
-sentence_20.wav,dataset/chunks/rangpur/ran_cate_11/sentence_20.wav,শিক্ষক আজ নতুন পাঠ শেখালেন।,rangpur,ran_cate_11
-sentence_21.wav,dataset/chunks/rangpur/ran_cate_11/sentence_21.wav,আপনার ক্লাসের সময়সূচি কি?,rangpur,ran_cate_11
-sentence_22.wav,dataset/chunks/rangpur/ran_cate_11/sentence_22.wav,আমি পরীক্ষার জন্য প্রস্তুতি নিচ্ছি।,rangpur,ran_cate_11
-sentence_23.wav,dataset/chunks/rangpur/ran_cate_11/sentence_23.wav,আমরা বিজ্ঞান ল্যাবে পরীক্ষা করি।,rangpur,ran_cate_11
-sentence_24.wav,dataset/chunks/rangpur/ran_cate_11/sentence_24.wav,আপনার স্কুলের নাম কি?,rangpur,ran_cate_11
-sentence_25.wav,dataset/chunks/rangpur/ran_cate_11/sentence_25.wav,আমার প্রিয় শিক্ষক খুব সহায়ক।,rangpur,ran_cate_11
-sentence_26.wav,dataset/chunks/rangpur/ran_cate_11/sentence_26.wav,আমরা গ্রুপ স্টাডি করি।,rangpur,ran_cate_11
-sentence_27.wav,dataset/chunks/rangpur/ran_cate_11/sentence_27.wav,আপনি কোন বিষয়ে ভালো?,rangpur,ran_cate_11
-sentence_28.wav,dataset/chunks/rangpur/ran_cate_11/sentence_28.wav,আমি নতুন বিষয় শিখতে ভালোবাসি।,rangpur,ran_cate_11
-sentence_29.wav,dataset/chunks/rangpur/ran_cate_11/sentence_29.wav,পরীক্ষা শেষ হলে আমরা ছুটি পাই।,rangpur,ran_cate_11
-sentence_30.wav,dataset/chunks/rangpur/ran_cate_11/sentence_30.wav,আমার স্কুলে বড় লাইব্রেরি আছে।,rangpur,ran_cate_11
-sentence_31.wav,dataset/chunks/rangpur/ran_cate_11/sentence_31.wav,আপনার ক্লাসের সংখ্যা কত?,rangpur,ran_cate_11
-sentence_32.wav,dataset/chunks/rangpur/ran_cate_11/sentence_32.wav,আমি প্রতিদিন সকালে পড়াশোনা করি।,rangpur,ran_cate_11
-sentence_33.wav,dataset/chunks/rangpur/ran_cate_11/sentence_33.wav,শিক্ষক আজ গণিতের সমস্যা দেখালেন।,rangpur,ran_cate_11
-sentence_34.wav,dataset/chunks/rangpur/ran_cate_11/sentence_34.wav,আপনার সহপাঠী কি সাহায্য করছে?,rangpur,ran_cate_11
-sentence_35.wav,dataset/chunks/rangpur/ran_cate_11/sentence_35.wav,আমি পরীক্ষার জন্য নোট তৈরি করছি।,rangpur,ran_cate_11
-sentence_36.wav,dataset/chunks/rangpur/ran_cate_11/sentence_36.wav,আমরা স্কুলে বিভিন্ন কার্যক্রম করি।,rangpur,ran_cate_11
-sentence_37.wav,dataset/chunks/rangpur/ran_cate_11/sentence_37.wav,আপনার শিক্ষক কি ভালো ব্যাখ্যা করেন?,rangpur,ran_cate_11
-sentence_38.wav,dataset/chunks/rangpur/ran_cate_11/sentence_38.wav,আমি ইংরেজি বলার অনুশীলন করি।,rangpur,ran_cate_11
-sentence_39.wav,dataset/chunks/rangpur/ran_cate_11/sentence_39.wav,আজ ক্লাসে প্র্যাকটিক্যাল হয়েছে।,rangpur,ran_cate_11
-sentence_40.wav,dataset/chunks/rangpur/ran_cate_11/sentence_40.wav,আপনার হোমওয়ার্ক কত পৃষ্ঠা?,rangpur,ran_cate_11
-sentence_41.wav,dataset/chunks/rangpur/ran_cate_11/sentence_41.wav,আমি পরীক্ষার জন্য প্রশ্ন সমাধান করছি।,rangpur,ran_cate_11
-sentence_42.wav,dataset/chunks/rangpur/ran_cate_11/sentence_42.wav,আমরা স্কুলে বার্ষিক ক্রীড়া প্রতিযোগিতা করি।,rangpur,ran_cate_11
-sentence_43.wav,dataset/chunks/rangpur/ran_cate_11/sentence_43.wav,আপনার শিক্ষক কি কখনও দেরি করেন?,rangpur,ran_cate_11
-sentence_44.wav,dataset/chunks/rangpur/ran_cate_11/sentence_44.wav,আমি নতুন বই কিনেছি।,rangpur,ran_cate_11
-sentence_45.wav,dataset/chunks/rangpur/ran_cate_11/sentence_45.wav,ক্লাসে সবাই খুব মনোযোগী।,rangpur,ran_cate_11
-sentence_46.wav,dataset/chunks/rangpur/ran_cate_11/sentence_46.wav,আপনার স্কুলের সময়সূচি কি?,rangpur,ran_cate_11
-sentence_47.wav,dataset/chunks/rangpur/ran_cate_11/sentence_47.wav,আমরা পরীক্ষার জন্য গ্রুপ স্টাডি করি।,rangpur,ran_cate_11
-sentence_48.wav,dataset/chunks/rangpur/ran_cate_11/sentence_48.wav,শিক্ষক আজ বিজ্ঞান পাঠ করলেন।,rangpur,ran_cate_11
-sentence_49.wav,dataset/chunks/rangpur/ran_cate_11/sentence_49.wav,আপনার প্রিয় বিষয় কোনটি?,rangpur,ran_cate_11
-sentence_50.wav,dataset/chunks/rangpur/ran_cate_11/sentence_50.wav,আমি প্রতিদিন রাতে পড়াশোনা করি।,rangpur,ran_cate_11
-sentence_51.wav,dataset/chunks/rangpur/ran_cate_11/sentence_51.wav,আমরা লাইব্রেরিতে নতুন বই দেখেছি।,rangpur,ran_cate_11
-sentence_52.wav,dataset/chunks/rangpur/ran_cate_11/sentence_52.wav,শিক্ষক আজ পরীক্ষা নেওয়ার পরিকল্পনা করেছেন।,rangpur,ran_cate_11
-sentence_53.wav,dataset/chunks/rangpur/ran_cate_11/sentence_53.wav,আপনার স্কুলের ছুটি কখন?,rangpur,ran_cate_11
-sentence_54.wav,dataset/chunks/rangpur/ran_cate_11/sentence_54.wav,আমি পরীক্ষার জন্য নোটগুলি পুনরায় পড়ছি।,rangpur,ran_cate_11
-sentence_55.wav,dataset/chunks/rangpur/ran_cate_11/sentence_55.wav,আমরা ক্লাসে project কাজ করছি।,rangpur,ran_cate_11
-sentence_56.wav,dataset/chunks/rangpur/ran_cate_11/sentence_56.wav,আপনার সহপাঠী কি সক্রিয়?,rangpur,ran_cate_11
-sentence_57.wav,dataset/chunks/rangpur/ran_cate_11/sentence_57.wav,আমি আজ শিক্ষকের সঙ্গে কথা বলেছি।,rangpur,ran_cate_11
-sentence_58.wav,dataset/chunks/rangpur/ran_cate_11/sentence_58.wav,স্কুলে আমরা বিভিন্ন cultural অনুষ্ঠান করি।,rangpur,ran_cate_11
-sentence_59.wav,dataset/chunks/rangpur/ran_cate_11/sentence_59.wav,আপনার ক্লাসে কত শিক্ষক আছেন?,rangpur,ran_cate_11
-sentence_60.wav,dataset/chunks/rangpur/ran_cate_11/sentence_60.wav,আমি প্রতিদিন নতুন শব্দ শিখি।,rangpur,ran_cate_11
-sentence_61.wav,dataset/chunks/rangpur/ran_cate_11/sentence_61.wav,পরীক্ষা শেষ হলে আমরা আনন্দ করি।,rangpur,ran_cate_11
-sentence_62.wav,dataset/chunks/rangpur/ran_cate_11/sentence_62.wav,শিক্ষক আজ হোমওয়ার্ক দেখেছেন।,rangpur,ran_cate_11
-sentence_63.wav,dataset/chunks/rangpur/ran_cate_11/sentence_63.wav,আপনার স্কুলে কত লাইব্রেরি আছে?,rangpur,ran_cate_11
-sentence_64.wav,dataset/chunks/rangpur/ran_cate_11/sentence_64.wav,আমরা প্রতিদিন ক্লাসে active থাকি।,rangpur,ran_cate_11
-sentence_65.wav,dataset/chunks/rangpur/ran_cate_11/sentence_65.wav,আমি পরীক্ষার জন্য extra practice করি।,rangpur,ran_cate_11
-sentence_66.wav,dataset/chunks/rangpur/ran_cate_11/sentence_66.wav,শিক্ষক নতুন প্রশ্ন দেখিয়েছেন।,rangpur,ran_cate_11
-sentence_67.wav,dataset/chunks/rangpur/ran_cate_11/sentence_67.wav,আপনার স্কুলের বার্ষিক পরীক্ষা কখন?,rangpur,ran_cate_11
-sentence_68.wav,dataset/chunks/rangpur/ran_cate_11/sentence_68.wav,আমি শিক্ষকের পরামর্শ অনুসরণ করি।,rangpur,ran_cate_11
-sentence_69.wav,dataset/chunks/rangpur/ran_cate_11/sentence_69.wav,আমরা প্রতিদিন assignment করি।,rangpur,ran_cate_11
-sentence_70.wav,dataset/chunks/rangpur/ran_cate_11/sentence_70.wav,আপনার প্রিয় শিক্ষক কে?,rangpur,ran_cate_11
-sentence_01.wav,dataset/chunks/sylhet/syl_cate_08/sentence_01.wav,এই বছর ধানের ফলন কেমন হবে?,sylhet,syl_cate_08
-sentence_02.wav,dataset/chunks/sylhet/syl_cate_08/sentence_02.wav,আমি মাছ চাষ শুরু করতে চাই।,sylhet,syl_cate_08
-sentence_03.wav,dataset/chunks/sylhet/syl_cate_08/sentence_03.wav,বৃষ্টিপাত ঠিক আছে কি?,sylhet,syl_cate_08
-sentence_04.wav,dataset/chunks/sylhet/syl_cate_08/sentence_04.wav,জমি প্রস্তুত করা হয়েছে।,sylhet,syl_cate_08
-sentence_05.wav,dataset/chunks/sylhet/syl_cate_08/sentence_05.wav,ধানের বীজ কত লাগবে?,sylhet,syl_cate_08
-sentence_06.wav,dataset/chunks/sylhet/syl_cate_08/sentence_06.wav,কীটনাশক প্রয়োগ করতে হবে।,sylhet,syl_cate_08
-sentence_07.wav,dataset/chunks/sylhet/syl_cate_08/sentence_07.wav,আমি সবজি চাষ করি।,sylhet,syl_cate_08
-sentence_08.wav,dataset/chunks/sylhet/syl_cate_08/sentence_08.wav,মাছের পুকুর কত বড়?,sylhet,syl_cate_08
-sentence_09.wav,dataset/chunks/sylhet/syl_cate_08/sentence_09.wav,আমার ধান ভালোভাবে ফলন করছে।,sylhet,syl_cate_08
-sentence_10.wav,dataset/chunks/sylhet/syl_cate_08/sentence_10.wav,সার দেওয়া হয়েছে।,sylhet,syl_cate_08
-sentence_11.wav,dataset/chunks/sylhet/syl_cate_08/sentence_11.wav,কৃষকের জন্য কি সহায়তা আছে?,sylhet,syl_cate_08
-sentence_12.wav,dataset/chunks/sylhet/syl_cate_08/sentence_12.wav,গবাদি পশুদের খাওয়ানো হয়েছে।,sylhet,syl_cate_08
-sentence_13.wav,dataset/chunks/sylhet/syl_cate_08/sentence_13.wav,আবহাওয়া কেমন থাকবে?,sylhet,syl_cate_08
-sentence_14.wav,dataset/chunks/sylhet/syl_cate_08/sentence_14.wav,বৃষ্টির অভাব ধানের জন্য ক্ষতিকর।,sylhet,syl_cate_08
-sentence_15.wav,dataset/chunks/sylhet/syl_cate_08/sentence_15.wav,পুকুরে পানি পরীক্ষা করা হয়েছে।,sylhet,syl_cate_08
-sentence_16.wav,dataset/chunks/sylhet/syl_cate_08/sentence_16.wav,আমি নতুন সার প্রয়োগ করব।,sylhet,syl_cate_08
-sentence_17.wav,dataset/chunks/sylhet/syl_cate_08/sentence_17.wav,কীটপতঙ্গ ধ্বংস করতে হবে।,sylhet,syl_cate_08
-sentence_18.wav,dataset/chunks/sylhet/syl_cate_08/sentence_18.wav,ধানের বীজ ভালো মানের কিনুন।,sylhet,syl_cate_08
-sentence_19.wav,dataset/chunks/sylhet/syl_cate_08/sentence_19.wav,সবজি খুব দ্রুত বড় হচ্ছে।,sylhet,syl_cate_08
-sentence_20.wav,dataset/chunks/sylhet/syl_cate_08/sentence_20.wav,মাছের পুকুরে খাবার দিন।,sylhet,syl_cate_08
-sentence_21.wav,dataset/chunks/sylhet/syl_cate_08/sentence_21.wav,জমিতে আগাছা কাটা হয়েছে।,sylhet,syl_cate_08
-sentence_22.wav,dataset/chunks/sylhet/syl_cate_08/sentence_22.wav,আমি নতুন পুকুর খনন করেছি।,sylhet,syl_cate_08
-sentence_23.wav,dataset/chunks/sylhet/syl_cate_08/sentence_23.wav,এই ফসলের জন্য কত সার লাগবে?,sylhet,syl_cate_08
-sentence_24.wav,dataset/chunks/sylhet/syl_cate_08/sentence_24.wav,গরু খুব ভালো অবস্থায় আছে।,sylhet,syl_cate_08
-sentence_25.wav,dataset/chunks/sylhet/syl_cate_08/sentence_25.wav,ধান কেটে সংগ্রহ করা হয়েছে।,sylhet,syl_cate_08
-sentence_26.wav,dataset/chunks/sylhet/syl_cate_08/sentence_26.wav,আমরা সবজি বাজারে বিক্রি করি।,sylhet,syl_cate_08
-sentence_27.wav,dataset/chunks/sylhet/syl_cate_08/sentence_27.wav,মাটি পরীক্ষা করা হয়েছে।,sylhet,syl_cate_08
-sentence_28.wav,dataset/chunks/sylhet/syl_cate_08/sentence_28.wav,পোকামাকড়ের আক্রমণ হয়েছে।,sylhet,syl_cate_08
-sentence_29.wav,dataset/chunks/sylhet/syl_cate_08/sentence_29.wav,মাছের পুকুর পরিষ্কার করুন।,sylhet,syl_cate_08
-sentence_30.wav,dataset/chunks/sylhet/syl_cate_08/sentence_30.wav,আমরা সার ও বীজ কিনব।,sylhet,syl_cate_08
-sentence_31.wav,dataset/chunks/sylhet/syl_cate_08/sentence_31.wav,গবাদি পশুদের স্বাস্থ্য পরীক্ষা করা হয়েছে।,sylhet,syl_cate_08
-sentence_32.wav,dataset/chunks/sylhet/syl_cate_08/sentence_32.wav,ধানের ফলন ভাল হয়েছে।,sylhet,syl_cate_08
-sentence_33.wav,dataset/chunks/sylhet/syl_cate_08/sentence_33.wav,আমি নতুন চারা রোপণ করব।,sylhet,syl_cate_08
-sentence_34.wav,dataset/chunks/sylhet/syl_cate_08/sentence_34.wav,আবহাওয়া পরিবর্তনশীল।,sylhet,syl_cate_08
-sentence_35.wav,dataset/chunks/sylhet/syl_cate_08/sentence_35.wav,পুকুরে পানি কমে গেছে।,sylhet,syl_cate_08
-sentence_36.wav,dataset/chunks/sylhet/syl_cate_08/sentence_36.wav,আমরা নতুন সার পরীক্ষা করব।,sylhet,syl_cate_08
-sentence_37.wav,dataset/chunks/sylhet/syl_cate_08/sentence_37.wav,কি মাছের প্রজাতি ভালো ফলন দিচ্ছে?,sylhet,syl_cate_08
-sentence_38.wav,dataset/chunks/sylhet/syl_cate_08/sentence_38.wav,জমি উর্বর।,sylhet,syl_cate_08
-sentence_39.wav,dataset/chunks/sylhet/syl_cate_08/sentence_39.wav,ফসল রক্ষা করতে কী ব্যবস্থা নেওয়া হয়েছে?,sylhet,syl_cate_08
-sentence_40.wav,dataset/chunks/sylhet/syl_cate_08/sentence_40.wav,আমরা গবাদি পশু বিক্রি করব।,sylhet,syl_cate_08
-sentence_41.wav,dataset/chunks/sylhet/syl_cate_08/sentence_41.wav,ধানের ফসল শুকিয়ে গেছে।,sylhet,syl_cate_08
-sentence_42.wav,dataset/chunks/sylhet/syl_cate_08/sentence_42.wav,পুকুরে নতুন মাছ ছাড়া হয়েছে।,sylhet,syl_cate_08
-sentence_43.wav,dataset/chunks/sylhet/syl_cate_08/sentence_43.wav,আবহাওয়া খুব খারাপ।,sylhet,syl_cate_08
-sentence_44.wav,dataset/chunks/sylhet/syl_cate_08/sentence_44.wav,আমরা সবজি রোপণ শুরু করেছি।,sylhet,syl_cate_08
-sentence_45.wav,dataset/chunks/sylhet/syl_cate_08/sentence_45.wav,মাটির আর্দ্রতা ঠিক আছে কি?,sylhet,syl_cate_08
-sentence_46.wav,dataset/chunks/sylhet/syl_cate_08/sentence_46.wav,সার দেওয়ার পর পানি দিন।,sylhet,syl_cate_08
-sentence_47.wav,dataset/chunks/sylhet/syl_cate_08/sentence_47.wav,কীটনাশক কত দিন পর প্রয়োগ করতে হবে?,sylhet,syl_cate_08
-sentence_48.wav,dataset/chunks/sylhet/syl_cate_08/sentence_48.wav,আমার ধান এখনও সবুজ।,sylhet,syl_cate_08
-sentence_49.wav,dataset/chunks/sylhet/syl_cate_08/sentence_49.wav,গবাদি পশুদের জন্য খোরাক প্রস্তুত।,sylhet,syl_cate_08
-sentence_50.wav,dataset/chunks/sylhet/syl_cate_08/sentence_50.wav,পুকুরের পানি পরীক্ষা করুন।,sylhet,syl_cate_08
-sentence_51.wav,dataset/chunks/sylhet/syl_cate_08/sentence_51.wav,বৃষ্টি হলে ফসলের জন্য ভালো হবে।,sylhet,syl_cate_08
-sentence_52.wav,dataset/chunks/sylhet/syl_cate_08/sentence_52.wav,আমরা নতুন সার প্রয়োগ করব।,sylhet,syl_cate_08
-sentence_53.wav,dataset/chunks/sylhet/syl_cate_08/sentence_53.wav,কি সময়ে ধান কাটা উচিত?,sylhet,syl_cate_08
-sentence_54.wav,dataset/chunks/sylhet/syl_cate_08/sentence_54.wav,পোকামাকড় ধ্বংস করা হয়েছে।,sylhet,syl_cate_08
-sentence_55.wav,dataset/chunks/sylhet/syl_cate_08/sentence_55.wav,আমরা ফসল বিক্রি করব।,sylhet,syl_cate_08
-sentence_56.wav,dataset/chunks/sylhet/syl_cate_08/sentence_56.wav,গবাদি পশুদের জন্য চিকিৎসা প্রয়োজন।,sylhet,syl_cate_08
-sentence_57.wav,dataset/chunks/sylhet/syl_cate_08/sentence_57.wav,মাছের পুকুরে বেশি পানি ঢালুন।,sylhet,syl_cate_08
-sentence_58.wav,dataset/chunks/sylhet/syl_cate_08/sentence_58.wav,আমরা কৃষি প্রদর্শনীতে যাব।,sylhet,syl_cate_08
-sentence_59.wav,dataset/chunks/sylhet/syl_cate_08/sentence_59.wav,ধানের চারা ভালোভাবে জন্ম নিয়েছে।,sylhet,syl_cate_08
-sentence_60.wav,dataset/chunks/sylhet/syl_cate_08/sentence_60.wav,ফসলের জন্য পানি দেওয়া হচ্ছে।,sylhet,syl_cate_08
-sentence_61.wav,dataset/chunks/sylhet/syl_cate_08/sentence_61.wav,পোকামাকড়ের আক্রমণ কমে গেছে।,sylhet,syl_cate_08
-sentence_62.wav,dataset/chunks/sylhet/syl_cate_08/sentence_62.wav,আমরা নতুন চারা কিনব।,sylhet,syl_cate_08
-sentence_63.wav,dataset/chunks/sylhet/syl_cate_08/sentence_63.wav,কি মাছের খাদ্য ভালো ফলন দিচ্ছে?,sylhet,syl_cate_08
-sentence_64.wav,dataset/chunks/sylhet/syl_cate_08/sentence_64.wav,জমি খুব উর্বর।,sylhet,syl_cate_08
-sentence_65.wav,dataset/chunks/sylhet/syl_cate_08/sentence_65.wav,পুকুরের পানি পরিষ্কার রাখা হয়েছে।,sylhet,syl_cate_08
-sentence_66.wav,dataset/chunks/sylhet/syl_cate_08/sentence_66.wav,আমি ধানের ক্ষেতে যাচ্ছি।,sylhet,syl_cate_08
-sentence_67.wav,dataset/chunks/sylhet/syl_cate_08/sentence_67.wav,ফসল রক্ষা করতে কৃষক সতর্ক।,sylhet,syl_cate_08
-sentence_68.wav,dataset/chunks/sylhet/syl_cate_08/sentence_68.wav,আমরা গবাদি পশু বিক্রির পরিকল্পনা করেছি।,sylhet,syl_cate_08
-sentence_69.wav,dataset/chunks/sylhet/syl_cate_08/sentence_69.wav,ধানের ক্ষেতে জৈব সার প্রয়োগ করা হয়েছে।,sylhet,syl_cate_08
-sentence_70.wav,dataset/chunks/sylhet/syl_cate_08/sentence_70.wav,আমাদের পুকুরে নতুন মাছ এসেছে।,sylhet,syl_cate_08
+filename,audio_path,transcript,region,category_id,speaker_id,gender,category
+sentence_01.wav,dataset/chunks/barishal/bar_cate_01/sentence_01.wav,আপনি কোথা থেকে এসেছেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_02.wav,dataset/chunks/barishal/bar_cate_01/sentence_02.wav,আপনার নাম কী?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_03.wav,dataset/chunks/barishal/bar_cate_01/sentence_03.wav,আমার নাম জন।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_04.wav,dataset/chunks/barishal/bar_cate_01/sentence_04.wav,আপনার সাথে পরিচিত হয়ে ভালো লাগলো।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_05.wav,dataset/chunks/barishal/bar_cate_01/sentence_05.wav,আমি এই এলাকায় নতুন।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_06.wav,dataset/chunks/barishal/bar_cate_01/sentence_06.wav,আপনি কি এখানে থাকেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_07.wav,dataset/chunks/barishal/bar_cate_01/sentence_07.wav,আপনি কি প্রথমবার এখানে এসেছেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_08.wav,dataset/chunks/barishal/bar_cate_01/sentence_08.wav,আমি বাংলাদেশে ভ্রমণে এসেছি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_09.wav,dataset/chunks/barishal/bar_cate_01/sentence_09.wav,আপনি কী করেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_10.wav,dataset/chunks/barishal/bar_cate_01/sentence_10.wav,আমি একজন ছাত্র।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_11.wav,dataset/chunks/barishal/bar_cate_01/sentence_11.wav,আপনার বাড়ি কোথায়?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_12.wav,dataset/chunks/barishal/bar_cate_01/sentence_12.wav,আপনি কেমন আছেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_13.wav,dataset/chunks/barishal/bar_cate_01/sentence_13.wav,আমি ভালো আছি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_14.wav,dataset/chunks/barishal/bar_cate_01/sentence_14.wav,অনেক দিন পর দেখা হলো।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_15.wav,dataset/chunks/barishal/bar_cate_01/sentence_15.wav,আপনাকে আবার দেখে ভালো লাগছে।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_16.wav,dataset/chunks/barishal/bar_cate_01/sentence_16.wav,আপনি কি আমাকে সাহায্য করতে পারবেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_17.wav,dataset/chunks/barishal/bar_cate_01/sentence_17.wav,আপনার সাথে কথা বলে ভালো লাগছে।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_18.wav,dataset/chunks/barishal/bar_cate_01/sentence_18.wav,আমি এখানে কাজের জন্য এসেছি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_19.wav,dataset/chunks/barishal/bar_cate_01/sentence_19.wav,আপনি কোন দেশ থেকে এসেছেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_20.wav,dataset/chunks/barishal/bar_cate_01/sentence_20.wav,আমি ইংরেজি বলতে পারি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_21.wav,dataset/chunks/barishal/bar_cate_01/sentence_21.wav,আপনি কি বাংলা বলতে পারেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_22.wav,dataset/chunks/barishal/bar_cate_01/sentence_22.wav,আমি বাংলা শিখছি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_23.wav,dataset/chunks/barishal/bar_cate_01/sentence_23.wav,ধন্যবাদ আপনাকে।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_24.wav,dataset/chunks/barishal/bar_cate_01/sentence_24.wav,আপনাকে স্বাগতম।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_25.wav,dataset/chunks/barishal/bar_cate_01/sentence_25.wav,আপনার বয়স কত?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_26.wav,dataset/chunks/barishal/bar_cate_01/sentence_26.wav,আমি এখানে পড়াশোনা করছি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_27.wav,dataset/chunks/barishal/bar_cate_01/sentence_27.wav,আমি এই শহরটি পছন্দ করি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_28.wav,dataset/chunks/barishal/bar_cate_01/sentence_28.wav,আপনার পরিবার কেমন আছে?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_29.wav,dataset/chunks/barishal/bar_cate_01/sentence_29.wav,আপনার সাথে দেখা করতে পেরে আনন্দিত।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_30.wav,dataset/chunks/barishal/bar_cate_01/sentence_30.wav,আপনি কি এখানে দীর্ঘদিন থাকবেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_31.wav,dataset/chunks/barishal/bar_cate_01/sentence_31.wav,আমি কয়েকদিনের জন্য এসেছি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_32.wav,dataset/chunks/barishal/bar_cate_01/sentence_32.wav,আপনার সাথে যোগাযোগ রাখতে চাই।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_33.wav,dataset/chunks/barishal/bar_cate_01/sentence_33.wav,এটা আমার প্রথম সফর।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_34.wav,dataset/chunks/barishal/bar_cate_01/sentence_34.wav,আমি আপনার দেশ সম্পর্কে জানতে চাই।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_35.wav,dataset/chunks/barishal/bar_cate_01/sentence_35.wav,আপনি কোথায় কাজ করেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_36.wav,dataset/chunks/barishal/bar_cate_01/sentence_36.wav,আপনার ফোন নম্বর দিতে পারেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_37.wav,dataset/chunks/barishal/bar_cate_01/sentence_37.wav,আমি আপনার সাথে পরে কথা বলবো।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_38.wav,dataset/chunks/barishal/bar_cate_01/sentence_38.wav,আপনাকে দেখে ভালো লাগলো।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_39.wav,dataset/chunks/barishal/bar_cate_01/sentence_39.wav,আপনি কি এখানে একা এসেছেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_40.wav,dataset/chunks/barishal/bar_cate_01/sentence_40.wav,আমি আমার বন্ধুর সাথে এসেছি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_41.wav,dataset/chunks/barishal/bar_cate_01/sentence_41.wav,আপনার পেশা কী?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_42.wav,dataset/chunks/barishal/bar_cate_01/sentence_42.wav,আমি একজন শিক্ষক।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_43.wav,dataset/chunks/barishal/bar_cate_01/sentence_43.wav,আপনার সাথে কাজ করতে চাই।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_44.wav,dataset/chunks/barishal/bar_cate_01/sentence_44.wav,আজকে আবহাওয়া সুন্দর।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_45.wav,dataset/chunks/barishal/bar_cate_01/sentence_45.wav,আপনি কি এখানে থাকেন নাকি ভ্রমণে এসেছেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_46.wav,dataset/chunks/barishal/bar_cate_01/sentence_46.wav,আমি এই জায়গাটি প্রথমবার দেখছি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_47.wav,dataset/chunks/barishal/bar_cate_01/sentence_47.wav,আপনার সাথে পরিচয় হওয়া আমার জন্য সম্মানের।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_48.wav,dataset/chunks/barishal/bar_cate_01/sentence_48.wav,আপনি কোন ভাষায় কথা বলেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_49.wav,dataset/chunks/barishal/bar_cate_01/sentence_49.wav,আমি আপনার কাছ থেকে শিখতে চাই।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_50.wav,dataset/chunks/barishal/bar_cate_01/sentence_50.wav,আমি খুব আনন্দিত।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_51.wav,dataset/chunks/barishal/bar_cate_01/sentence_51.wav,আপনার দিনটি কেমন কাটছে?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_52.wav,dataset/chunks/barishal/bar_cate_01/sentence_52.wav,আমি একটু দেরি করেছি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_53.wav,dataset/chunks/barishal/bar_cate_01/sentence_53.wav,আপনাকে অপেক্ষা করানোর জন্য দুঃখিত।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_54.wav,dataset/chunks/barishal/bar_cate_01/sentence_54.wav,আপনার সাথে আবার দেখা হবে আশা করি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_55.wav,dataset/chunks/barishal/bar_cate_01/sentence_55.wav,আপনি কি কাছাকাছি থাকেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_56.wav,dataset/chunks/barishal/bar_cate_01/sentence_56.wav,আমি আপনার সাহায্যের জন্য কৃতজ্ঞ।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_57.wav,dataset/chunks/barishal/bar_cate_01/sentence_57.wav,আপনাকে শুভেচ্ছা জানাই।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_58.wav,dataset/chunks/barishal/bar_cate_01/sentence_58.wav,আপনার দিনটি শুভ হোক।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_59.wav,dataset/chunks/barishal/bar_cate_01/sentence_59.wav,আপনার সাথে কথা বলা আনন্দের ছিল।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_60.wav,dataset/chunks/barishal/bar_cate_01/sentence_60.wav,আমি আপনাকে সম্মান করি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_61.wav,dataset/chunks/barishal/bar_cate_01/sentence_61.wav,আমি এখানে কাজ শুরু করেছি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_62.wav,dataset/chunks/barishal/bar_cate_01/sentence_62.wav,আপনি কখন এসেছেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_63.wav,dataset/chunks/barishal/bar_cate_01/sentence_63.wav,আমি গতকাল এসেছি।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_64.wav,dataset/chunks/barishal/bar_cate_01/sentence_64.wav,আপনি কতদিন থাকবেন?,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_65.wav,dataset/chunks/barishal/bar_cate_01/sentence_65.wav,আমি এক সপ্তাহ থাকবো।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_66.wav,dataset/chunks/barishal/bar_cate_01/sentence_66.wav,আপনার সাথে বন্ধুত্ব করতে চাই।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_67.wav,dataset/chunks/barishal/bar_cate_01/sentence_67.wav,আপনি খুব ভদ্র মানুষ।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_68.wav,dataset/chunks/barishal/bar_cate_01/sentence_68.wav,আমি আপনাকে ধন্যবাদ জানাই।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_69.wav,dataset/chunks/barishal/bar_cate_01/sentence_69.wav,আপনার সাথে দেখা হওয়া সৌভাগ্যের।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_70.wav,dataset/chunks/barishal/bar_cate_01/sentence_70.wav,আমি আপনার সাথে আবার যোগাযোগ করবো।,barishal,cate_01,SPK_01,Male,bar_cate_01
+sentence_01.wav,dataset/chunks/barishal/bar_cate_02/sentence_01.wav,বাস স্ট্যান্ড কোথায়?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_02.wav,dataset/chunks/barishal/bar_cate_02/sentence_02.wav,এই রাস্তাটি কোথায় যায়?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_03.wav,dataset/chunks/barishal/bar_cate_02/sentence_03.wav,রেলওয়ে স্টেশন কত দূরে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_04.wav,dataset/chunks/barishal/bar_cate_02/sentence_04.wav,বিমানবন্দর যাওয়ার রাস্তা কোনটি?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_05.wav,dataset/chunks/barishal/bar_cate_02/sentence_05.wav,বাজারে যেতে কোন বাসে উঠবো?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_06.wav,dataset/chunks/barishal/bar_cate_02/sentence_06.wav,এই বাস কি ঢাকায় যাবে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_07.wav,dataset/chunks/barishal/bar_cate_02/sentence_07.wav,ভাড়া কত?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_08.wav,dataset/chunks/barishal/bar_cate_02/sentence_08.wav,রিকশার ভাড়া কত নেবেন?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_09.wav,dataset/chunks/barishal/bar_cate_02/sentence_09.wav,আমাকে হাসপাতালে নিয়ে চলুন।,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_10.wav,dataset/chunks/barishal/bar_cate_02/sentence_10.wav,এই ট্রেন কখন ছাড়বে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_11.wav,dataset/chunks/barishal/bar_cate_02/sentence_11.wav,ট্রেন কত নম্বর প্ল্যাটফর্মে আসবে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_12.wav,dataset/chunks/barishal/bar_cate_02/sentence_12.wav,এখানে কি টিকিট কাউন্টার আছে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_13.wav,dataset/chunks/barishal/bar_cate_02/sentence_13.wav,"এক টিকিট দিন, চট্টগ্রামের জন্য।",barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_14.wav,dataset/chunks/barishal/bar_cate_02/sentence_14.wav,বাস কখন ছাড়বে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_15.wav,dataset/chunks/barishal/bar_cate_02/sentence_15.wav,এই রাস্তায় কি যানজট হয়?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_16.wav,dataset/chunks/barishal/bar_cate_02/sentence_16.wav,সোজা গেলে কি ব্যাংক পাবো?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_17.wav,dataset/chunks/barishal/bar_cate_02/sentence_17.wav,ডানদিকে গেলে কি হাসপাতাল?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_18.wav,dataset/chunks/barishal/bar_cate_02/sentence_18.wav,বামদিকে মোড় নিন।,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_19.wav,dataset/chunks/barishal/bar_cate_02/sentence_19.wav,সোজা এগিয়ে যান।,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_20.wav,dataset/chunks/barishal/bar_cate_02/sentence_20.wav,এই জায়গাটা কত দূরে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_21.wav,dataset/chunks/barishal/bar_cate_02/sentence_21.wav,হাঁটলে কত সময় লাগবে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_22.wav,dataset/chunks/barishal/bar_cate_02/sentence_22.wav,গাড়ি পাওয়া যাবে কোথায়?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_23.wav,dataset/chunks/barishal/bar_cate_02/sentence_23.wav,এখানে কি উবার পাওয়া যায়?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_24.wav,dataset/chunks/barishal/bar_cate_02/sentence_24.wav,আপনি কি আমাকে পথ দেখাতে পারবেন?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_25.wav,dataset/chunks/barishal/bar_cate_02/sentence_25.wav,এই রাস্তা কি নিরাপদ?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_26.wav,dataset/chunks/barishal/bar_cate_02/sentence_26.wav,এখানে কি পার্কিং আছে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_27.wav,dataset/chunks/barishal/bar_cate_02/sentence_27.wav,গাড়ি রাখার জায়গা কোথায়?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_28.wav,dataset/chunks/barishal/bar_cate_02/sentence_28.wav,এই ট্রেন কি সময়মতো আসবে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_29.wav,dataset/chunks/barishal/bar_cate_02/sentence_29.wav,বাসে কি সিট খালি আছে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_30.wav,dataset/chunks/barishal/bar_cate_02/sentence_30.wav,এই বাস কি সরাসরি যাবে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_31.wav,dataset/chunks/barishal/bar_cate_02/sentence_31.wav,মাঝপথে কি নামতে পারবো?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_32.wav,dataset/chunks/barishal/bar_cate_02/sentence_32.wav,আমাকে পরের স্টপে নামিয়ে দিন।,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_33.wav,dataset/chunks/barishal/bar_cate_02/sentence_33.wav,এই রাস্তা কি শর্টকাট?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_34.wav,dataset/chunks/barishal/bar_cate_02/sentence_34.wav,এখানে কি ট্যাক্সি স্ট্যান্ড আছে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_35.wav,dataset/chunks/barishal/bar_cate_02/sentence_35.wav,গন্তব্যে পৌঁছাতে কত সময় লাগবে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_36.wav,dataset/chunks/barishal/bar_cate_02/sentence_36.wav,রিকশা কি পাওয়া যাবে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_37.wav,dataset/chunks/barishal/bar_cate_02/sentence_37.wav,ট্রেন কি দেরি করছে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_38.wav,dataset/chunks/barishal/bar_cate_02/sentence_38.wav,এই বাস কোথায় থামে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_39.wav,dataset/chunks/barishal/bar_cate_02/sentence_39.wav,আপনারা কি রাতের বাস চালান?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_40.wav,dataset/chunks/barishal/bar_cate_02/sentence_40.wav,শেষ বাস কখন?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_41.wav,dataset/chunks/barishal/bar_cate_02/sentence_41.wav,এই রাস্তা কি বন্ধ?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_42.wav,dataset/chunks/barishal/bar_cate_02/sentence_42.wav,বিকল্প রাস্তা কোনটি?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_43.wav,dataset/chunks/barishal/bar_cate_02/sentence_43.wav,এখানে কি সিগন্যাল আছে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_44.wav,dataset/chunks/barishal/bar_cate_02/sentence_44.wav,রাস্তা কি মেরামত হচ্ছে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_45.wav,dataset/chunks/barishal/bar_cate_02/sentence_45.wav,আমাকে বিশ্ববিদ্যালয়ে যেতে হবে।,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_46.wav,dataset/chunks/barishal/bar_cate_02/sentence_46.wav,বিশ্ববিদ্যালয়ের বাস কোথা থেকে ছাড়ে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_47.wav,dataset/chunks/barishal/bar_cate_02/sentence_47.wav,টিকিটের দাম কত?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_48.wav,dataset/chunks/barishal/bar_cate_02/sentence_48.wav,এখানে কি মেট্রো স্টেশন আছে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_49.wav,dataset/chunks/barishal/bar_cate_02/sentence_49.wav,মেট্রো কখন ছাড়ে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_50.wav,dataset/chunks/barishal/bar_cate_02/sentence_50.wav,এই রাস্তা কি প্রধান সড়ক?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_51.wav,dataset/chunks/barishal/bar_cate_02/sentence_51.wav,আমাকে থানায় যেতে হবে।,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_52.wav,dataset/chunks/barishal/bar_cate_02/sentence_52.wav,পুলিশ স্টেশন কোথায়?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_53.wav,dataset/chunks/barishal/bar_cate_02/sentence_53.wav,এই এলাকায় কি বাস চলে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_54.wav,dataset/chunks/barishal/bar_cate_02/sentence_54.wav,এখানে কি সিএনজি পাওয়া যায়?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_55.wav,dataset/chunks/barishal/bar_cate_02/sentence_55.wav,আমাকে দ্রুত পৌঁছাতে হবে।,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_56.wav,dataset/chunks/barishal/bar_cate_02/sentence_56.wav,এখানে কি ফেরি ঘাট আছে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_57.wav,dataset/chunks/barishal/bar_cate_02/sentence_57.wav,ফেরি কখন ছাড়বে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_58.wav,dataset/chunks/barishal/bar_cate_02/sentence_58.wav,নদী পার হতে কত সময় লাগবে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_59.wav,dataset/chunks/barishal/bar_cate_02/sentence_59.wav,এই ট্রেন কি এক্সপ্রেস?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_60.wav,dataset/chunks/barishal/bar_cate_02/sentence_60.wav,এখানে কি বাস বদলাতে হবে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_61.wav,dataset/chunks/barishal/bar_cate_02/sentence_61.wav,এই বাস কি এয়ারকন্ডিশন্ড?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_62.wav,dataset/chunks/barishal/bar_cate_02/sentence_62.wav,রাস্তায় কি টোল দিতে হয়?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_63.wav,dataset/chunks/barishal/bar_cate_02/sentence_63.wav,টোল কত?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_64.wav,dataset/chunks/barishal/bar_cate_02/sentence_64.wav,এখানে কি রাস্তা নিরাপদ রাতে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_65.wav,dataset/chunks/barishal/bar_cate_02/sentence_65.wav,আমি পথ হারিয়ে ফেলেছি।,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_66.wav,dataset/chunks/barishal/bar_cate_02/sentence_66.wav,আমাকে মানচিত্র দেখাতে পারবেন?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_67.wav,dataset/chunks/barishal/bar_cate_02/sentence_67.wav,কাছাকাছি কোন হোটেল আছে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_68.wav,dataset/chunks/barishal/bar_cate_02/sentence_68.wav,এই এলাকা কি শহরের ভেতরে?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_69.wav,dataset/chunks/barishal/bar_cate_02/sentence_69.wav,এখানে কি ট্রাফিক বেশি?,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_70.wav,dataset/chunks/barishal/bar_cate_02/sentence_70.wav,আমাকে সঠিক দিকটি বলুন।,barishal,cate_02,SPK_01,Male,bar_cate_02
+sentence_01.wav,dataset/chunks/chittagong/chi_cate_01/sentence_01.wav,আপনি কোথা থেকে এসেছেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_02.wav,dataset/chunks/chittagong/chi_cate_01/sentence_02.wav,আপনার নাম কী?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_03.wav,dataset/chunks/chittagong/chi_cate_01/sentence_03.wav,আমার নাম জন।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_04.wav,dataset/chunks/chittagong/chi_cate_01/sentence_04.wav,আপনার সাথে পরিচিত হয়ে ভালো লাগলো।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_05.wav,dataset/chunks/chittagong/chi_cate_01/sentence_05.wav,আমি এই এলাকায় নতুন।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_06.wav,dataset/chunks/chittagong/chi_cate_01/sentence_06.wav,আপনি কি এখানে থাকেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_07.wav,dataset/chunks/chittagong/chi_cate_01/sentence_07.wav,আপনি কি প্রথমবার এখানে এসেছেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_08.wav,dataset/chunks/chittagong/chi_cate_01/sentence_08.wav,আমি বাংলাদেশে ভ্রমণে এসেছি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_09.wav,dataset/chunks/chittagong/chi_cate_01/sentence_09.wav,আপনি কী করেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_10.wav,dataset/chunks/chittagong/chi_cate_01/sentence_10.wav,আমি একজন ছাত্র।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_11.wav,dataset/chunks/chittagong/chi_cate_01/sentence_11.wav,আপনার বাড়ি কোথায়?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_12.wav,dataset/chunks/chittagong/chi_cate_01/sentence_12.wav,আপনি কেমন আছেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_13.wav,dataset/chunks/chittagong/chi_cate_01/sentence_13.wav,আমি ভালো আছি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_14.wav,dataset/chunks/chittagong/chi_cate_01/sentence_14.wav,অনেক দিন পর দেখা হলো।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_15.wav,dataset/chunks/chittagong/chi_cate_01/sentence_15.wav,আপনাকে আবার দেখে ভালো লাগছে।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_16.wav,dataset/chunks/chittagong/chi_cate_01/sentence_16.wav,আপনি কি আমাকে সাহায্য করতে পারবেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_17.wav,dataset/chunks/chittagong/chi_cate_01/sentence_17.wav,আপনার সাথে কথা বলে ভালো লাগছে।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_18.wav,dataset/chunks/chittagong/chi_cate_01/sentence_18.wav,আমি এখানে কাজের জন্য এসেছি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_19.wav,dataset/chunks/chittagong/chi_cate_01/sentence_19.wav,আপনি কোন দেশ থেকে এসেছেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_20.wav,dataset/chunks/chittagong/chi_cate_01/sentence_20.wav,আমি ইংরেজি বলতে পারি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_21.wav,dataset/chunks/chittagong/chi_cate_01/sentence_21.wav,আপনি কি বাংলা বলতে পারেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_22.wav,dataset/chunks/chittagong/chi_cate_01/sentence_22.wav,আমি বাংলা শিখছি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_23.wav,dataset/chunks/chittagong/chi_cate_01/sentence_23.wav,ধন্যবাদ আপনাকে।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_24.wav,dataset/chunks/chittagong/chi_cate_01/sentence_24.wav,আপনাকে স্বাগতম।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_25.wav,dataset/chunks/chittagong/chi_cate_01/sentence_25.wav,আপনার বয়স কত?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_26.wav,dataset/chunks/chittagong/chi_cate_01/sentence_26.wav,আমি এখানে পড়াশোনা করছি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_27.wav,dataset/chunks/chittagong/chi_cate_01/sentence_27.wav,আমি এই শহরটি পছন্দ করি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_28.wav,dataset/chunks/chittagong/chi_cate_01/sentence_28.wav,আপনার পরিবার কেমন আছে?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_29.wav,dataset/chunks/chittagong/chi_cate_01/sentence_29.wav,আপনার সাথে দেখা করতে পেরে আনন্দিত।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_30.wav,dataset/chunks/chittagong/chi_cate_01/sentence_30.wav,আপনি কি এখানে দীর্ঘদিন থাকবেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_31.wav,dataset/chunks/chittagong/chi_cate_01/sentence_31.wav,আমি কয়েকদিনের জন্য এসেছি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_32.wav,dataset/chunks/chittagong/chi_cate_01/sentence_32.wav,আপনার সাথে যোগাযোগ রাখতে চাই।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_33.wav,dataset/chunks/chittagong/chi_cate_01/sentence_33.wav,এটা আমার প্রথম সফর।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_34.wav,dataset/chunks/chittagong/chi_cate_01/sentence_34.wav,আমি আপনার দেশ সম্পর্কে জানতে চাই।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_35.wav,dataset/chunks/chittagong/chi_cate_01/sentence_35.wav,আপনি কোথায় কাজ করেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_36.wav,dataset/chunks/chittagong/chi_cate_01/sentence_36.wav,আপনার ফোন নম্বর দিতে পারেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_37.wav,dataset/chunks/chittagong/chi_cate_01/sentence_37.wav,আমি আপনার সাথে পরে কথা বলবো।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_38.wav,dataset/chunks/chittagong/chi_cate_01/sentence_38.wav,আপনাকে দেখে ভালো লাগলো।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_39.wav,dataset/chunks/chittagong/chi_cate_01/sentence_39.wav,আপনি কি এখানে একা এসেছেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_40.wav,dataset/chunks/chittagong/chi_cate_01/sentence_40.wav,আমি আমার বন্ধুর সাথে এসেছি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_41.wav,dataset/chunks/chittagong/chi_cate_01/sentence_41.wav,আপনার পেশা কী?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_42.wav,dataset/chunks/chittagong/chi_cate_01/sentence_42.wav,আমি একজন শিক্ষক।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_43.wav,dataset/chunks/chittagong/chi_cate_01/sentence_43.wav,আপনার সাথে কাজ করতে চাই।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_44.wav,dataset/chunks/chittagong/chi_cate_01/sentence_44.wav,আজকে আবহাওয়া সুন্দর।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_45.wav,dataset/chunks/chittagong/chi_cate_01/sentence_45.wav,আপনি কি এখানে থাকেন নাকি ভ্রমণে এসেছেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_46.wav,dataset/chunks/chittagong/chi_cate_01/sentence_46.wav,আমি এই জায়গাটি প্রথমবার দেখছি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_47.wav,dataset/chunks/chittagong/chi_cate_01/sentence_47.wav,আপনার সাথে পরিচয় হওয়া আমার জন্য সম্মানের।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_48.wav,dataset/chunks/chittagong/chi_cate_01/sentence_48.wav,আপনি কোন ভাষায় কথা বলেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_49.wav,dataset/chunks/chittagong/chi_cate_01/sentence_49.wav,আমি আপনার কাছ থেকে শিখতে চাই।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_50.wav,dataset/chunks/chittagong/chi_cate_01/sentence_50.wav,আমি খুব আনন্দিত।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_51.wav,dataset/chunks/chittagong/chi_cate_01/sentence_51.wav,আপনার দিনটি কেমন কাটছে?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_52.wav,dataset/chunks/chittagong/chi_cate_01/sentence_52.wav,আমি একটু দেরি করেছি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_53.wav,dataset/chunks/chittagong/chi_cate_01/sentence_53.wav,আপনাকে অপেক্ষা করানোর জন্য দুঃখিত।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_54.wav,dataset/chunks/chittagong/chi_cate_01/sentence_54.wav,আপনার সাথে আবার দেখা হবে আশা করি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_55.wav,dataset/chunks/chittagong/chi_cate_01/sentence_55.wav,আপনি কি কাছাকাছি থাকেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_56.wav,dataset/chunks/chittagong/chi_cate_01/sentence_56.wav,আমি আপনার সাহায্যের জন্য কৃতজ্ঞ।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_57.wav,dataset/chunks/chittagong/chi_cate_01/sentence_57.wav,আপনাকে শুভেচ্ছা জানাই।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_58.wav,dataset/chunks/chittagong/chi_cate_01/sentence_58.wav,আপনার দিনটি শুভ হোক।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_59.wav,dataset/chunks/chittagong/chi_cate_01/sentence_59.wav,আপনার সাথে কথা বলা আনন্দের ছিল।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_60.wav,dataset/chunks/chittagong/chi_cate_01/sentence_60.wav,আমি আপনাকে সম্মান করি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_61.wav,dataset/chunks/chittagong/chi_cate_01/sentence_61.wav,আমি এখানে কাজ শুরু করেছি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_62.wav,dataset/chunks/chittagong/chi_cate_01/sentence_62.wav,আপনি কখন এসেছেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_63.wav,dataset/chunks/chittagong/chi_cate_01/sentence_63.wav,আমি গতকাল এসেছি।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_64.wav,dataset/chunks/chittagong/chi_cate_01/sentence_64.wav,আপনি কতদিন থাকবেন?,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_65.wav,dataset/chunks/chittagong/chi_cate_01/sentence_65.wav,আমি এক সপ্তাহ থাকবো।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_66.wav,dataset/chunks/chittagong/chi_cate_01/sentence_66.wav,আপনার সাথে বন্ধুত্ব করতে চাই।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_67.wav,dataset/chunks/chittagong/chi_cate_01/sentence_67.wav,আপনি খুব ভদ্র মানুষ।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_68.wav,dataset/chunks/chittagong/chi_cate_01/sentence_68.wav,আমি আপনাকে ধন্যবাদ জানাই।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_69.wav,dataset/chunks/chittagong/chi_cate_01/sentence_69.wav,আপনার সাথে দেখা হওয়া সৌভাগ্যের।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_70.wav,dataset/chunks/chittagong/chi_cate_01/sentence_70.wav,আমি আপনার সাথে আবার যোগাযোগ করবো।,chittagong,cate_01,SPK_33,Male,chi_cate_01
+sentence_01.wav,dataset/chunks/chittagong/chi_cate_02/sentence_01.wav,বাস স্ট্যান্ড কোথায়?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_02.wav,dataset/chunks/chittagong/chi_cate_02/sentence_02.wav,এই রাস্তাটি কোথায় যায়?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_03.wav,dataset/chunks/chittagong/chi_cate_02/sentence_03.wav,রেলওয়ে স্টেশন কত দূরে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_04.wav,dataset/chunks/chittagong/chi_cate_02/sentence_04.wav,বিমানবন্দর যাওয়ার রাস্তা কোনটি?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_05.wav,dataset/chunks/chittagong/chi_cate_02/sentence_05.wav,বাজারে যেতে কোন বাসে উঠবো?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_06.wav,dataset/chunks/chittagong/chi_cate_02/sentence_06.wav,এই বাস কি ঢাকায় যাবে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_07.wav,dataset/chunks/chittagong/chi_cate_02/sentence_07.wav,ভাড়া কত?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_08.wav,dataset/chunks/chittagong/chi_cate_02/sentence_08.wav,রিকশার ভাড়া কত নেবেন?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_09.wav,dataset/chunks/chittagong/chi_cate_02/sentence_09.wav,আমাকে হাসপাতালে নিয়ে চলুন।,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_10.wav,dataset/chunks/chittagong/chi_cate_02/sentence_10.wav,এই ট্রেন কখন ছাড়বে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_11.wav,dataset/chunks/chittagong/chi_cate_02/sentence_11.wav,ট্রেন কত নম্বর প্ল্যাটফর্মে আসবে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_12.wav,dataset/chunks/chittagong/chi_cate_02/sentence_12.wav,এখানে কি টিকিট কাউন্টার আছে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_13.wav,dataset/chunks/chittagong/chi_cate_02/sentence_13.wav,"এক টিকিট দিন, চট্টগ্রামের জন্য।",chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_14.wav,dataset/chunks/chittagong/chi_cate_02/sentence_14.wav,বাস কখন ছাড়বে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_15.wav,dataset/chunks/chittagong/chi_cate_02/sentence_15.wav,এই রাস্তায় কি যানজট হয়?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_16.wav,dataset/chunks/chittagong/chi_cate_02/sentence_16.wav,সোজা গেলে কি ব্যাংক পাবো?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_17.wav,dataset/chunks/chittagong/chi_cate_02/sentence_17.wav,ডানদিকে গেলে কি হাসপাতাল?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_18.wav,dataset/chunks/chittagong/chi_cate_02/sentence_18.wav,বামদিকে মোড় নিন।,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_19.wav,dataset/chunks/chittagong/chi_cate_02/sentence_19.wav,সোজা এগিয়ে যান।,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_20.wav,dataset/chunks/chittagong/chi_cate_02/sentence_20.wav,এই জায়গাটা কত দূরে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_21.wav,dataset/chunks/chittagong/chi_cate_02/sentence_21.wav,হাঁটলে কত সময় লাগবে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_22.wav,dataset/chunks/chittagong/chi_cate_02/sentence_22.wav,গাড়ি পাওয়া যাবে কোথায়?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_23.wav,dataset/chunks/chittagong/chi_cate_02/sentence_23.wav,এখানে কি উবার পাওয়া যায়?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_24.wav,dataset/chunks/chittagong/chi_cate_02/sentence_24.wav,আপনি কি আমাকে পথ দেখাতে পারবেন?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_25.wav,dataset/chunks/chittagong/chi_cate_02/sentence_25.wav,এই রাস্তা কি নিরাপদ?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_26.wav,dataset/chunks/chittagong/chi_cate_02/sentence_26.wav,এখানে কি পার্কিং আছে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_27.wav,dataset/chunks/chittagong/chi_cate_02/sentence_27.wav,গাড়ি রাখার জায়গা কোথায়?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_28.wav,dataset/chunks/chittagong/chi_cate_02/sentence_28.wav,এই ট্রেন কি সময়মতো আসবে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_29.wav,dataset/chunks/chittagong/chi_cate_02/sentence_29.wav,বাসে কি সিট খালি আছে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_30.wav,dataset/chunks/chittagong/chi_cate_02/sentence_30.wav,এই বাস কি সরাসরি যাবে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_31.wav,dataset/chunks/chittagong/chi_cate_02/sentence_31.wav,মাঝপথে কি নামতে পারবো?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_32.wav,dataset/chunks/chittagong/chi_cate_02/sentence_32.wav,আমাকে পরের স্টপে নামিয়ে দিন।,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_33.wav,dataset/chunks/chittagong/chi_cate_02/sentence_33.wav,এই রাস্তা কি শর্টকাট?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_34.wav,dataset/chunks/chittagong/chi_cate_02/sentence_34.wav,এখানে কি ট্যাক্সি স্ট্যান্ড আছে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_35.wav,dataset/chunks/chittagong/chi_cate_02/sentence_35.wav,গন্তব্যে পৌঁছাতে কত সময় লাগবে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_36.wav,dataset/chunks/chittagong/chi_cate_02/sentence_36.wav,রিকশা কি পাওয়া যাবে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_37.wav,dataset/chunks/chittagong/chi_cate_02/sentence_37.wav,ট্রেন কি দেরি করছে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_38.wav,dataset/chunks/chittagong/chi_cate_02/sentence_38.wav,এই বাস কোথায় থামে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_39.wav,dataset/chunks/chittagong/chi_cate_02/sentence_39.wav,আপনারা কি রাতের বাস চালান?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_40.wav,dataset/chunks/chittagong/chi_cate_02/sentence_40.wav,শেষ বাস কখন?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_41.wav,dataset/chunks/chittagong/chi_cate_02/sentence_41.wav,এই রাস্তা কি বন্ধ?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_42.wav,dataset/chunks/chittagong/chi_cate_02/sentence_42.wav,বিকল্প রাস্তা কোনটি?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_43.wav,dataset/chunks/chittagong/chi_cate_02/sentence_43.wav,এখানে কি সিগন্যাল আছে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_44.wav,dataset/chunks/chittagong/chi_cate_02/sentence_44.wav,রাস্তা কি মেরামত হচ্ছে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_45.wav,dataset/chunks/chittagong/chi_cate_02/sentence_45.wav,আমাকে বিশ্ববিদ্যালয়ে যেতে হবে।,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_46.wav,dataset/chunks/chittagong/chi_cate_02/sentence_46.wav,বিশ্ববিদ্যালয়ের বাস কোথা থেকে ছাড়ে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_47.wav,dataset/chunks/chittagong/chi_cate_02/sentence_47.wav,টিকিটের দাম কত?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_48.wav,dataset/chunks/chittagong/chi_cate_02/sentence_48.wav,এখানে কি মেট্রো স্টেশন আছে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_49.wav,dataset/chunks/chittagong/chi_cate_02/sentence_49.wav,মেট্রো কখন ছাড়ে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_50.wav,dataset/chunks/chittagong/chi_cate_02/sentence_50.wav,এই রাস্তা কি প্রধান সড়ক?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_51.wav,dataset/chunks/chittagong/chi_cate_02/sentence_51.wav,আমাকে থানায় যেতে হবে।,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_52.wav,dataset/chunks/chittagong/chi_cate_02/sentence_52.wav,পুলিশ স্টেশন কোথায়?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_53.wav,dataset/chunks/chittagong/chi_cate_02/sentence_53.wav,এই এলাকায় কি বাস চলে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_54.wav,dataset/chunks/chittagong/chi_cate_02/sentence_54.wav,এখানে কি সিএনজি পাওয়া যায়?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_55.wav,dataset/chunks/chittagong/chi_cate_02/sentence_55.wav,আমাকে দ্রুত পৌঁছাতে হবে।,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_56.wav,dataset/chunks/chittagong/chi_cate_02/sentence_56.wav,এখানে কি ফেরি ঘাট আছে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_57.wav,dataset/chunks/chittagong/chi_cate_02/sentence_57.wav,ফেরি কখন ছাড়বে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_58.wav,dataset/chunks/chittagong/chi_cate_02/sentence_58.wav,নদী পার হতে কত সময় লাগবে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_59.wav,dataset/chunks/chittagong/chi_cate_02/sentence_59.wav,এই ট্রেন কি এক্সপ্রেস?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_60.wav,dataset/chunks/chittagong/chi_cate_02/sentence_60.wav,এখানে কি বাস বদলাতে হবে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_61.wav,dataset/chunks/chittagong/chi_cate_02/sentence_61.wav,এই বাস কি এয়ারকন্ডিশন্ড?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_62.wav,dataset/chunks/chittagong/chi_cate_02/sentence_62.wav,রাস্তায় কি টোল দিতে হয়?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_63.wav,dataset/chunks/chittagong/chi_cate_02/sentence_63.wav,টোল কত?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_64.wav,dataset/chunks/chittagong/chi_cate_02/sentence_64.wav,এখানে কি রাস্তা নিরাপদ রাতে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_65.wav,dataset/chunks/chittagong/chi_cate_02/sentence_65.wav,আমি পথ হারিয়ে ফেলেছি।,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_66.wav,dataset/chunks/chittagong/chi_cate_02/sentence_66.wav,আমাকে মানচিত্র দেখাতে পারবেন?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_67.wav,dataset/chunks/chittagong/chi_cate_02/sentence_67.wav,কাছাকাছি কোন হোটেল আছে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_68.wav,dataset/chunks/chittagong/chi_cate_02/sentence_68.wav,এই এলাকা কি শহরের ভেতরে?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_69.wav,dataset/chunks/chittagong/chi_cate_02/sentence_69.wav,এখানে কি ট্রাফিক বেশি?,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_70.wav,dataset/chunks/chittagong/chi_cate_02/sentence_70.wav,আমাকে সঠিক দিকটি বলুন।,chittagong,cate_02,SPK_34,Female,chi_cate_02
+sentence_01.wav,dataset/chunks/noakhali/noa_cate _01/sentence_01.wav,বাস স্ট্যান্ড কোথায়?,noakhali,,,,noa_cate_01
+sentence_02.wav,dataset/chunks/noakhali/noa_cate _01/sentence_02.wav,এই রাস্তাটি কোথায় যায়?,noakhali,,,,noa_cate_01
+sentence_03.wav,dataset/chunks/noakhali/noa_cate _01/sentence_03.wav,রেলওয়ে স্টেশন কত দূরে?,noakhali,,,,noa_cate_01
+sentence_04.wav,dataset/chunks/noakhali/noa_cate _01/sentence_04.wav,বিমানবন্দর যাওয়ার রাস্তা কোনটি?,noakhali,,,,noa_cate_01
+sentence_05.wav,dataset/chunks/noakhali/noa_cate _01/sentence_05.wav,বাজারে যেতে কোন বাসে উঠবো?,noakhali,,,,noa_cate_01
+sentence_06.wav,dataset/chunks/noakhali/noa_cate _01/sentence_06.wav,এই বাস কি ঢাকায় যাবে?,noakhali,,,,noa_cate_01
+sentence_07.wav,dataset/chunks/noakhali/noa_cate _01/sentence_07.wav,ভাড়া কত?,noakhali,,,,noa_cate_01
+sentence_08.wav,dataset/chunks/noakhali/noa_cate _01/sentence_08.wav,রিকশার ভাড়া কত নেবেন?,noakhali,,,,noa_cate_01
+sentence_09.wav,dataset/chunks/noakhali/noa_cate _01/sentence_09.wav,আমাকে হাসপাতালে নিয়ে চলুন।,noakhali,,,,noa_cate_01
+sentence_10.wav,dataset/chunks/noakhali/noa_cate _01/sentence_10.wav,এই ট্রেন কখন ছাড়বে?,noakhali,,,,noa_cate_01
+sentence_11.wav,dataset/chunks/noakhali/noa_cate _01/sentence_11.wav,ট্রেন কত নম্বর প্ল্যাটফর্মে আসবে?,noakhali,,,,noa_cate_01
+sentence_12.wav,dataset/chunks/noakhali/noa_cate _01/sentence_12.wav,এখানে কি টিকিট কাউন্টার আছে?,noakhali,,,,noa_cate_01
+sentence_13.wav,dataset/chunks/noakhali/noa_cate _01/sentence_13.wav,"এক টিকিট দিন, চট্টগ্রামের জন্য।",noakhali,,,,noa_cate_01
+sentence_14.wav,dataset/chunks/noakhali/noa_cate _01/sentence_14.wav,বাস কখন ছাড়বে?,noakhali,,,,noa_cate_01
+sentence_15.wav,dataset/chunks/noakhali/noa_cate _01/sentence_15.wav,এই রাস্তায় কি যানজট হয়?,noakhali,,,,noa_cate_01
+sentence_16.wav,dataset/chunks/noakhali/noa_cate _01/sentence_16.wav,সোজা গেলে কি ব্যাংক পাবো?,noakhali,,,,noa_cate_01
+sentence_17.wav,dataset/chunks/noakhali/noa_cate _01/sentence_17.wav,ডানদিকে গেলে কি হাসপাতাল?,noakhali,,,,noa_cate_01
+sentence_18.wav,dataset/chunks/noakhali/noa_cate _01/sentence_18.wav,বামদিকে মোড় নিন।,noakhali,,,,noa_cate_01
+sentence_19.wav,dataset/chunks/noakhali/noa_cate _01/sentence_19.wav,সোজা এগিয়ে যান।,noakhali,,,,noa_cate_01
+sentence_20.wav,dataset/chunks/noakhali/noa_cate _01/sentence_20.wav,এই জায়গাটা কত দূরে?,noakhali,,,,noa_cate_01
+sentence_21.wav,dataset/chunks/noakhali/noa_cate _01/sentence_21.wav,হাঁটলে কত সময় লাগবে?,noakhali,,,,noa_cate_01
+sentence_22.wav,dataset/chunks/noakhali/noa_cate _01/sentence_22.wav,গাড়ি পাওয়া যাবে কোথায়?,noakhali,,,,noa_cate_01
+sentence_23.wav,dataset/chunks/noakhali/noa_cate _01/sentence_23.wav,এখানে কি উবার পাওয়া যায়?,noakhali,,,,noa_cate_01
+sentence_24.wav,dataset/chunks/noakhali/noa_cate _01/sentence_24.wav,আপনি কি আমাকে পথ দেখাতে পারবেন?,noakhali,,,,noa_cate_01
+sentence_25.wav,dataset/chunks/noakhali/noa_cate _01/sentence_25.wav,এই রাস্তা কি নিরাপদ?,noakhali,,,,noa_cate_01
+sentence_26.wav,dataset/chunks/noakhali/noa_cate _01/sentence_26.wav,এখানে কি পার্কিং আছে?,noakhali,,,,noa_cate_01
+sentence_27.wav,dataset/chunks/noakhali/noa_cate _01/sentence_27.wav,গাড়ি রাখার জায়গা কোথায়?,noakhali,,,,noa_cate_01
+sentence_28.wav,dataset/chunks/noakhali/noa_cate _01/sentence_28.wav,এই ট্রেন কি সময়মতো আসবে?,noakhali,,,,noa_cate_01
+sentence_29.wav,dataset/chunks/noakhali/noa_cate _01/sentence_29.wav,বাসে কি সিট খালি আছে?,noakhali,,,,noa_cate_01
+sentence_30.wav,dataset/chunks/noakhali/noa_cate _01/sentence_30.wav,এই বাস কি সরাসরি যাবে?,noakhali,,,,noa_cate_01
+sentence_31.wav,dataset/chunks/noakhali/noa_cate _01/sentence_31.wav,মাঝপথে কি নামতে পারবো?,noakhali,,,,noa_cate_01
+sentence_32.wav,dataset/chunks/noakhali/noa_cate _01/sentence_32.wav,আমাকে পরের স্টপে নামিয়ে দিন।,noakhali,,,,noa_cate_01
+sentence_33.wav,dataset/chunks/noakhali/noa_cate _01/sentence_33.wav,এই রাস্তা কি শর্টকাট?,noakhali,,,,noa_cate_01
+sentence_34.wav,dataset/chunks/noakhali/noa_cate _01/sentence_34.wav,এখানে কি ট্যাক্সি স্ট্যান্ড আছে?,noakhali,,,,noa_cate_01
+sentence_35.wav,dataset/chunks/noakhali/noa_cate _01/sentence_35.wav,গন্তব্যে পৌঁছাতে কত সময় লাগবে?,noakhali,,,,noa_cate_01
+sentence_36.wav,dataset/chunks/noakhali/noa_cate _01/sentence_36.wav,রিকশা কি পাওয়া যাবে?,noakhali,,,,noa_cate_01
+sentence_37.wav,dataset/chunks/noakhali/noa_cate _01/sentence_37.wav,ট্রেন কি দেরি করছে?,noakhali,,,,noa_cate_01
+sentence_38.wav,dataset/chunks/noakhali/noa_cate _01/sentence_38.wav,এই বাস কোথায় থামে?,noakhali,,,,noa_cate_01
+sentence_39.wav,dataset/chunks/noakhali/noa_cate _01/sentence_39.wav,আপনারা কি রাতের বাস চালান?,noakhali,,,,noa_cate_01
+sentence_40.wav,dataset/chunks/noakhali/noa_cate _01/sentence_40.wav,শেষ বাস কখন?,noakhali,,,,noa_cate_01
+sentence_41.wav,dataset/chunks/noakhali/noa_cate _01/sentence_41.wav,এই রাস্তা কি বন্ধ?,noakhali,,,,noa_cate_01
+sentence_42.wav,dataset/chunks/noakhali/noa_cate _01/sentence_42.wav,বিকল্প রাস্তা কোনটি?,noakhali,,,,noa_cate_01
+sentence_43.wav,dataset/chunks/noakhali/noa_cate _01/sentence_43.wav,এখানে কি সিগন্যাল আছে?,noakhali,,,,noa_cate_01
+sentence_44.wav,dataset/chunks/noakhali/noa_cate _01/sentence_44.wav,রাস্তা কি মেরামত হচ্ছে?,noakhali,,,,noa_cate_01
+sentence_45.wav,dataset/chunks/noakhali/noa_cate _01/sentence_45.wav,আমাকে বিশ্ববিদ্যালয়ে যেতে হবে।,noakhali,,,,noa_cate_01
+sentence_46.wav,dataset/chunks/noakhali/noa_cate _01/sentence_46.wav,বিশ্ববিদ্যালয়ের বাস কোথা থেকে ছাড়ে?,noakhali,,,,noa_cate_01
+sentence_47.wav,dataset/chunks/noakhali/noa_cate _01/sentence_47.wav,টিকিটের দাম কত?,noakhali,,,,noa_cate_01
+sentence_48.wav,dataset/chunks/noakhali/noa_cate _01/sentence_48.wav,এখানে কি মেট্রো স্টেশন আছে?,noakhali,,,,noa_cate_01
+sentence_49.wav,dataset/chunks/noakhali/noa_cate _01/sentence_49.wav,মেট্রো কখন ছাড়ে?,noakhali,,,,noa_cate_01
+sentence_50.wav,dataset/chunks/noakhali/noa_cate _01/sentence_50.wav,এই রাস্তা কি প্রধান সড়ক?,noakhali,,,,noa_cate_01
+sentence_51.wav,dataset/chunks/noakhali/noa_cate _01/sentence_51.wav,আমাকে থানায় যেতে হবে।,noakhali,,,,noa_cate_01
+sentence_52.wav,dataset/chunks/noakhali/noa_cate _01/sentence_52.wav,পুলিশ স্টেশন কোথায়?,noakhali,,,,noa_cate_01
+sentence_53.wav,dataset/chunks/noakhali/noa_cate _01/sentence_53.wav,এই এলাকায় কি বাস চলে?,noakhali,,,,noa_cate_01
+sentence_54.wav,dataset/chunks/noakhali/noa_cate _01/sentence_54.wav,এখানে কি সিএনজি পাওয়া যায়?,noakhali,,,,noa_cate_01
+sentence_55.wav,dataset/chunks/noakhali/noa_cate _01/sentence_55.wav,আমাকে দ্রুত পৌঁছাতে হবে।,noakhali,,,,noa_cate_01
+sentence_56.wav,dataset/chunks/noakhali/noa_cate _01/sentence_56.wav,এখানে কি ফেরি ঘাট আছে?,noakhali,,,,noa_cate_01
+sentence_57.wav,dataset/chunks/noakhali/noa_cate _01/sentence_57.wav,ফেরি কখন ছাড়বে?,noakhali,,,,noa_cate_01
+sentence_58.wav,dataset/chunks/noakhali/noa_cate _01/sentence_58.wav,নদী পার হতে কত সময় লাগবে?,noakhali,,,,noa_cate_01
+sentence_59.wav,dataset/chunks/noakhali/noa_cate _01/sentence_59.wav,এই ট্রেন কি এক্সপ্রেস?,noakhali,,,,noa_cate_01
+sentence_60.wav,dataset/chunks/noakhali/noa_cate _01/sentence_60.wav,এখানে কি বাস বদলাতে হবে?,noakhali,,,,noa_cate_01
+sentence_61.wav,dataset/chunks/noakhali/noa_cate _01/sentence_61.wav,এই বাস কি এয়ারকন্ডিশন্ড?,noakhali,,,,noa_cate_01
+sentence_62.wav,dataset/chunks/noakhali/noa_cate _01/sentence_62.wav,রাস্তায় কি টোল দিতে হয়?,noakhali,,,,noa_cate_01
+sentence_63.wav,dataset/chunks/noakhali/noa_cate _01/sentence_63.wav,টোল কত?,noakhali,,,,noa_cate_01
+sentence_64.wav,dataset/chunks/noakhali/noa_cate _01/sentence_64.wav,এখানে কি রাস্তা নিরাপদ রাতে?,noakhali,,,,noa_cate_01
+sentence_65.wav,dataset/chunks/noakhali/noa_cate _01/sentence_65.wav,আমি পথ হারিয়ে ফেলেছি।,noakhali,,,,noa_cate_01
+sentence_66.wav,dataset/chunks/noakhali/noa_cate _01/sentence_66.wav,আমাকে মানচিত্র দেখাতে পারবেন?,noakhali,,,,noa_cate_01
+sentence_67.wav,dataset/chunks/noakhali/noa_cate _01/sentence_67.wav,কাছাকাছি কোন হোটেল আছে?,noakhali,,,,noa_cate_01
+sentence_68.wav,dataset/chunks/noakhali/noa_cate _01/sentence_68.wav,এই এলাকা কি শহরের ভেতরে?,noakhali,,,,noa_cate_01
+sentence_69.wav,dataset/chunks/noakhali/noa_cate _01/sentence_69.wav,এখানে কি ট্রাফিক বেশি?,noakhali,,,,noa_cate_01
+sentence_70.wav,dataset/chunks/noakhali/noa_cate _01/sentence_70.wav,আমাকে সঠিক দিকটি বলুন।,noakhali,,,,noa_cate_01
+sentence_01.wav,dataset/chunks/noakhali/noa_cate_02/sentence_01.wav,এই জিনিসটির দাম কত?,noakhali,cate_02,,,noa_cate_02
+sentence_02.wav,dataset/chunks/noakhali/noa_cate_02/sentence_02.wav,দাম একটু কম হবে?,noakhali,cate_02,,,noa_cate_02
+sentence_03.wav,dataset/chunks/noakhali/noa_cate_02/sentence_03.wav,এক কেজি চাল দিন।,noakhali,cate_02,,,noa_cate_02
+sentence_04.wav,dataset/chunks/noakhali/noa_cate_02/sentence_04.wav,আধা কেজি চিনি দিন।,noakhali,cate_02,,,noa_cate_02
+sentence_05.wav,dataset/chunks/noakhali/noa_cate_02/sentence_05.wav,এটা কি দেশি পণ্য?,noakhali,cate_02,,,noa_cate_02
+sentence_06.wav,dataset/chunks/noakhali/noa_cate_02/sentence_06.wav,এটা কি বিদেশি পণ্য?,noakhali,cate_02,,,noa_cate_02
+sentence_07.wav,dataset/chunks/noakhali/noa_cate_02/sentence_07.wav,একটু ভালো মানের দেখান।,noakhali,cate_02,,,noa_cate_02
+sentence_08.wav,dataset/chunks/noakhali/noa_cate_02/sentence_08.wav,এর থেকে সস্তা কিছু আছে?,noakhali,cate_02,,,noa_cate_02
+sentence_09.wav,dataset/chunks/noakhali/noa_cate_02/sentence_09.wav,এটা খুব দামী।,noakhali,cate_02,,,noa_cate_02
+sentence_10.wav,dataset/chunks/noakhali/noa_cate_02/sentence_10.wav,আমি এটা কিনতে চাই।,noakhali,cate_02,,,noa_cate_02
+sentence_11.wav,dataset/chunks/noakhali/noa_cate_02/sentence_11.wav,আপনার কাছে কি তাজা সবজি আছে?,noakhali,cate_02,,,noa_cate_02
+sentence_12.wav,dataset/chunks/noakhali/noa_cate_02/sentence_12.wav,এই ফলগুলো কি আজকের?,noakhali,cate_02,,,noa_cate_02
+sentence_13.wav,dataset/chunks/noakhali/noa_cate_02/sentence_13.wav,এক ডজন ডিম দিন।,noakhali,cate_02,,,noa_cate_02
+sentence_14.wav,dataset/chunks/noakhali/noa_cate_02/sentence_14.wav,কত টাকা হলো?,noakhali,cate_02,,,noa_cate_02
+sentence_15.wav,dataset/chunks/noakhali/noa_cate_02/sentence_15.wav,আমি নগদ পরিশোধ করবো।,noakhali,cate_02,,,noa_cate_02
+sentence_16.wav,dataset/chunks/noakhali/noa_cate_02/sentence_16.wav,মোবাইল ব্যাংকিং নেওয়া হয়?,noakhali,cate_02,,,noa_cate_02
+sentence_17.wav,dataset/chunks/noakhali/noa_cate_02/sentence_17.wav,বিকাশে টাকা দিতে পারি?,noakhali,cate_02,,,noa_cate_02
+sentence_18.wav,dataset/chunks/noakhali/noa_cate_02/sentence_18.wav,একটি ব্যাগ দেবেন?,noakhali,cate_02,,,noa_cate_02
+sentence_19.wav,dataset/chunks/noakhali/noa_cate_02/sentence_19.wav,এই কাপড়ের রং কি উঠবে?,noakhali,cate_02,,,noa_cate_02
+sentence_20.wav,dataset/chunks/noakhali/noa_cate_02/sentence_20.wav,এই শার্টের অন্য সাইজ আছে?,noakhali,cate_02,,,noa_cate_02
+sentence_21.wav,dataset/chunks/noakhali/noa_cate_02/sentence_21.wav,ছোট সাইজ দেখান।,noakhali,cate_02,,,noa_cate_02
+sentence_22.wav,dataset/chunks/noakhali/noa_cate_02/sentence_22.wav,বড় সাইজ আছে?,noakhali,cate_02,,,noa_cate_02
+sentence_23.wav,dataset/chunks/noakhali/noa_cate_02/sentence_23.wav,আমি নীল রঙেরটি চাই।,noakhali,cate_02,,,noa_cate_02
+sentence_24.wav,dataset/chunks/noakhali/noa_cate_02/sentence_24.wav,অন্য রং আছে?,noakhali,cate_02,,,noa_cate_02
+sentence_25.wav,dataset/chunks/noakhali/noa_cate_02/sentence_25.wav,এটা কি আসল পণ্য?,noakhali,cate_02,,,noa_cate_02
+sentence_26.wav,dataset/chunks/noakhali/noa_cate_02/sentence_26.wav,গ্যারান্টি আছে?,noakhali,cate_02,,,noa_cate_02
+sentence_27.wav,dataset/chunks/noakhali/noa_cate_02/sentence_27.wav,রসিদ দিন।,noakhali,cate_02,,,noa_cate_02
+sentence_28.wav,dataset/chunks/noakhali/noa_cate_02/sentence_28.wav,আমি পরে এসে নেব।,noakhali,cate_02,,,noa_cate_02
+sentence_29.wav,dataset/chunks/noakhali/noa_cate_02/sentence_29.wav,এটা কি ছাড়ে দেওয়া যাবে?,noakhali,cate_02,,,noa_cate_02
+sentence_30.wav,dataset/chunks/noakhali/noa_cate_02/sentence_30.wav,আজ কি কোনো অফার আছে?,noakhali,cate_02,,,noa_cate_02
+sentence_31.wav,dataset/chunks/noakhali/noa_cate_02/sentence_31.wav,আমি পাইকারি কিনতে চাই।,noakhali,cate_02,,,noa_cate_02
+sentence_32.wav,dataset/chunks/noakhali/noa_cate_02/sentence_32.wav,পাইকারি দাম কত?,noakhali,cate_02,,,noa_cate_02
+sentence_33.wav,dataset/chunks/noakhali/noa_cate_02/sentence_33.wav,এই পণ্যটি নতুন এসেছে?,noakhali,cate_02,,,noa_cate_02
+sentence_34.wav,dataset/chunks/noakhali/noa_cate_02/sentence_34.wav,এর মেয়াদ কতদিন?,noakhali,cate_02,,,noa_cate_02
+sentence_35.wav,dataset/chunks/noakhali/noa_cate_02/sentence_35.wav,এই ওষুধের মেয়াদ শেষ হয়েছে?,noakhali,cate_02,,,noa_cate_02
+sentence_36.wav,dataset/chunks/noakhali/noa_cate_02/sentence_36.wav,আমাকে ভালো মানের চাল দিন।,noakhali,cate_02,,,noa_cate_02
+sentence_37.wav,dataset/chunks/noakhali/noa_cate_02/sentence_37.wav,এই মাছটি কি তাজা?,noakhali,cate_02,,,noa_cate_02
+sentence_38.wav,dataset/chunks/noakhali/noa_cate_02/sentence_38.wav,এই মাংস কত কেজি?,noakhali,cate_02,,,noa_cate_02
+sentence_39.wav,dataset/chunks/noakhali/noa_cate_02/sentence_39.wav,এক কেজির কম হবে না।,noakhali,cate_02,,,noa_cate_02
+sentence_40.wav,dataset/chunks/noakhali/noa_cate_02/sentence_40.wav,একটু কম করে দিন।,noakhali,cate_02,,,noa_cate_02
+sentence_41.wav,dataset/chunks/noakhali/noa_cate_02/sentence_41.wav,আমি দরদাম করতে চাই।,noakhali,cate_02,,,noa_cate_02
+sentence_42.wav,dataset/chunks/noakhali/noa_cate_02/sentence_42.wav,চূড়ান্ত দাম কত?,noakhali,cate_02,,,noa_cate_02
+sentence_43.wav,dataset/chunks/noakhali/noa_cate_02/sentence_43.wav,এই জুতাটি কি টেকসই?,noakhali,cate_02,,,noa_cate_02
+sentence_44.wav,dataset/chunks/noakhali/noa_cate_02/sentence_44.wav,এই মোবাইলের দাম কত?,noakhali,cate_02,,,noa_cate_02
+sentence_45.wav,dataset/chunks/noakhali/noa_cate_02/sentence_45.wav,এই ফোনে কি গ্যারান্টি আছে?,noakhali,cate_02,,,noa_cate_02
+sentence_46.wav,dataset/chunks/noakhali/noa_cate_02/sentence_46.wav,চার্জারটি আলাদা কিনতে হবে?,noakhali,cate_02,,,noa_cate_02
+sentence_47.wav,dataset/chunks/noakhali/noa_cate_02/sentence_47.wav,এটি কি ক্যাশ অন ডেলিভারি?,noakhali,cate_02,,,noa_cate_02
+sentence_48.wav,dataset/chunks/noakhali/noa_cate_02/sentence_48.wav,আমি অর্ডার দিতে চাই।,noakhali,cate_02,,,noa_cate_02
+sentence_49.wav,dataset/chunks/noakhali/noa_cate_02/sentence_49.wav,পণ্যটি কখন ডেলিভারি হবে?,noakhali,cate_02,,,noa_cate_02
+sentence_50.wav,dataset/chunks/noakhali/noa_cate_02/sentence_50.wav,এই দোকান কখন বন্ধ হয়?,noakhali,cate_02,,,noa_cate_02
+sentence_51.wav,dataset/chunks/noakhali/noa_cate_02/sentence_51.wav,আমি একটা উপহার কিনতে চাই।,noakhali,cate_02,,,noa_cate_02
+sentence_52.wav,dataset/chunks/noakhali/noa_cate_02/sentence_52.wav,উপহার মোড়ানো হবে?,noakhali,cate_02,,,noa_cate_02
+sentence_53.wav,dataset/chunks/noakhali/noa_cate_02/sentence_53.wav,এটি কি ফেরত দেওয়া যাবে?,noakhali,cate_02,,,noa_cate_02
+sentence_54.wav,dataset/chunks/noakhali/noa_cate_02/sentence_54.wav,রিটার্ন পলিসি কী?,noakhali,cate_02,,,noa_cate_02
+sentence_55.wav,dataset/chunks/noakhali/noa_cate_02/sentence_55.wav,এই কাপড়টি খুব সুন্দর।,noakhali,cate_02,,,noa_cate_02
+sentence_56.wav,dataset/chunks/noakhali/noa_cate_02/sentence_56.wav,এটি কি কটন?,noakhali,cate_02,,,noa_cate_02
+sentence_57.wav,dataset/chunks/noakhali/noa_cate_02/sentence_57.wav,এই পণ্যটি কোথায় তৈরি?,noakhali,cate_02,,,noa_cate_02
+sentence_58.wav,dataset/chunks/noakhali/noa_cate_02/sentence_58.wav,এটি কি ছাড়ে বিক্রি হচ্ছে?,noakhali,cate_02,,,noa_cate_02
+sentence_59.wav,dataset/chunks/noakhali/noa_cate_02/sentence_59.wav,আমি আরও কিছু দেখতে চাই।,noakhali,cate_02,,,noa_cate_02
+sentence_60.wav,dataset/chunks/noakhali/noa_cate_02/sentence_60.wav,আপনার দোকানে কি কার্ড নেওয়া হয়?,noakhali,cate_02,,,noa_cate_02
+sentence_61.wav,dataset/chunks/noakhali/noa_cate_02/sentence_61.wav,মোট বিল কত হলো?,noakhali,cate_02,,,noa_cate_02
+sentence_62.wav,dataset/chunks/noakhali/noa_cate_02/sentence_62.wav,আমি টাকা ভাঙাতে চাই।,noakhali,cate_02,,,noa_cate_02
+sentence_63.wav,dataset/chunks/noakhali/noa_cate_02/sentence_63.wav,ছোট নোট আছে?,noakhali,cate_02,,,noa_cate_02
+sentence_64.wav,dataset/chunks/noakhali/noa_cate_02/sentence_64.wav,এই ফলগুলো ওজন করে দিন।,noakhali,cate_02,,,noa_cate_02
+sentence_65.wav,dataset/chunks/noakhali/noa_cate_02/sentence_65.wav,এক কেজির একটু কম দিন।,noakhali,cate_02,,,noa_cate_02
+sentence_66.wav,dataset/chunks/noakhali/noa_cate_02/sentence_66.wav,আজকে বাজারে ভিড় বেশি।,noakhali,cate_02,,,noa_cate_02
+sentence_67.wav,dataset/chunks/noakhali/noa_cate_02/sentence_67.wav,দাম কেন এত বেশি?,noakhali,cate_02,,,noa_cate_02
+sentence_68.wav,dataset/chunks/noakhali/noa_cate_02/sentence_68.wav,কাল কি দাম কম হবে?,noakhali,cate_02,,,noa_cate_02
+sentence_69.wav,dataset/chunks/noakhali/noa_cate_02/sentence_69.wav,আমি নিয়মিত ক্রেতা।,noakhali,cate_02,,,noa_cate_02
+sentence_70.wav,dataset/chunks/noakhali/noa_cate_02/sentence_70.wav,আবার আসবো।,noakhali,cate_02,,,noa_cate_02
+sentence_01.wav,dataset/chunks/rangpur/ran_cate_01/sentence_01.wav,আপনি কোথা থেকে এসেছেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_02.wav,dataset/chunks/rangpur/ran_cate_01/sentence_02.wav,আপনার নাম কী?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_03.wav,dataset/chunks/rangpur/ran_cate_01/sentence_03.wav,আমার নাম জন।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_04.wav,dataset/chunks/rangpur/ran_cate_01/sentence_04.wav,আপনার সাথে পরিচিত হয়ে ভালো লাগলো।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_05.wav,dataset/chunks/rangpur/ran_cate_01/sentence_05.wav,আমি এই এলাকায় নতুন।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_06.wav,dataset/chunks/rangpur/ran_cate_01/sentence_06.wav,আপনি কি এখানে থাকেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_07.wav,dataset/chunks/rangpur/ran_cate_01/sentence_07.wav,আপনি কি প্রথমবার এখানে এসেছেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_08.wav,dataset/chunks/rangpur/ran_cate_01/sentence_08.wav,আমি বাংলাদেশে ভ্রমণে এসেছি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_09.wav,dataset/chunks/rangpur/ran_cate_01/sentence_09.wav,আপনি কী করেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_10.wav,dataset/chunks/rangpur/ran_cate_01/sentence_10.wav,আমি একজন ছাত্র।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_11.wav,dataset/chunks/rangpur/ran_cate_01/sentence_11.wav,আপনার বাড়ি কোথায়?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_12.wav,dataset/chunks/rangpur/ran_cate_01/sentence_12.wav,আপনি কেমন আছেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_13.wav,dataset/chunks/rangpur/ran_cate_01/sentence_13.wav,আমি ভালো আছি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_14.wav,dataset/chunks/rangpur/ran_cate_01/sentence_14.wav,অনেক দিন পর দেখা হলো।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_15.wav,dataset/chunks/rangpur/ran_cate_01/sentence_15.wav,আপনাকে আবার দেখে ভালো লাগছে।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_16.wav,dataset/chunks/rangpur/ran_cate_01/sentence_16.wav,আপনি কি আমাকে সাহায্য করতে পারবেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_17.wav,dataset/chunks/rangpur/ran_cate_01/sentence_17.wav,আপনার সাথে কথা বলে ভালো লাগছে।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_18.wav,dataset/chunks/rangpur/ran_cate_01/sentence_18.wav,আমি এখানে কাজের জন্য এসেছি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_19.wav,dataset/chunks/rangpur/ran_cate_01/sentence_19.wav,আপনি কোন দেশ থেকে এসেছেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_20.wav,dataset/chunks/rangpur/ran_cate_01/sentence_20.wav,আমি ইংরেজি বলতে পারি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_21.wav,dataset/chunks/rangpur/ran_cate_01/sentence_21.wav,আপনি কি বাংলা বলতে পারেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_22.wav,dataset/chunks/rangpur/ran_cate_01/sentence_22.wav,আমি বাংলা শিখছি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_23.wav,dataset/chunks/rangpur/ran_cate_01/sentence_23.wav,ধন্যবাদ আপনাকে।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_24.wav,dataset/chunks/rangpur/ran_cate_01/sentence_24.wav,আপনাকে স্বাগতম।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_25.wav,dataset/chunks/rangpur/ran_cate_01/sentence_25.wav,আপনার বয়স কত?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_26.wav,dataset/chunks/rangpur/ran_cate_01/sentence_26.wav,আমি এখানে পড়াশোনা করছি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_27.wav,dataset/chunks/rangpur/ran_cate_01/sentence_27.wav,আমি এই শহরটি পছন্দ করি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_28.wav,dataset/chunks/rangpur/ran_cate_01/sentence_28.wav,আপনার পরিবার কেমন আছে?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_29.wav,dataset/chunks/rangpur/ran_cate_01/sentence_29.wav,আপনার সাথে দেখা করতে পেরে আনন্দিত।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_30.wav,dataset/chunks/rangpur/ran_cate_01/sentence_30.wav,আপনি কি এখানে দীর্ঘদিন থাকবেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_31.wav,dataset/chunks/rangpur/ran_cate_01/sentence_31.wav,আমি কয়েকদিনের জন্য এসেছি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_32.wav,dataset/chunks/rangpur/ran_cate_01/sentence_32.wav,আপনার সাথে যোগাযোগ রাখতে চাই।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_33.wav,dataset/chunks/rangpur/ran_cate_01/sentence_33.wav,এটা আমার প্রথম সফর।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_34.wav,dataset/chunks/rangpur/ran_cate_01/sentence_34.wav,আমি আপনার দেশ সম্পর্কে জানতে চাই।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_35.wav,dataset/chunks/rangpur/ran_cate_01/sentence_35.wav,আপনি কোথায় কাজ করেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_36.wav,dataset/chunks/rangpur/ran_cate_01/sentence_36.wav,আপনার ফোন নম্বর দিতে পারেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_37.wav,dataset/chunks/rangpur/ran_cate_01/sentence_37.wav,আমি আপনার সাথে পরে কথা বলবো।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_38.wav,dataset/chunks/rangpur/ran_cate_01/sentence_38.wav,আপনাকে দেখে ভালো লাগলো।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_39.wav,dataset/chunks/rangpur/ran_cate_01/sentence_39.wav,আপনি কি এখানে একা এসেছেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_40.wav,dataset/chunks/rangpur/ran_cate_01/sentence_40.wav,আমি আমার বন্ধুর সাথে এসেছি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_41.wav,dataset/chunks/rangpur/ran_cate_01/sentence_41.wav,আপনার পেশা কী?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_42.wav,dataset/chunks/rangpur/ran_cate_01/sentence_42.wav,আমি একজন শিক্ষক।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_43.wav,dataset/chunks/rangpur/ran_cate_01/sentence_43.wav,আপনার সাথে কাজ করতে চাই।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_44.wav,dataset/chunks/rangpur/ran_cate_01/sentence_44.wav,আজকে আবহাওয়া সুন্দর।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_45.wav,dataset/chunks/rangpur/ran_cate_01/sentence_45.wav,আপনি কি এখানে থাকেন নাকি ভ্রমণে এসেছেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_46.wav,dataset/chunks/rangpur/ran_cate_01/sentence_46.wav,আমি এই জায়গাটি প্রথমবার দেখছি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_47.wav,dataset/chunks/rangpur/ran_cate_01/sentence_47.wav,আপনার সাথে পরিচয় হওয়া আমার জন্য সম্মানের।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_48.wav,dataset/chunks/rangpur/ran_cate_01/sentence_48.wav,আপনি কোন ভাষায় কথা বলেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_49.wav,dataset/chunks/rangpur/ran_cate_01/sentence_49.wav,আমি আপনার কাছ থেকে শিখতে চাই।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_50.wav,dataset/chunks/rangpur/ran_cate_01/sentence_50.wav,আমি খুব আনন্দিত।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_51.wav,dataset/chunks/rangpur/ran_cate_01/sentence_51.wav,আপনার দিনটি কেমন কাটছে?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_52.wav,dataset/chunks/rangpur/ran_cate_01/sentence_52.wav,আমি একটু দেরি করেছি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_53.wav,dataset/chunks/rangpur/ran_cate_01/sentence_53.wav,আপনাকে অপেক্ষা করানোর জন্য দুঃখিত।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_54.wav,dataset/chunks/rangpur/ran_cate_01/sentence_54.wav,আপনার সাথে আবার দেখা হবে আশা করি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_55.wav,dataset/chunks/rangpur/ran_cate_01/sentence_55.wav,আপনি কি কাছাকাছি থাকেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_56.wav,dataset/chunks/rangpur/ran_cate_01/sentence_56.wav,আমি আপনার সাহায্যের জন্য কৃতজ্ঞ।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_57.wav,dataset/chunks/rangpur/ran_cate_01/sentence_57.wav,আপনাকে শুভেচ্ছা জানাই।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_58.wav,dataset/chunks/rangpur/ran_cate_01/sentence_58.wav,আপনার দিনটি শুভ হোক।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_59.wav,dataset/chunks/rangpur/ran_cate_01/sentence_59.wav,আপনার সাথে কথা বলা আনন্দের ছিল।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_60.wav,dataset/chunks/rangpur/ran_cate_01/sentence_60.wav,আমি আপনাকে সম্মান করি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_61.wav,dataset/chunks/rangpur/ran_cate_01/sentence_61.wav,আমি এখানে কাজ শুরু করেছি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_62.wav,dataset/chunks/rangpur/ran_cate_01/sentence_62.wav,আপনি কখন এসেছেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_63.wav,dataset/chunks/rangpur/ran_cate_01/sentence_63.wav,আমি গতকাল এসেছি।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_64.wav,dataset/chunks/rangpur/ran_cate_01/sentence_64.wav,আপনি কতদিন থাকবেন?,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_65.wav,dataset/chunks/rangpur/ran_cate_01/sentence_65.wav,আমি এক সপ্তাহ থাকবো।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_66.wav,dataset/chunks/rangpur/ran_cate_01/sentence_66.wav,আপনার সাথে বন্ধুত্ব করতে চাই।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_67.wav,dataset/chunks/rangpur/ran_cate_01/sentence_67.wav,আপনি খুব ভদ্র মানুষ।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_68.wav,dataset/chunks/rangpur/ran_cate_01/sentence_68.wav,আমি আপনাকে ধন্যবাদ জানাই।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_69.wav,dataset/chunks/rangpur/ran_cate_01/sentence_69.wav,আপনার সাথে দেখা হওয়া সৌভাগ্যের।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_70.wav,dataset/chunks/rangpur/ran_cate_01/sentence_70.wav,আমি আপনার সাথে আবার যোগাযোগ করবো।,rangpur,cate_01,SPK_05,Male,ran_cate_01
+sentence_01.wav,dataset/chunks/rangpur/ran_cate_02/sentence_01.wav,বাস স্ট্যান্ড কোথায়?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_02.wav,dataset/chunks/rangpur/ran_cate_02/sentence_02.wav,এই রাস্তাটি কোথায় যায়?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_03.wav,dataset/chunks/rangpur/ran_cate_02/sentence_03.wav,রেলওয়ে স্টেশন কত দূরে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_04.wav,dataset/chunks/rangpur/ran_cate_02/sentence_04.wav,বিমানবন্দর যাওয়ার রাস্তা কোনটি?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_05.wav,dataset/chunks/rangpur/ran_cate_02/sentence_05.wav,বাজারে যেতে কোন বাসে উঠবো?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_06.wav,dataset/chunks/rangpur/ran_cate_02/sentence_06.wav,এই বাস কি ঢাকায় যাবে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_07.wav,dataset/chunks/rangpur/ran_cate_02/sentence_07.wav,ভাড়া কত?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_08.wav,dataset/chunks/rangpur/ran_cate_02/sentence_08.wav,রিকশার ভাড়া কত নেবেন?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_09.wav,dataset/chunks/rangpur/ran_cate_02/sentence_09.wav,আমাকে হাসপাতালে নিয়ে চলুন।,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_10.wav,dataset/chunks/rangpur/ran_cate_02/sentence_10.wav,এই ট্রেন কখন ছাড়বে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_11.wav,dataset/chunks/rangpur/ran_cate_02/sentence_11.wav,ট্রেন কত নম্বর প্ল্যাটফর্মে আসবে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_12.wav,dataset/chunks/rangpur/ran_cate_02/sentence_12.wav,এখানে কি টিকিট কাউন্টার আছে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_13.wav,dataset/chunks/rangpur/ran_cate_02/sentence_13.wav,"এক টিকিট দিন, চট্টগ্রামের জন্য।",rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_14.wav,dataset/chunks/rangpur/ran_cate_02/sentence_14.wav,বাস কখন ছাড়বে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_15.wav,dataset/chunks/rangpur/ran_cate_02/sentence_15.wav,এই রাস্তায় কি যানজট হয়?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_16.wav,dataset/chunks/rangpur/ran_cate_02/sentence_16.wav,সোজা গেলে কি ব্যাংক পাবো?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_17.wav,dataset/chunks/rangpur/ran_cate_02/sentence_17.wav,ডানদিকে গেলে কি হাসপাতাল?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_18.wav,dataset/chunks/rangpur/ran_cate_02/sentence_18.wav,বামদিকে মোড় নিন।,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_19.wav,dataset/chunks/rangpur/ran_cate_02/sentence_19.wav,সোজা এগিয়ে যান।,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_20.wav,dataset/chunks/rangpur/ran_cate_02/sentence_20.wav,এই জায়গাটা কত দূরে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_21.wav,dataset/chunks/rangpur/ran_cate_02/sentence_21.wav,হাঁটলে কত সময় লাগবে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_22.wav,dataset/chunks/rangpur/ran_cate_02/sentence_22.wav,গাড়ি পাওয়া যাবে কোথায়?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_23.wav,dataset/chunks/rangpur/ran_cate_02/sentence_23.wav,এখানে কি উবার পাওয়া যায়?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_24.wav,dataset/chunks/rangpur/ran_cate_02/sentence_24.wav,আপনি কি আমাকে পথ দেখাতে পারবেন?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_25.wav,dataset/chunks/rangpur/ran_cate_02/sentence_25.wav,এই রাস্তা কি নিরাপদ?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_26.wav,dataset/chunks/rangpur/ran_cate_02/sentence_26.wav,এখানে কি পার্কিং আছে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_27.wav,dataset/chunks/rangpur/ran_cate_02/sentence_27.wav,গাড়ি রাখার জায়গা কোথায়?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_28.wav,dataset/chunks/rangpur/ran_cate_02/sentence_28.wav,এই ট্রেন কি সময়মতো আসবে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_29.wav,dataset/chunks/rangpur/ran_cate_02/sentence_29.wav,বাসে কি সিট খালি আছে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_30.wav,dataset/chunks/rangpur/ran_cate_02/sentence_30.wav,এই বাস কি সরাসরি যাবে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_31.wav,dataset/chunks/rangpur/ran_cate_02/sentence_31.wav,মাঝপথে কি নামতে পারবো?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_32.wav,dataset/chunks/rangpur/ran_cate_02/sentence_32.wav,আমাকে পরের স্টপে নামিয়ে দিন।,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_33.wav,dataset/chunks/rangpur/ran_cate_02/sentence_33.wav,এই রাস্তা কি শর্টকাট?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_34.wav,dataset/chunks/rangpur/ran_cate_02/sentence_34.wav,এখানে কি ট্যাক্সি স্ট্যান্ড আছে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_35.wav,dataset/chunks/rangpur/ran_cate_02/sentence_35.wav,গন্তব্যে পৌঁছাতে কত সময় লাগবে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_36.wav,dataset/chunks/rangpur/ran_cate_02/sentence_36.wav,রিকশা কি পাওয়া যাবে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_37.wav,dataset/chunks/rangpur/ran_cate_02/sentence_37.wav,ট্রেন কি দেরি করছে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_38.wav,dataset/chunks/rangpur/ran_cate_02/sentence_38.wav,এই বাস কোথায় থামে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_39.wav,dataset/chunks/rangpur/ran_cate_02/sentence_39.wav,আপনারা কি রাতের বাস চালান?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_40.wav,dataset/chunks/rangpur/ran_cate_02/sentence_40.wav,শেষ বাস কখন?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_41.wav,dataset/chunks/rangpur/ran_cate_02/sentence_41.wav,এই রাস্তা কি বন্ধ?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_42.wav,dataset/chunks/rangpur/ran_cate_02/sentence_42.wav,বিকল্প রাস্তা কোনটি?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_43.wav,dataset/chunks/rangpur/ran_cate_02/sentence_43.wav,এখানে কি সিগন্যাল আছে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_44.wav,dataset/chunks/rangpur/ran_cate_02/sentence_44.wav,রাস্তা কি মেরামত হচ্ছে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_45.wav,dataset/chunks/rangpur/ran_cate_02/sentence_45.wav,আমাকে বিশ্ববিদ্যালয়ে যেতে হবে।,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_46.wav,dataset/chunks/rangpur/ran_cate_02/sentence_46.wav,বিশ্ববিদ্যালয়ের বাস কোথা থেকে ছাড়ে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_47.wav,dataset/chunks/rangpur/ran_cate_02/sentence_47.wav,টিকিটের দাম কত?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_48.wav,dataset/chunks/rangpur/ran_cate_02/sentence_48.wav,এখানে কি মেট্রো স্টেশন আছে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_49.wav,dataset/chunks/rangpur/ran_cate_02/sentence_49.wav,মেট্রো কখন ছাড়ে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_50.wav,dataset/chunks/rangpur/ran_cate_02/sentence_50.wav,এই রাস্তা কি প্রধান সড়ক?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_51.wav,dataset/chunks/rangpur/ran_cate_02/sentence_51.wav,আমাকে থানায় যেতে হবে।,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_52.wav,dataset/chunks/rangpur/ran_cate_02/sentence_52.wav,পুলিশ স্টেশন কোথায়?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_53.wav,dataset/chunks/rangpur/ran_cate_02/sentence_53.wav,এই এলাকায় কি বাস চলে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_54.wav,dataset/chunks/rangpur/ran_cate_02/sentence_54.wav,এখানে কি সিএনজি পাওয়া যায়?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_55.wav,dataset/chunks/rangpur/ran_cate_02/sentence_55.wav,আমাকে দ্রুত পৌঁছাতে হবে।,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_56.wav,dataset/chunks/rangpur/ran_cate_02/sentence_56.wav,এখানে কি ফেরি ঘাট আছে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_57.wav,dataset/chunks/rangpur/ran_cate_02/sentence_57.wav,ফেরি কখন ছাড়বে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_58.wav,dataset/chunks/rangpur/ran_cate_02/sentence_58.wav,নদী পার হতে কত সময় লাগবে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_59.wav,dataset/chunks/rangpur/ran_cate_02/sentence_59.wav,এই ট্রেন কি এক্সপ্রেস?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_60.wav,dataset/chunks/rangpur/ran_cate_02/sentence_60.wav,এখানে কি বাস বদলাতে হবে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_61.wav,dataset/chunks/rangpur/ran_cate_02/sentence_61.wav,এই বাস কি এয়ারকন্ডিশন্ড?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_62.wav,dataset/chunks/rangpur/ran_cate_02/sentence_62.wav,রাস্তায় কি টোল দিতে হয়?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_63.wav,dataset/chunks/rangpur/ran_cate_02/sentence_63.wav,টোল কত?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_64.wav,dataset/chunks/rangpur/ran_cate_02/sentence_64.wav,এখানে কি রাস্তা নিরাপদ রাতে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_65.wav,dataset/chunks/rangpur/ran_cate_02/sentence_65.wav,আমি পথ হারিয়ে ফেলেছি।,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_66.wav,dataset/chunks/rangpur/ran_cate_02/sentence_66.wav,আমাকে মানচিত্র দেখাতে পারবেন?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_67.wav,dataset/chunks/rangpur/ran_cate_02/sentence_67.wav,কাছাকাছি কোন হোটেল আছে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_68.wav,dataset/chunks/rangpur/ran_cate_02/sentence_68.wav,এই এলাকা কি শহরের ভেতরে?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_69.wav,dataset/chunks/rangpur/ran_cate_02/sentence_69.wav,এখানে কি ট্রাফিক বেশি?,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_70.wav,dataset/chunks/rangpur/ran_cate_02/sentence_70.wav,আমাকে সঠিক দিকটি বলুন।,rangpur,cate_02,SPK_05,Male,ran_cate_02
+sentence_01.wav,dataset/chunks/sylhet/syl_cate_01/sentence_01.wav,আপনি কোথা থেকে এসেছেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_02.wav,dataset/chunks/sylhet/syl_cate_01/sentence_02.wav,আপনার নাম কী?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_03.wav,dataset/chunks/sylhet/syl_cate_01/sentence_03.wav,আমার নাম জন।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_04.wav,dataset/chunks/sylhet/syl_cate_01/sentence_04.wav,আপনার সাথে পরিচিত হয়ে ভালো লাগলো।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_05.wav,dataset/chunks/sylhet/syl_cate_01/sentence_05.wav,আমি এই এলাকায় নতুন।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_06.wav,dataset/chunks/sylhet/syl_cate_01/sentence_06.wav,আপনি কি এখানে থাকেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_07.wav,dataset/chunks/sylhet/syl_cate_01/sentence_07.wav,আপনি কি প্রথমবার এখানে এসেছেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_08.wav,dataset/chunks/sylhet/syl_cate_01/sentence_08.wav,আমি বাংলাদেশে ভ্রমণে এসেছি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_09.wav,dataset/chunks/sylhet/syl_cate_01/sentence_09.wav,আপনি কী করেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_10.wav,dataset/chunks/sylhet/syl_cate_01/sentence_10.wav,আমি একজন ছাত্র।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_11.wav,dataset/chunks/sylhet/syl_cate_01/sentence_11.wav,আপনার বাড়ি কোথায়?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_12.wav,dataset/chunks/sylhet/syl_cate_01/sentence_12.wav,আপনি কেমন আছেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_13.wav,dataset/chunks/sylhet/syl_cate_01/sentence_13.wav,আমি ভালো আছি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_14.wav,dataset/chunks/sylhet/syl_cate_01/sentence_14.wav,অনেক দিন পর দেখা হলো।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_15.wav,dataset/chunks/sylhet/syl_cate_01/sentence_15.wav,আপনাকে আবার দেখে ভালো লাগছে।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_16.wav,dataset/chunks/sylhet/syl_cate_01/sentence_16.wav,আপনি কি আমাকে সাহায্য করতে পারবেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_17.wav,dataset/chunks/sylhet/syl_cate_01/sentence_17.wav,আপনার সাথে কথা বলে ভালো লাগছে।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_18.wav,dataset/chunks/sylhet/syl_cate_01/sentence_18.wav,আমি এখানে কাজের জন্য এসেছি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_19.wav,dataset/chunks/sylhet/syl_cate_01/sentence_19.wav,আপনি কোন দেশ থেকে এসেছেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_20.wav,dataset/chunks/sylhet/syl_cate_01/sentence_20.wav,আমি ইংরেজি বলতে পারি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_21.wav,dataset/chunks/sylhet/syl_cate_01/sentence_21.wav,আপনি কি বাংলা বলতে পারেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_22.wav,dataset/chunks/sylhet/syl_cate_01/sentence_22.wav,আমি বাংলা শিখছি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_23.wav,dataset/chunks/sylhet/syl_cate_01/sentence_23.wav,ধন্যবাদ আপনাকে।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_24.wav,dataset/chunks/sylhet/syl_cate_01/sentence_24.wav,আপনাকে স্বাগতম।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_25.wav,dataset/chunks/sylhet/syl_cate_01/sentence_25.wav,আপনার বয়স কত?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_26.wav,dataset/chunks/sylhet/syl_cate_01/sentence_26.wav,আমি এখানে পড়াশোনা করছি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_27.wav,dataset/chunks/sylhet/syl_cate_01/sentence_27.wav,আমি এই শহরটি পছন্দ করি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_28.wav,dataset/chunks/sylhet/syl_cate_01/sentence_28.wav,আপনার পরিবার কেমন আছে?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_29.wav,dataset/chunks/sylhet/syl_cate_01/sentence_29.wav,আপনার সাথে দেখা করতে পেরে আনন্দিত।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_30.wav,dataset/chunks/sylhet/syl_cate_01/sentence_30.wav,আপনি কি এখানে দীর্ঘদিন থাকবেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_31.wav,dataset/chunks/sylhet/syl_cate_01/sentence_31.wav,আমি কয়েকদিনের জন্য এসেছি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_32.wav,dataset/chunks/sylhet/syl_cate_01/sentence_32.wav,আপনার সাথে যোগাযোগ রাখতে চাই।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_33.wav,dataset/chunks/sylhet/syl_cate_01/sentence_33.wav,এটা আমার প্রথম সফর।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_34.wav,dataset/chunks/sylhet/syl_cate_01/sentence_34.wav,আমি আপনার দেশ সম্পর্কে জানতে চাই।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_35.wav,dataset/chunks/sylhet/syl_cate_01/sentence_35.wav,আপনি কোথায় কাজ করেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_36.wav,dataset/chunks/sylhet/syl_cate_01/sentence_36.wav,আপনার ফোন নম্বর দিতে পারেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_37.wav,dataset/chunks/sylhet/syl_cate_01/sentence_37.wav,আমি আপনার সাথে পরে কথা বলবো।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_38.wav,dataset/chunks/sylhet/syl_cate_01/sentence_38.wav,আপনাকে দেখে ভালো লাগলো।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_39.wav,dataset/chunks/sylhet/syl_cate_01/sentence_39.wav,আপনি কি এখানে একা এসেছেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_40.wav,dataset/chunks/sylhet/syl_cate_01/sentence_40.wav,আমি আমার বন্ধুর সাথে এসেছি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_41.wav,dataset/chunks/sylhet/syl_cate_01/sentence_41.wav,আপনার পেশা কী?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_42.wav,dataset/chunks/sylhet/syl_cate_01/sentence_42.wav,আমি একজন শিক্ষক।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_43.wav,dataset/chunks/sylhet/syl_cate_01/sentence_43.wav,আপনার সাথে কাজ করতে চাই।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_44.wav,dataset/chunks/sylhet/syl_cate_01/sentence_44.wav,আজকে আবহাওয়া সুন্দর।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_45.wav,dataset/chunks/sylhet/syl_cate_01/sentence_45.wav,আপনি কি এখানে থাকেন নাকি ভ্রমণে এসেছেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_46.wav,dataset/chunks/sylhet/syl_cate_01/sentence_46.wav,আমি এই জায়গাটি প্রথমবার দেখছি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_47.wav,dataset/chunks/sylhet/syl_cate_01/sentence_47.wav,আপনার সাথে পরিচয় হওয়া আমার জন্য সম্মানের।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_48.wav,dataset/chunks/sylhet/syl_cate_01/sentence_48.wav,আপনি কোন ভাষায় কথা বলেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_49.wav,dataset/chunks/sylhet/syl_cate_01/sentence_49.wav,আমি আপনার কাছ থেকে শিখতে চাই।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_50.wav,dataset/chunks/sylhet/syl_cate_01/sentence_50.wav,আমি খুব আনন্দিত।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_51.wav,dataset/chunks/sylhet/syl_cate_01/sentence_51.wav,আপনার দিনটি কেমন কাটছে?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_52.wav,dataset/chunks/sylhet/syl_cate_01/sentence_52.wav,আমি একটু দেরি করেছি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_53.wav,dataset/chunks/sylhet/syl_cate_01/sentence_53.wav,আপনাকে অপেক্ষা করানোর জন্য দুঃখিত।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_54.wav,dataset/chunks/sylhet/syl_cate_01/sentence_54.wav,আপনার সাথে আবার দেখা হবে আশা করি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_55.wav,dataset/chunks/sylhet/syl_cate_01/sentence_55.wav,আপনি কি কাছাকাছি থাকেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_56.wav,dataset/chunks/sylhet/syl_cate_01/sentence_56.wav,আমি আপনার সাহায্যের জন্য কৃতজ্ঞ।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_57.wav,dataset/chunks/sylhet/syl_cate_01/sentence_57.wav,আপনাকে শুভেচ্ছা জানাই।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_58.wav,dataset/chunks/sylhet/syl_cate_01/sentence_58.wav,আপনার দিনটি শুভ হোক।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_59.wav,dataset/chunks/sylhet/syl_cate_01/sentence_59.wav,আপনার সাথে কথা বলা আনন্দের ছিল।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_60.wav,dataset/chunks/sylhet/syl_cate_01/sentence_60.wav,আমি আপনাকে সম্মান করি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_61.wav,dataset/chunks/sylhet/syl_cate_01/sentence_61.wav,আমি এখানে কাজ শুরু করেছি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_62.wav,dataset/chunks/sylhet/syl_cate_01/sentence_62.wav,আপনি কখন এসেছেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_63.wav,dataset/chunks/sylhet/syl_cate_01/sentence_63.wav,আমি গতকাল এসেছি।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_64.wav,dataset/chunks/sylhet/syl_cate_01/sentence_64.wav,আপনি কতদিন থাকবেন?,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_65.wav,dataset/chunks/sylhet/syl_cate_01/sentence_65.wav,আমি এক সপ্তাহ থাকবো।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_66.wav,dataset/chunks/sylhet/syl_cate_01/sentence_66.wav,আপনার সাথে বন্ধুত্ব করতে চাই।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_67.wav,dataset/chunks/sylhet/syl_cate_01/sentence_67.wav,আপনি খুব ভদ্র মানুষ।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_68.wav,dataset/chunks/sylhet/syl_cate_01/sentence_68.wav,আমি আপনাকে ধন্যবাদ জানাই।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_69.wav,dataset/chunks/sylhet/syl_cate_01/sentence_69.wav,আপনার সাথে দেখা হওয়া সৌভাগ্যের।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_70.wav,dataset/chunks/sylhet/syl_cate_01/sentence_70.wav,আমি আপনার সাথে আবার যোগাযোগ করবো।,sylhet,cate_01,SPK_14,Male,syl_cate_01
+sentence_01.wav,dataset/chunks/sylhet/syl_cate_02/sentence_01.wav,বাস স্ট্যান্ড কোথায়?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_02.wav,dataset/chunks/sylhet/syl_cate_02/sentence_02.wav,এই রাস্তাটি কোথায় যায়?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_03.wav,dataset/chunks/sylhet/syl_cate_02/sentence_03.wav,রেলওয়ে স্টেশন কত দূরে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_04.wav,dataset/chunks/sylhet/syl_cate_02/sentence_04.wav,বিমানবন্দর যাওয়ার রাস্তা কোনটি?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_05.wav,dataset/chunks/sylhet/syl_cate_02/sentence_05.wav,বাজারে যেতে কোন বাসে উঠবো?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_06.wav,dataset/chunks/sylhet/syl_cate_02/sentence_06.wav,এই বাস কি ঢাকায় যাবে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_07.wav,dataset/chunks/sylhet/syl_cate_02/sentence_07.wav,ভাড়া কত?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_08.wav,dataset/chunks/sylhet/syl_cate_02/sentence_08.wav,রিকশার ভাড়া কত নেবেন?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_09.wav,dataset/chunks/sylhet/syl_cate_02/sentence_09.wav,আমাকে হাসপাতালে নিয়ে চলুন।,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_10.wav,dataset/chunks/sylhet/syl_cate_02/sentence_10.wav,এই ট্রেন কখন ছাড়বে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_11.wav,dataset/chunks/sylhet/syl_cate_02/sentence_11.wav,ট্রেন কত নম্বর প্ল্যাটফর্মে আসবে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_12.wav,dataset/chunks/sylhet/syl_cate_02/sentence_12.wav,এখানে কি টিকিট কাউন্টার আছে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_13.wav,dataset/chunks/sylhet/syl_cate_02/sentence_13.wav,"এক টিকিট দিন, চট্টগ্রামের জন্য।",sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_14.wav,dataset/chunks/sylhet/syl_cate_02/sentence_14.wav,বাস কখন ছাড়বে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_15.wav,dataset/chunks/sylhet/syl_cate_02/sentence_15.wav,এই রাস্তায় কি যানজট হয়?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_16.wav,dataset/chunks/sylhet/syl_cate_02/sentence_16.wav,সোজা গেলে কি ব্যাংক পাবো?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_17.wav,dataset/chunks/sylhet/syl_cate_02/sentence_17.wav,ডানদিকে গেলে কি হাসপাতাল?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_18.wav,dataset/chunks/sylhet/syl_cate_02/sentence_18.wav,বামদিকে মোড় নিন।,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_19.wav,dataset/chunks/sylhet/syl_cate_02/sentence_19.wav,সোজা এগিয়ে যান।,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_20.wav,dataset/chunks/sylhet/syl_cate_02/sentence_20.wav,এই জায়গাটা কত দূরে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_21.wav,dataset/chunks/sylhet/syl_cate_02/sentence_21.wav,হাঁটলে কত সময় লাগবে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_22.wav,dataset/chunks/sylhet/syl_cate_02/sentence_22.wav,গাড়ি পাওয়া যাবে কোথায়?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_23.wav,dataset/chunks/sylhet/syl_cate_02/sentence_23.wav,এখানে কি উবার পাওয়া যায়?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_24.wav,dataset/chunks/sylhet/syl_cate_02/sentence_24.wav,আপনি কি আমাকে পথ দেখাতে পারবেন?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_25.wav,dataset/chunks/sylhet/syl_cate_02/sentence_25.wav,এই রাস্তা কি নিরাপদ?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_26.wav,dataset/chunks/sylhet/syl_cate_02/sentence_26.wav,এখানে কি পার্কিং আছে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_27.wav,dataset/chunks/sylhet/syl_cate_02/sentence_27.wav,গাড়ি রাখার জায়গা কোথায়?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_28.wav,dataset/chunks/sylhet/syl_cate_02/sentence_28.wav,এই ট্রেন কি সময়মতো আসবে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_29.wav,dataset/chunks/sylhet/syl_cate_02/sentence_29.wav,বাসে কি সিট খালি আছে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_30.wav,dataset/chunks/sylhet/syl_cate_02/sentence_30.wav,এই বাস কি সরাসরি যাবে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_31.wav,dataset/chunks/sylhet/syl_cate_02/sentence_31.wav,মাঝপথে কি নামতে পারবো?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_32.wav,dataset/chunks/sylhet/syl_cate_02/sentence_32.wav,আমাকে পরের স্টপে নামিয়ে দিন।,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_33.wav,dataset/chunks/sylhet/syl_cate_02/sentence_33.wav,এই রাস্তা কি শর্টকাট?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_34.wav,dataset/chunks/sylhet/syl_cate_02/sentence_34.wav,এখানে কি ট্যাক্সি স্ট্যান্ড আছে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_35.wav,dataset/chunks/sylhet/syl_cate_02/sentence_35.wav,গন্তব্যে পৌঁছাতে কত সময় লাগবে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_36.wav,dataset/chunks/sylhet/syl_cate_02/sentence_36.wav,রিকশা কি পাওয়া যাবে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_37.wav,dataset/chunks/sylhet/syl_cate_02/sentence_37.wav,ট্রেন কি দেরি করছে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_38.wav,dataset/chunks/sylhet/syl_cate_02/sentence_38.wav,এই বাস কোথায় থামে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_39.wav,dataset/chunks/sylhet/syl_cate_02/sentence_39.wav,আপনারা কি রাতের বাস চালান?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_40.wav,dataset/chunks/sylhet/syl_cate_02/sentence_40.wav,শেষ বাস কখন?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_41.wav,dataset/chunks/sylhet/syl_cate_02/sentence_41.wav,এই রাস্তা কি বন্ধ?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_42.wav,dataset/chunks/sylhet/syl_cate_02/sentence_42.wav,বিকল্প রাস্তা কোনটি?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_43.wav,dataset/chunks/sylhet/syl_cate_02/sentence_43.wav,এখানে কি সিগন্যাল আছে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_44.wav,dataset/chunks/sylhet/syl_cate_02/sentence_44.wav,রাস্তা কি মেরামত হচ্ছে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_45.wav,dataset/chunks/sylhet/syl_cate_02/sentence_45.wav,আমাকে বিশ্ববিদ্যালয়ে যেতে হবে।,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_46.wav,dataset/chunks/sylhet/syl_cate_02/sentence_46.wav,বিশ্ববিদ্যালয়ের বাস কোথা থেকে ছাড়ে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_47.wav,dataset/chunks/sylhet/syl_cate_02/sentence_47.wav,টিকিটের দাম কত?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_48.wav,dataset/chunks/sylhet/syl_cate_02/sentence_48.wav,এখানে কি মেট্রো স্টেশন আছে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_49.wav,dataset/chunks/sylhet/syl_cate_02/sentence_49.wav,মেট্রো কখন ছাড়ে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_50.wav,dataset/chunks/sylhet/syl_cate_02/sentence_50.wav,এই রাস্তা কি প্রধান সড়ক?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_51.wav,dataset/chunks/sylhet/syl_cate_02/sentence_51.wav,আমাকে থানায় যেতে হবে।,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_52.wav,dataset/chunks/sylhet/syl_cate_02/sentence_52.wav,পুলিশ স্টেশন কোথায়?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_53.wav,dataset/chunks/sylhet/syl_cate_02/sentence_53.wav,এই এলাকায় কি বাস চলে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_54.wav,dataset/chunks/sylhet/syl_cate_02/sentence_54.wav,এখানে কি সিএনজি পাওয়া যায়?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_55.wav,dataset/chunks/sylhet/syl_cate_02/sentence_55.wav,আমাকে দ্রুত পৌঁছাতে হবে।,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_56.wav,dataset/chunks/sylhet/syl_cate_02/sentence_56.wav,এখানে কি ফেরি ঘাট আছে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_57.wav,dataset/chunks/sylhet/syl_cate_02/sentence_57.wav,ফেরি কখন ছাড়বে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_58.wav,dataset/chunks/sylhet/syl_cate_02/sentence_58.wav,নদী পার হতে কত সময় লাগবে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_59.wav,dataset/chunks/sylhet/syl_cate_02/sentence_59.wav,এই ট্রেন কি এক্সপ্রেস?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_60.wav,dataset/chunks/sylhet/syl_cate_02/sentence_60.wav,এখানে কি বাস বদলাতে হবে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_61.wav,dataset/chunks/sylhet/syl_cate_02/sentence_61.wav,এই বাস কি এয়ারকন্ডিশন্ড?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_62.wav,dataset/chunks/sylhet/syl_cate_02/sentence_62.wav,রাস্তায় কি টোল দিতে হয়?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_63.wav,dataset/chunks/sylhet/syl_cate_02/sentence_63.wav,টোল কত?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_64.wav,dataset/chunks/sylhet/syl_cate_02/sentence_64.wav,এখানে কি রাস্তা নিরাপদ রাতে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_65.wav,dataset/chunks/sylhet/syl_cate_02/sentence_65.wav,আমি পথ হারিয়ে ফেলেছি।,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_66.wav,dataset/chunks/sylhet/syl_cate_02/sentence_66.wav,আমাকে মানচিত্র দেখাতে পারবেন?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_67.wav,dataset/chunks/sylhet/syl_cate_02/sentence_67.wav,কাছাকাছি কোন হোটেল আছে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_68.wav,dataset/chunks/sylhet/syl_cate_02/sentence_68.wav,এই এলাকা কি শহরের ভেতরে?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_69.wav,dataset/chunks/sylhet/syl_cate_02/sentence_69.wav,এখানে কি ট্রাফিক বেশি?,sylhet,cate_02,SPK_14,Male,syl_cate_02
+sentence_70.wav,dataset/chunks/sylhet/syl_cate_02/sentence_70.wav,আমাকে সঠিক দিকটি বলুন।,sylhet,cate_02,SPK_14,Male,syl_cate_02
