@@ -1,0 +1,701 @@
+filename,audio_path,transcript,region,category_id,speaker_id,category
+sentence_01.wav,dataset/chunks/barishal/bar_cate_03/sentence_01.wav,এই জিনিসটির দাম কত?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_02.wav,dataset/chunks/barishal/bar_cate_03/sentence_02.wav,দাম একটু কম হবে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_03.wav,dataset/chunks/barishal/bar_cate_03/sentence_03.wav,এক কেজি চাল দিন।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_04.wav,dataset/chunks/barishal/bar_cate_03/sentence_04.wav,আধা কেজি চিনি দিন।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_05.wav,dataset/chunks/barishal/bar_cate_03/sentence_05.wav,এটা কি দেশি পণ্য?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_06.wav,dataset/chunks/barishal/bar_cate_03/sentence_06.wav,এটা কি বিদেশি পণ্য?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_07.wav,dataset/chunks/barishal/bar_cate_03/sentence_07.wav,একটু ভালো মানের দেখান।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_08.wav,dataset/chunks/barishal/bar_cate_03/sentence_08.wav,এর থেকে সস্তা কিছু আছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_09.wav,dataset/chunks/barishal/bar_cate_03/sentence_09.wav,এটা খুব দামী।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_10.wav,dataset/chunks/barishal/bar_cate_03/sentence_10.wav,আমি এটা কিনতে চাই।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_11.wav,dataset/chunks/barishal/bar_cate_03/sentence_11.wav,আপনার কাছে কি তাজা সবজি আছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_12.wav,dataset/chunks/barishal/bar_cate_03/sentence_12.wav,এই ফলগুলো কি আজকের?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_13.wav,dataset/chunks/barishal/bar_cate_03/sentence_13.wav,এক ডজন ডিম দিন।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_14.wav,dataset/chunks/barishal/bar_cate_03/sentence_14.wav,কত টাকা হলো?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_15.wav,dataset/chunks/barishal/bar_cate_03/sentence_15.wav,আমি নগদ পরিশোধ করবো।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_16.wav,dataset/chunks/barishal/bar_cate_03/sentence_16.wav,মোবাইল ব্যাংকিং নেওয়া হয়?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_17.wav,dataset/chunks/barishal/bar_cate_03/sentence_17.wav,বিকাশে টাকা দিতে পারি?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_18.wav,dataset/chunks/barishal/bar_cate_03/sentence_18.wav,একটি ব্যাগ দেবেন?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_19.wav,dataset/chunks/barishal/bar_cate_03/sentence_19.wav,এই কাপড়ের রং কি উঠবে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_20.wav,dataset/chunks/barishal/bar_cate_03/sentence_20.wav,এই শার্টের অন্য সাইজ আছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_21.wav,dataset/chunks/barishal/bar_cate_03/sentence_21.wav,ছোট সাইজ দেখান।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_22.wav,dataset/chunks/barishal/bar_cate_03/sentence_22.wav,বড় সাইজ আছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_23.wav,dataset/chunks/barishal/bar_cate_03/sentence_23.wav,আমি নীল রঙেরটি চাই।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_24.wav,dataset/chunks/barishal/bar_cate_03/sentence_24.wav,অন্য রং আছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_25.wav,dataset/chunks/barishal/bar_cate_03/sentence_25.wav,এটা কি আসল পণ্য?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_26.wav,dataset/chunks/barishal/bar_cate_03/sentence_26.wav,গ্যারান্টি আছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_27.wav,dataset/chunks/barishal/bar_cate_03/sentence_27.wav,রসিদ দিন।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_28.wav,dataset/chunks/barishal/bar_cate_03/sentence_28.wav,আমি পরে এসে নেব।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_29.wav,dataset/chunks/barishal/bar_cate_03/sentence_29.wav,এটা কি ছাড়ে দেওয়া যাবে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_30.wav,dataset/chunks/barishal/bar_cate_03/sentence_30.wav,আজ কি কোনো অফার আছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_31.wav,dataset/chunks/barishal/bar_cate_03/sentence_31.wav,আমি পাইকারি কিনতে চাই।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_32.wav,dataset/chunks/barishal/bar_cate_03/sentence_32.wav,পাইকারি দাম কত?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_33.wav,dataset/chunks/barishal/bar_cate_03/sentence_33.wav,এই পণ্যটি নতুন এসেছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_34.wav,dataset/chunks/barishal/bar_cate_03/sentence_34.wav,এর মেয়াদ কতদিন?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_35.wav,dataset/chunks/barishal/bar_cate_03/sentence_35.wav,এই ওষুধের মেয়াদ শেষ হয়েছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_36.wav,dataset/chunks/barishal/bar_cate_03/sentence_36.wav,আমাকে ভালো মানের চাল দিন।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_37.wav,dataset/chunks/barishal/bar_cate_03/sentence_37.wav,এই মাছটি কি তাজা?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_38.wav,dataset/chunks/barishal/bar_cate_03/sentence_38.wav,এই মাংস কত কেজি?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_39.wav,dataset/chunks/barishal/bar_cate_03/sentence_39.wav,এক কেজির কম হবে না।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_40.wav,dataset/chunks/barishal/bar_cate_03/sentence_40.wav,একটু কম করে দিন।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_41.wav,dataset/chunks/barishal/bar_cate_03/sentence_41.wav,আমি দরদাম করতে চাই।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_42.wav,dataset/chunks/barishal/bar_cate_03/sentence_42.wav,চূড়ান্ত দাম কত?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_43.wav,dataset/chunks/barishal/bar_cate_03/sentence_43.wav,এই জুতাটি কি টেকসই?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_44.wav,dataset/chunks/barishal/bar_cate_03/sentence_44.wav,এই মোবাইলের দাম কত?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_45.wav,dataset/chunks/barishal/bar_cate_03/sentence_45.wav,এই ফোনে কি গ্যারান্টি আছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_46.wav,dataset/chunks/barishal/bar_cate_03/sentence_46.wav,চার্জারটি আলাদা কিনতে হবে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_47.wav,dataset/chunks/barishal/bar_cate_03/sentence_47.wav,এটি কি ক্যাশ অন ডেলিভারি?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_48.wav,dataset/chunks/barishal/bar_cate_03/sentence_48.wav,আমি অর্ডার দিতে চাই।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_49.wav,dataset/chunks/barishal/bar_cate_03/sentence_49.wav,পণ্যটি কখন ডেলিভারি হবে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_50.wav,dataset/chunks/barishal/bar_cate_03/sentence_50.wav,এই দোকান কখন বন্ধ হয়?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_51.wav,dataset/chunks/barishal/bar_cate_03/sentence_51.wav,আমি একটা উপহার কিনতে চাই।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_52.wav,dataset/chunks/barishal/bar_cate_03/sentence_52.wav,উপহার মোড়ানো হবে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_53.wav,dataset/chunks/barishal/bar_cate_03/sentence_53.wav,এটি কি ফেরত দেওয়া যাবে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_54.wav,dataset/chunks/barishal/bar_cate_03/sentence_54.wav,রিটার্ন পলিসি কী?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_55.wav,dataset/chunks/barishal/bar_cate_03/sentence_55.wav,এই কাপড়টি খুব সুন্দর।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_56.wav,dataset/chunks/barishal/bar_cate_03/sentence_56.wav,এটি কি কটন?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_57.wav,dataset/chunks/barishal/bar_cate_03/sentence_57.wav,এই পণ্যটি কোথায় তৈরি?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_58.wav,dataset/chunks/barishal/bar_cate_03/sentence_58.wav,এটি কি ছাড়ে বিক্রি হচ্ছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_59.wav,dataset/chunks/barishal/bar_cate_03/sentence_59.wav,আমি আরও কিছু দেখতে চাই।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_60.wav,dataset/chunks/barishal/bar_cate_03/sentence_60.wav,আপনার দোকানে কি কার্ড নেওয়া হয়?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_61.wav,dataset/chunks/barishal/bar_cate_03/sentence_61.wav,মোট বিল কত হলো?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_62.wav,dataset/chunks/barishal/bar_cate_03/sentence_62.wav,আমি টাকা ভাঙাতে চাই।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_63.wav,dataset/chunks/barishal/bar_cate_03/sentence_63.wav,ছোট নোট আছে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_64.wav,dataset/chunks/barishal/bar_cate_03/sentence_64.wav,এই ফলগুলো ওজন করে দিন।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_65.wav,dataset/chunks/barishal/bar_cate_03/sentence_65.wav,এক কেজির একটু কম দিন।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_66.wav,dataset/chunks/barishal/bar_cate_03/sentence_66.wav,আজকে বাজারে ভিড় বেশি।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_67.wav,dataset/chunks/barishal/bar_cate_03/sentence_67.wav,দাম কেন এত বেশি?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_68.wav,dataset/chunks/barishal/bar_cate_03/sentence_68.wav,কাল কি দাম কম হবে?,barishal,cate_03,SPK_13,bar_cate_03
+sentence_69.wav,dataset/chunks/barishal/bar_cate_03/sentence_69.wav,আমি নিয়মিত ক্রেতা।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_70.wav,dataset/chunks/barishal/bar_cate_03/sentence_70.wav,আবার আসবো।,barishal,cate_03,SPK_13,bar_cate_03
+sentence_01.wav,dataset/chunks/barishal/bar_cate_12/sentence_01.wav,আজকের মিটিং কবে?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_02.wav,dataset/chunks/barishal/bar_cate_12/sentence_02.wav,আমি আমার রিপোর্ট প্রস্তুত করেছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_03.wav,dataset/chunks/barishal/bar_cate_12/sentence_03.wav,অফিসে সময়মতো পৌঁছানো উচিত।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_04.wav,dataset/chunks/barishal/bar_cate_12/sentence_04.wav,আপনার সহকর্মী কি সাহায্য করছে?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_05.wav,dataset/chunks/barishal/bar_cate_12/sentence_05.wav,আমরা নতুন প্রকল্প শুরু করছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_06.wav,dataset/chunks/barishal/bar_cate_12/sentence_06.wav,আজ অফিসে কি কাজ আছে?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_07.wav,dataset/chunks/barishal/bar_cate_12/sentence_07.wav,আমার কম্পিউটারে সমস্যা হয়েছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_08.wav,dataset/chunks/barishal/bar_cate_12/sentence_08.wav,মিটিংটি কত সময়ের জন্য?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_09.wav,dataset/chunks/barishal/bar_cate_12/sentence_09.wav,আমি প্রেজেন্টেশন প্রস্তুত করছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_10.wav,dataset/chunks/barishal/bar_cate_12/sentence_10.wav,আপনি কোন দপ্তরে কাজ করেন?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_11.wav,dataset/chunks/barishal/bar_cate_12/sentence_11.wav,অফিসের সময়সূচি কি?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_12.wav,dataset/chunks/barishal/bar_cate_12/sentence_12.wav,আমি নতুন কর্মচারী প্রশিক্ষণ দিচ্ছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_13.wav,dataset/chunks/barishal/bar_cate_12/sentence_13.wav,আজ অফিসে তদারকি করা হয়েছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_14.wav,dataset/chunks/barishal/bar_cate_12/sentence_14.wav,আমরা ক্লায়েন্টের সঙ্গে মিটিং করেছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_15.wav,dataset/chunks/barishal/bar_cate_12/sentence_15.wav,আমার ল্যাপটপ কাজ করছে না।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_16.wav,dataset/chunks/barishal/bar_cate_12/sentence_16.wav,অফিসের কাজ শেষ হয়েছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_17.wav,dataset/chunks/barishal/bar_cate_12/sentence_17.wav,কি ধরনের রিপোর্ট আজ জমা দিতে হবে?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_18.wav,dataset/chunks/barishal/bar_cate_12/sentence_18.wav,আমি ইমেইল পাঠাচ্ছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_19.wav,dataset/chunks/barishal/bar_cate_12/sentence_19.wav,অফিসে নতুন নীতি প্রয়োগ করা হয়েছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_20.wav,dataset/chunks/barishal/bar_cate_12/sentence_20.wav,আপনার সহকর্মী punctual কি?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_21.wav,dataset/chunks/barishal/bar_cate_12/sentence_21.wav,আমরা অফিসে কাজ ভাগ করেছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_22.wav,dataset/chunks/barishal/bar_cate_12/sentence_22.wav,আজ অফিসে কি মিটিং আছে?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_23.wav,dataset/chunks/barishal/bar_cate_12/sentence_23.wav,আমি ক্লায়েন্টের জন্য ডকুমেন্ট তৈরি করছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_24.wav,dataset/chunks/barishal/bar_cate_12/sentence_24.wav,অফিসের বাতাস ভালো নেই।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_25.wav,dataset/chunks/barishal/bar_cate_12/sentence_25.wav,আমরা নতুন সফটওয়্যার ব্যবহার করছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_26.wav,dataset/chunks/barishal/bar_cate_12/sentence_26.wav,কি কাজ দ্রুত শেষ করতে হবে?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_27.wav,dataset/chunks/barishal/bar_cate_12/sentence_27.wav,আমার ডেস্কে অনেক নথি আছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_28.wav,dataset/chunks/barishal/bar_cate_12/sentence_28.wav,অফিসে আজ নতুন অতিথি এসেছেন।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_29.wav,dataset/chunks/barishal/bar_cate_12/sentence_29.wav,আমরা টিম মিটিং করছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_30.wav,dataset/chunks/barishal/bar_cate_12/sentence_30.wav,আপনার কাজের অগ্রগতি কেমন?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_31.wav,dataset/chunks/barishal/bar_cate_12/sentence_31.wav,আমি নতুন প্রকল্পের পরিকল্পনা করছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_32.wav,dataset/chunks/barishal/bar_cate_12/sentence_32.wav,আজ অফিসে অনেক কাজ হয়েছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_33.wav,dataset/chunks/barishal/bar_cate_12/sentence_33.wav,আমি ইমেইল চেক করছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_34.wav,dataset/chunks/barishal/bar_cate_12/sentence_34.wav,অফিসের কম্পিউটার আপডেট হয়েছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_35.wav,dataset/chunks/barishal/bar_cate_12/sentence_35.wav,আপনি আজ কোন দপ্তরে কাজ করছেন?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_36.wav,dataset/chunks/barishal/bar_cate_12/sentence_36.wav,আমরা নতুন টিম মিটিং শুরু করেছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_37.wav,dataset/chunks/barishal/bar_cate_12/sentence_37.wav,কি ধরনের রিপোর্ট শেষ হয়েছে?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_38.wav,dataset/chunks/barishal/bar_cate_12/sentence_38.wav,আমি অফিসের জন্য প্রেজেন্টেশন তৈরি করেছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_39.wav,dataset/chunks/barishal/bar_cate_12/sentence_39.wav,আমাদের টিমে নতুন সদস্য যোগ হয়েছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_40.wav,dataset/chunks/barishal/bar_cate_12/sentence_40.wav,অফিসের কাজের মান খুব ভালো।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_41.wav,dataset/chunks/barishal/bar_cate_12/sentence_41.wav,আজ অফিসে কি মিটিং শিডিউল আছে?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_42.wav,dataset/chunks/barishal/bar_cate_12/sentence_42.wav,আমি অফিসের ডকুমেন্ট স্ক্যান করছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_43.wav,dataset/chunks/barishal/bar_cate_12/sentence_43.wav,আপনার সহকর্মী কি ব্যস্ত?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_44.wav,dataset/chunks/barishal/bar_cate_12/sentence_44.wav,আমরা অফিসে নথি আপডেট করেছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_45.wav,dataset/chunks/barishal/bar_cate_12/sentence_45.wav,আজ টিমের সঙ্গে আলোচনা হয়েছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_46.wav,dataset/chunks/barishal/bar_cate_12/sentence_46.wav,আমি নতুন কর্মচারীর প্রশিক্ষণ দিচ্ছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_47.wav,dataset/chunks/barishal/bar_cate_12/sentence_47.wav,অফিসে নতুন নীতি প্রয়োগ করা হয়েছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_48.wav,dataset/chunks/barishal/bar_cate_12/sentence_48.wav,আমার কম্পিউটার হ্যাং করেছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_49.wav,dataset/chunks/barishal/bar_cate_12/sentence_49.wav,আমরা ক্লায়েন্টের কাছে প্রজেক্ট প্রেজেন্ট করেছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_50.wav,dataset/chunks/barishal/bar_cate_12/sentence_50.wav,আপনার অফিসের সময়সূচি কি?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_51.wav,dataset/chunks/barishal/bar_cate_12/sentence_51.wav,আমি আজ নতুন কাজ শিখছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_52.wav,dataset/chunks/barishal/bar_cate_12/sentence_52.wav,অফিসে নিরাপত্তা ব্যবস্থা ভালো।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_53.wav,dataset/chunks/barishal/bar_cate_12/sentence_53.wav,আমরা অফিসে নতুন টুল ব্যবহার করছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_54.wav,dataset/chunks/barishal/bar_cate_12/sentence_54.wav,আপনার টিম কি প্রস্তুত?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_55.wav,dataset/chunks/barishal/bar_cate_12/sentence_55.wav,আমি অফিসে অনেক নথি সাজাচ্ছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_56.wav,dataset/chunks/barishal/bar_cate_12/sentence_56.wav,আজ অফিসে নতুন প্রকল্পের আলোচনা হয়েছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_57.wav,dataset/chunks/barishal/bar_cate_12/sentence_57.wav,আমি আজ টিম মিটিং নিয়ে ব্যস্ত।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_58.wav,dataset/chunks/barishal/bar_cate_12/sentence_58.wav,অফিসে নতুন সফটওয়্যার ইনস্টল করা হয়েছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_59.wav,dataset/chunks/barishal/bar_cate_12/sentence_59.wav,কি ধরনের অফিস কাজ শেষ করতে হবে?,barishal,cate_12,SPK_13,bar_cate_12
+sentence_60.wav,dataset/chunks/barishal/bar_cate_12/sentence_60.wav,আমি ক্লায়েন্টের জন্য ডকুমেন্ট প্রস্তুত করছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_61.wav,dataset/chunks/barishal/bar_cate_12/sentence_61.wav,অফিসে আজ অনেক ইমেইল এসেছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_62.wav,dataset/chunks/barishal/bar_cate_12/sentence_62.wav,আমাদের টিমের সদস্য সক্রিয়।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_63.wav,dataset/chunks/barishal/bar_cate_12/sentence_63.wav,আমি অফিসে নতুন প্রকল্প পরিকল্পনা করছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_64.wav,dataset/chunks/barishal/bar_cate_12/sentence_64.wav,আজ অফিসে অনেক visitors এসেছে।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_65.wav,dataset/chunks/barishal/bar_cate_12/sentence_65.wav,অফিসে meeting room প্রস্তুত।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_66.wav,dataset/chunks/barishal/bar_cate_12/sentence_66.wav,আমি অফিসের জন্য রিপোর্ট তৈরি করেছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_67.wav,dataset/chunks/barishal/bar_cate_12/sentence_67.wav,আমরা নতুন guidelines মেনে চলছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_68.wav,dataset/chunks/barishal/bar_cate_12/sentence_68.wav,অফিসে কাজের চাপ বেশি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_69.wav,dataset/chunks/barishal/bar_cate_12/sentence_69.wav,আমি ক্লায়েন্টের সাথে discussion করেছি।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_70.wav,dataset/chunks/barishal/bar_cate_12/sentence_70.wav,আমাদের অফিসের পরিবেশ খুব ভালো।,barishal,cate_12,SPK_13,bar_cate_12
+sentence_01.wav,dataset/chunks/chittagong/chi_cate_03/sentence_01.wav,এই জিনিসটির দাম কত?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_02.wav,dataset/chunks/chittagong/chi_cate_03/sentence_02.wav,দাম একটু কম হবে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_03.wav,dataset/chunks/chittagong/chi_cate_03/sentence_03.wav,এক কেজি চাল দিন।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_04.wav,dataset/chunks/chittagong/chi_cate_03/sentence_04.wav,আধা কেজি চিনি দিন।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_05.wav,dataset/chunks/chittagong/chi_cate_03/sentence_05.wav,এটা কি দেশি পণ্য?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_06.wav,dataset/chunks/chittagong/chi_cate_03/sentence_06.wav,এটা কি বিদেশি পণ্য?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_07.wav,dataset/chunks/chittagong/chi_cate_03/sentence_07.wav,একটু ভালো মানের দেখান।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_08.wav,dataset/chunks/chittagong/chi_cate_03/sentence_08.wav,এর থেকে সস্তা কিছু আছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_09.wav,dataset/chunks/chittagong/chi_cate_03/sentence_09.wav,এটা খুব দামী।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_10.wav,dataset/chunks/chittagong/chi_cate_03/sentence_10.wav,আমি এটা কিনতে চাই।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_11.wav,dataset/chunks/chittagong/chi_cate_03/sentence_11.wav,আপনার কাছে কি তাজা সবজি আছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_12.wav,dataset/chunks/chittagong/chi_cate_03/sentence_12.wav,এই ফলগুলো কি আজকের?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_13.wav,dataset/chunks/chittagong/chi_cate_03/sentence_13.wav,এক ডজন ডিম দিন।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_14.wav,dataset/chunks/chittagong/chi_cate_03/sentence_14.wav,কত টাকা হলো?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_15.wav,dataset/chunks/chittagong/chi_cate_03/sentence_15.wav,আমি নগদ পরিশোধ করবো।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_16.wav,dataset/chunks/chittagong/chi_cate_03/sentence_16.wav,মোবাইল ব্যাংকিং নেওয়া হয়?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_17.wav,dataset/chunks/chittagong/chi_cate_03/sentence_17.wav,বিকাশে টাকা দিতে পারি?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_18.wav,dataset/chunks/chittagong/chi_cate_03/sentence_18.wav,একটি ব্যাগ দেবেন?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_19.wav,dataset/chunks/chittagong/chi_cate_03/sentence_19.wav,এই কাপড়ের রং কি উঠবে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_20.wav,dataset/chunks/chittagong/chi_cate_03/sentence_20.wav,এই শার্টের অন্য সাইজ আছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_21.wav,dataset/chunks/chittagong/chi_cate_03/sentence_21.wav,ছোট সাইজ দেখান।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_22.wav,dataset/chunks/chittagong/chi_cate_03/sentence_22.wav,বড় সাইজ আছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_23.wav,dataset/chunks/chittagong/chi_cate_03/sentence_23.wav,আমি নীল রঙেরটি চাই।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_24.wav,dataset/chunks/chittagong/chi_cate_03/sentence_24.wav,অন্য রং আছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_25.wav,dataset/chunks/chittagong/chi_cate_03/sentence_25.wav,এটা কি আসল পণ্য?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_26.wav,dataset/chunks/chittagong/chi_cate_03/sentence_26.wav,গ্যারান্টি আছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_27.wav,dataset/chunks/chittagong/chi_cate_03/sentence_27.wav,রসিদ দিন।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_28.wav,dataset/chunks/chittagong/chi_cate_03/sentence_28.wav,আমি পরে এসে নেব।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_29.wav,dataset/chunks/chittagong/chi_cate_03/sentence_29.wav,এটা কি ছাড়ে দেওয়া যাবে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_30.wav,dataset/chunks/chittagong/chi_cate_03/sentence_30.wav,আজ কি কোনো অফার আছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_31.wav,dataset/chunks/chittagong/chi_cate_03/sentence_31.wav,আমি পাইকারি কিনতে চাই।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_32.wav,dataset/chunks/chittagong/chi_cate_03/sentence_32.wav,পাইকারি দাম কত?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_33.wav,dataset/chunks/chittagong/chi_cate_03/sentence_33.wav,এই পণ্যটি নতুন এসেছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_34.wav,dataset/chunks/chittagong/chi_cate_03/sentence_34.wav,এর মেয়াদ কতদিন?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_35.wav,dataset/chunks/chittagong/chi_cate_03/sentence_35.wav,এই ওষুধের মেয়াদ শেষ হয়েছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_36.wav,dataset/chunks/chittagong/chi_cate_03/sentence_36.wav,আমাকে ভালো মানের চাল দিন।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_37.wav,dataset/chunks/chittagong/chi_cate_03/sentence_37.wav,এই মাছটি কি তাজা?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_38.wav,dataset/chunks/chittagong/chi_cate_03/sentence_38.wav,এই মাংস কত কেজি?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_39.wav,dataset/chunks/chittagong/chi_cate_03/sentence_39.wav,এক কেজির কম হবে না।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_40.wav,dataset/chunks/chittagong/chi_cate_03/sentence_40.wav,একটু কম করে দিন।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_41.wav,dataset/chunks/chittagong/chi_cate_03/sentence_41.wav,আমি দরদাম করতে চাই।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_42.wav,dataset/chunks/chittagong/chi_cate_03/sentence_42.wav,চূড়ান্ত দাম কত?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_43.wav,dataset/chunks/chittagong/chi_cate_03/sentence_43.wav,এই জুতাটি কি টেকসই?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_44.wav,dataset/chunks/chittagong/chi_cate_03/sentence_44.wav,এই মোবাইলের দাম কত?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_45.wav,dataset/chunks/chittagong/chi_cate_03/sentence_45.wav,এই ফোনে কি গ্যারান্টি আছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_46.wav,dataset/chunks/chittagong/chi_cate_03/sentence_46.wav,চার্জারটি আলাদা কিনতে হবে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_47.wav,dataset/chunks/chittagong/chi_cate_03/sentence_47.wav,এটি কি ক্যাশ অন ডেলিভারি?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_48.wav,dataset/chunks/chittagong/chi_cate_03/sentence_48.wav,আমি অর্ডার দিতে চাই।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_49.wav,dataset/chunks/chittagong/chi_cate_03/sentence_49.wav,পণ্যটি কখন ডেলিভারি হবে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_50.wav,dataset/chunks/chittagong/chi_cate_03/sentence_50.wav,এই দোকান কখন বন্ধ হয়?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_51.wav,dataset/chunks/chittagong/chi_cate_03/sentence_51.wav,আমি একটা উপহার কিনতে চাই।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_52.wav,dataset/chunks/chittagong/chi_cate_03/sentence_52.wav,উপহার মোড়ানো হবে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_53.wav,dataset/chunks/chittagong/chi_cate_03/sentence_53.wav,এটি কি ফেরত দেওয়া যাবে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_54.wav,dataset/chunks/chittagong/chi_cate_03/sentence_54.wav,রিটার্ন পলিসি কী?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_55.wav,dataset/chunks/chittagong/chi_cate_03/sentence_55.wav,এই কাপড়টি খুব সুন্দর।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_56.wav,dataset/chunks/chittagong/chi_cate_03/sentence_56.wav,এটি কি কটন?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_57.wav,dataset/chunks/chittagong/chi_cate_03/sentence_57.wav,এই পণ্যটি কোথায় তৈরি?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_58.wav,dataset/chunks/chittagong/chi_cate_03/sentence_58.wav,এটি কি ছাড়ে বিক্রি হচ্ছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_59.wav,dataset/chunks/chittagong/chi_cate_03/sentence_59.wav,আমি আরও কিছু দেখতে চাই।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_60.wav,dataset/chunks/chittagong/chi_cate_03/sentence_60.wav,আপনার দোকানে কি কার্ড নেওয়া হয়?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_61.wav,dataset/chunks/chittagong/chi_cate_03/sentence_61.wav,মোট বিল কত হলো?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_62.wav,dataset/chunks/chittagong/chi_cate_03/sentence_62.wav,আমি টাকা ভাঙাতে চাই।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_63.wav,dataset/chunks/chittagong/chi_cate_03/sentence_63.wav,ছোট নোট আছে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_64.wav,dataset/chunks/chittagong/chi_cate_03/sentence_64.wav,এই ফলগুলো ওজন করে দিন।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_65.wav,dataset/chunks/chittagong/chi_cate_03/sentence_65.wav,এক কেজির একটু কম দিন।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_66.wav,dataset/chunks/chittagong/chi_cate_03/sentence_66.wav,আজকে বাজারে ভিড় বেশি।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_67.wav,dataset/chunks/chittagong/chi_cate_03/sentence_67.wav,দাম কেন এত বেশি?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_68.wav,dataset/chunks/chittagong/chi_cate_03/sentence_68.wav,কাল কি দাম কম হবে?,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_69.wav,dataset/chunks/chittagong/chi_cate_03/sentence_69.wav,আমি নিয়মিত ক্রেতা।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_70.wav,dataset/chunks/chittagong/chi_cate_03/sentence_70.wav,আবার আসবো।,chittagong,cate_03,SPK_14,chi_cate_03
+sentence_01.wav,dataset/chunks/chittagong/chi_cate_14/sentence_01.wav,অনুগ্রহ করে দরজা বন্ধ করবেন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_02.wav,dataset/chunks/chittagong/chi_cate_14/sentence_02.wav,দয়া করে আমাকে সাহায্য করুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_03.wav,dataset/chunks/chittagong/chi_cate_14/sentence_03.wav,আপনি কি আমাকে বইটা দিতে পারেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_04.wav,dataset/chunks/chittagong/chi_cate_14/sentence_04.wav,অনুগ্রহ করে ধীরে কথা বলুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_05.wav,dataset/chunks/chittagong/chi_cate_14/sentence_05.wav,দয়া করে এখানে বসুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_06.wav,dataset/chunks/chittagong/chi_cate_14/sentence_06.wav,আপনি কি আমার জন্য অপেক্ষা করতে পারেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_07.wav,dataset/chunks/chittagong/chi_cate_14/sentence_07.wav,অনুগ্রহ করে আবার বলুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_08.wav,dataset/chunks/chittagong/chi_cate_14/sentence_08.wav,আপনি কি আমাকে রাস্তা দেখাতে পারেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_09.wav,dataset/chunks/chittagong/chi_cate_14/sentence_09.wav,দয়া করে ফোন ব্যবহার করবেন না।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_10.wav,dataset/chunks/chittagong/chi_cate_14/sentence_10.wav,আপনি কি আমার জন্য এটি কিনতে পারবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_11.wav,dataset/chunks/chittagong/chi_cate_14/sentence_11.wav,অনুগ্রহ করে আমাকে মনে করিয়ে দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_12.wav,dataset/chunks/chittagong/chi_cate_14/sentence_12.wav,আপনি কি আমাকে ছবি তুলতে সাহায্য করবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_13.wav,dataset/chunks/chittagong/chi_cate_14/sentence_13.wav,দয়া করে আমাকে অপেক্ষা করতে দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_14.wav,dataset/chunks/chittagong/chi_cate_14/sentence_14.wav,অনুগ্রহ করে দরজা খুলে দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_15.wav,dataset/chunks/chittagong/chi_cate_14/sentence_15.wav,আপনি কি আমার জন্য কাজটি করতে পারেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_16.wav,dataset/chunks/chittagong/chi_cate_14/sentence_16.wav,দয়া করে শব্দ কমান।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_17.wav,dataset/chunks/chittagong/chi_cate_14/sentence_17.wav,আপনি কি আমাকে জিজ্ঞাসা করতে পারবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_18.wav,dataset/chunks/chittagong/chi_cate_14/sentence_18.wav,অনুগ্রহ করে আমাকে আসতে দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_19.wav,dataset/chunks/chittagong/chi_cate_14/sentence_19.wav,আপনি কি আমার সঙ্গে কথা বলবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_20.wav,dataset/chunks/chittagong/chi_cate_14/sentence_20.wav,দয়া করে আমার দিকে তাকান।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_21.wav,dataset/chunks/chittagong/chi_cate_14/sentence_21.wav,অনুগ্রহ করে আমাকে সময় দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_22.wav,dataset/chunks/chittagong/chi_cate_14/sentence_22.wav,আপনি কি আমাকে সাহায্য করতে পারেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_23.wav,dataset/chunks/chittagong/chi_cate_14/sentence_23.wav,দয়া করে আমাকে এটি বোঝান।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_24.wav,dataset/chunks/chittagong/chi_cate_14/sentence_24.wav,অনুগ্রহ করে এটিকে ধরুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_25.wav,dataset/chunks/chittagong/chi_cate_14/sentence_25.wav,আপনি কি আমাকে তথ্য দিতে পারেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_26.wav,dataset/chunks/chittagong/chi_cate_14/sentence_26.wav,দয়া করে এখানে আসুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_27.wav,dataset/chunks/chittagong/chi_cate_14/sentence_27.wav,অনুগ্রহ করে আমাকে অপেক্ষা করতে বলুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_28.wav,dataset/chunks/chittagong/chi_cate_14/sentence_28.wav,আপনি কি আমাকে রাস্তা দেখাবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_29.wav,dataset/chunks/chittagong/chi_cate_14/sentence_29.wav,দয়া করে আমার জন্য অপেক্ষা করুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_30.wav,dataset/chunks/chittagong/chi_cate_14/sentence_30.wav,অনুগ্রহ করে আমাকে সাহায্য করতে বলুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_31.wav,dataset/chunks/chittagong/chi_cate_14/sentence_31.wav,আপনি কি আমার জন্য এটি আনবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_32.wav,dataset/chunks/chittagong/chi_cate_14/sentence_32.wav,দয়া করে আমাকে বসতে দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_33.wav,dataset/chunks/chittagong/chi_cate_14/sentence_33.wav,অনুগ্রহ করে আমাকে এটি দেখান।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_34.wav,dataset/chunks/chittagong/chi_cate_14/sentence_34.wav,আপনি কি আমার সঙ্গে খাবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_35.wav,dataset/chunks/chittagong/chi_cate_14/sentence_35.wav,দয়া করে ধৈর্য ধরুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_36.wav,dataset/chunks/chittagong/chi_cate_14/sentence_36.wav,অনুগ্রহ করে আমাকে ফোন দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_37.wav,dataset/chunks/chittagong/chi_cate_14/sentence_37.wav,আপনি কি আমার জন্য অপেক্ষা করবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_38.wav,dataset/chunks/chittagong/chi_cate_14/sentence_38.wav,দয়া করে এটি খুলুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_39.wav,dataset/chunks/chittagong/chi_cate_14/sentence_39.wav,অনুগ্রহ করে এটি বন্ধ করুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_40.wav,dataset/chunks/chittagong/chi_cate_14/sentence_40.wav,আপনি কি আমাকে নির্দেশ দিতে পারেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_41.wav,dataset/chunks/chittagong/chi_cate_14/sentence_41.wav,দয়া করে আমার কথা শোনুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_42.wav,dataset/chunks/chittagong/chi_cate_14/sentence_42.wav,অনুগ্রহ করে আমাকে সময় দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_43.wav,dataset/chunks/chittagong/chi_cate_14/sentence_43.wav,আপনি কি আমার জন্য এটি আনবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_44.wav,dataset/chunks/chittagong/chi_cate_14/sentence_44.wav,দয়া করে আমাকে সাহায্য করতে বলুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_45.wav,dataset/chunks/chittagong/chi_cate_14/sentence_45.wav,অনুগ্রহ করে আমাকে অনুমতি দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_46.wav,dataset/chunks/chittagong/chi_cate_14/sentence_46.wav,আপনি কি আমাকে রাস্তা দেখাবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_47.wav,dataset/chunks/chittagong/chi_cate_14/sentence_47.wav,দয়া করে এখানে বসুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_48.wav,dataset/chunks/chittagong/chi_cate_14/sentence_48.wav,অনুগ্রহ করে এটি নিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_49.wav,dataset/chunks/chittagong/chi_cate_14/sentence_49.wav,আপনি কি আমাকে এটি দেবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_50.wav,dataset/chunks/chittagong/chi_cate_14/sentence_50.wav,দয়া করে আমাকে সঙ্গে নিয়ে যান।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_51.wav,dataset/chunks/chittagong/chi_cate_14/sentence_51.wav,অনুগ্রহ করে আমাকে বলুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_52.wav,dataset/chunks/chittagong/chi_cate_14/sentence_52.wav,আপনি কি আমার জন্য অপেক্ষা করতে পারবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_53.wav,dataset/chunks/chittagong/chi_cate_14/sentence_53.wav,দয়া করে এটি পরীক্ষা করুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_54.wav,dataset/chunks/chittagong/chi_cate_14/sentence_54.wav,অনুগ্রহ করে আমাকে এটি লিখে দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_55.wav,dataset/chunks/chittagong/chi_cate_14/sentence_55.wav,আপনি কি আমার জন্য এটি করতে পারেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_56.wav,dataset/chunks/chittagong/chi_cate_14/sentence_56.wav,দয়া করে আমার সঙ্গে যোগাযোগ করুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_57.wav,dataset/chunks/chittagong/chi_cate_14/sentence_57.wav,অনুগ্রহ করে আমাকে সহায়তা করুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_58.wav,dataset/chunks/chittagong/chi_cate_14/sentence_58.wav,আপনি কি আমাকে এটি দেখাবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_59.wav,dataset/chunks/chittagong/chi_cate_14/sentence_59.wav,দয়া করে আমার জন্য অপেক্ষা করুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_60.wav,dataset/chunks/chittagong/chi_cate_14/sentence_60.wav,অনুগ্রহ করে আমাকে সাহায্য করুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_61.wav,dataset/chunks/chittagong/chi_cate_14/sentence_61.wav,আপনি কি আমাকে সাহায্য করবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_62.wav,dataset/chunks/chittagong/chi_cate_14/sentence_62.wav,দয়া করে আমাকে এটি বুঝতে দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_63.wav,dataset/chunks/chittagong/chi_cate_14/sentence_63.wav,অনুগ্রহ করে এটি রাখুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_64.wav,dataset/chunks/chittagong/chi_cate_14/sentence_64.wav,আপনি কি আমাকে অনুমতি দেবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_65.wav,dataset/chunks/chittagong/chi_cate_14/sentence_65.wav,দয়া করে আমাকে এটি আনতে দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_66.wav,dataset/chunks/chittagong/chi_cate_14/sentence_66.wav,অনুগ্রহ করে আমাকে নির্দেশ দিন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_67.wav,dataset/chunks/chittagong/chi_cate_14/sentence_67.wav,আপনি কি আমাকে এটি আনবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_68.wav,dataset/chunks/chittagong/chi_cate_14/sentence_68.wav,দয়া করে আমাকে সাহায্য করতে বলুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_69.wav,dataset/chunks/chittagong/chi_cate_14/sentence_69.wav,অনুগ্রহ করে এটি আমার জন্য রাখুন।,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_70.wav,dataset/chunks/chittagong/chi_cate_14/sentence_70.wav,আপনি কি আমার জন্য অপেক্ষা করতে পারবেন?,chittagong,cate_14,SPK_14,chi_cate_14
+sentence_01.wav,dataset/chunks/noakhali/noa_cate_03/sentence_01.wav,আমি একটি টেবিল বুক করতে চাই।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_02.wav,dataset/chunks/noakhali/noa_cate_03/sentence_02.wav,দুই জনের জন্য একটি টেবিল দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_03.wav,dataset/chunks/noakhali/noa_cate_03/sentence_03.wav,মেনু কার্ডটি দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_04.wav,dataset/chunks/noakhali/noa_cate_03/sentence_04.wav,আজকের বিশেষ খাবার কী?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_05.wav,dataset/chunks/noakhali/noa_cate_03/sentence_05.wav,আমি ভাত ও মুরগির মাংস চাই।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_06.wav,dataset/chunks/noakhali/noa_cate_03/sentence_06.wav,এই খাবারটি ঝাল কি?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_07.wav,dataset/chunks/noakhali/noa_cate_03/sentence_07.wav,কম ঝাল করে দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_08.wav,dataset/chunks/noakhali/noa_cate_03/sentence_08.wav,আমি নিরামিষ খাবার চাই।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_09.wav,dataset/chunks/noakhali/noa_cate_03/sentence_09.wav,এখানে কি হালাল খাবার পাওয়া যায়?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_10.wav,dataset/chunks/noakhali/noa_cate_03/sentence_10.wav,পানি দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_11.wav,dataset/chunks/noakhali/noa_cate_03/sentence_11.wav,ঠান্ডা পানি আছে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_12.wav,dataset/chunks/noakhali/noa_cate_03/sentence_12.wav,একটি কোমল পানীয় দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_13.wav,dataset/chunks/noakhali/noa_cate_03/sentence_13.wav,এই খাবারটি খুব সুস্বাদু।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_14.wav,dataset/chunks/noakhali/noa_cate_03/sentence_14.wav,খাবারটি খুব লবণাক্ত।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_15.wav,dataset/chunks/noakhali/noa_cate_03/sentence_15.wav,বিল দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_16.wav,dataset/chunks/noakhali/noa_cate_03/sentence_16.wav,আমি নগদে পরিশোধ করবো।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_17.wav,dataset/chunks/noakhali/noa_cate_03/sentence_17.wav,কার্ডে পরিশোধ করা যাবে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_18.wav,dataset/chunks/noakhali/noa_cate_03/sentence_18.wav,খাবারটি কতক্ষণে আসবে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_19.wav,dataset/chunks/noakhali/noa_cate_03/sentence_19.wav,আরেকটি প্লেট দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_20.wav,dataset/chunks/noakhali/noa_cate_03/sentence_20.wav,চামচ ও কাঁটা দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_21.wav,dataset/chunks/noakhali/noa_cate_03/sentence_21.wav,এখানে কি ওয়াইফাই আছে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_22.wav,dataset/chunks/noakhali/noa_cate_03/sentence_22.wav,ওয়াইফাই পাসওয়ার্ড কী?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_23.wav,dataset/chunks/noakhali/noa_cate_03/sentence_23.wav,খাবারটি প্যাকেট করে দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_24.wav,dataset/chunks/noakhali/noa_cate_03/sentence_24.wav,আমি বাসায় নিয়ে যাব।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_25.wav,dataset/chunks/noakhali/noa_cate_03/sentence_25.wav,একটি কফি দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_26.wav,dataset/chunks/noakhali/noa_cate_03/sentence_26.wav,চা আছে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_27.wav,dataset/chunks/noakhali/noa_cate_03/sentence_27.wav,দুধ চা দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_28.wav,dataset/chunks/noakhali/noa_cate_03/sentence_28.wav,চিনি ছাড়া চা দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_29.wav,dataset/chunks/noakhali/noa_cate_03/sentence_29.wav,এখানে কি ব্রেকফাস্ট পাওয়া যায়?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_30.wav,dataset/chunks/noakhali/noa_cate_03/sentence_30.wav,দুপুরের খাবার কখন শুরু হয়?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_31.wav,dataset/chunks/noakhali/noa_cate_03/sentence_31.wav,রাতের খাবার কখন পরিবেশন করা হয়?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_32.wav,dataset/chunks/noakhali/noa_cate_03/sentence_32.wav,আমি মাছের তরকারি চাই।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_33.wav,dataset/chunks/noakhali/noa_cate_03/sentence_33.wav,গরুর মাংস আছে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_34.wav,dataset/chunks/noakhali/noa_cate_03/sentence_34.wav,এই স্যুপটি গরম কি?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_35.wav,dataset/chunks/noakhali/noa_cate_03/sentence_35.wav,একটু লেবু দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_36.wav,dataset/chunks/noakhali/noa_cate_03/sentence_36.wav,এই রেস্টুরেন্ট খুব পরিষ্কার।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_37.wav,dataset/chunks/noakhali/noa_cate_03/sentence_37.wav,পরিবেশটি খুব সুন্দর।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_38.wav,dataset/chunks/noakhali/noa_cate_03/sentence_38.wav,খাবার পরিবেশন দ্রুত হয়েছে।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_39.wav,dataset/chunks/noakhali/noa_cate_03/sentence_39.wav,খাবার পরিবেশন দেরিতে হয়েছে।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_40.wav,dataset/chunks/noakhali/noa_cate_03/sentence_40.wav,আর কিছু লাগবে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_41.wav,dataset/chunks/noakhali/noa_cate_03/sentence_41.wav,আমি আরও ভাত চাই।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_42.wav,dataset/chunks/noakhali/noa_cate_03/sentence_42.wav,একটু ঝোল দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_43.wav,dataset/chunks/noakhali/noa_cate_03/sentence_43.wav,এটি কি তাজা রান্না?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_44.wav,dataset/chunks/noakhali/noa_cate_03/sentence_44.wav,এখানে কি পরিবার নিয়ে বসা যায়?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_45.wav,dataset/chunks/noakhali/noa_cate_03/sentence_45.wav,শিশুদের জন্য আলাদা চেয়ার আছে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_46.wav,dataset/chunks/noakhali/noa_cate_03/sentence_46.wav,খাবারটি খুব গরম।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_47.wav,dataset/chunks/noakhali/noa_cate_03/sentence_47.wav,এটি খুব ঠান্ডা।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_48.wav,dataset/chunks/noakhali/noa_cate_03/sentence_48.wav,এখানে কি অনলাইনে অর্ডার করা যায়?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_49.wav,dataset/chunks/noakhali/noa_cate_03/sentence_49.wav,ডেলিভারি কত সময় লাগে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_50.wav,dataset/chunks/noakhali/noa_cate_03/sentence_50.wav,এই খাবারটির দাম কত?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_51.wav,dataset/chunks/noakhali/noa_cate_03/sentence_51.wav,আমি অল্প পরিমাণ চাই।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_52.wav,dataset/chunks/noakhali/noa_cate_03/sentence_52.wav,বড় পরিমাণ দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_53.wav,dataset/chunks/noakhali/noa_cate_03/sentence_53.wav,এই খাবারটি খুব মিষ্টি।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_54.wav,dataset/chunks/noakhali/noa_cate_03/sentence_54.wav,এটি কি ঝাল কম করা যাবে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_55.wav,dataset/chunks/noakhali/noa_cate_03/sentence_55.wav,আরেক গ্লাস পানি দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_56.wav,dataset/chunks/noakhali/noa_cate_03/sentence_56.wav,আমি ধন্যবাদ জানাই।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_57.wav,dataset/chunks/noakhali/noa_cate_03/sentence_57.wav,পরিষেবা খুব ভালো ছিল।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_58.wav,dataset/chunks/noakhali/noa_cate_03/sentence_58.wav,পরিষেবা উন্নত করা দরকার।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_59.wav,dataset/chunks/noakhali/noa_cate_03/sentence_59.wav,আমি এই রেস্টুরেন্টটি পছন্দ করি।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_60.wav,dataset/chunks/noakhali/noa_cate_03/sentence_60.wav,এটি কি এয়ার কন্ডিশনড?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_61.wav,dataset/chunks/noakhali/noa_cate_03/sentence_61.wav,বাইরে বসার ব্যবস্থা আছে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_62.wav,dataset/chunks/noakhali/noa_cate_03/sentence_62.wav,খাবারে অ্যালার্জির উপাদান আছে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_63.wav,dataset/chunks/noakhali/noa_cate_03/sentence_63.wav,আমি বাদাম খেতে পারি না।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_64.wav,dataset/chunks/noakhali/noa_cate_03/sentence_64.wav,এটি কি গ্লুটেন মুক্ত?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_65.wav,dataset/chunks/noakhali/noa_cate_03/sentence_65.wav,আমাকে একটি ন্যাপকিন দিন।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_66.wav,dataset/chunks/noakhali/noa_cate_03/sentence_66.wav,খাবার খুব ভালো লেগেছে।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_67.wav,dataset/chunks/noakhali/noa_cate_03/sentence_67.wav,আবার আসবো।,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_68.wav,dataset/chunks/noakhali/noa_cate_03/sentence_68.wav,এখানে কি বুফে আছে?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_69.wav,dataset/chunks/noakhali/noa_cate_03/sentence_69.wav,বুফের দাম কত?,noakhali,cate_03,SPK_17,noa_cate_03
+sentence_70.wav,dataset/chunks/noakhali/noa_cate_03/sentence_70.wav,"ধন্যবাদ, বিদায়।",noakhali,cate_03,SPK_17,noa_cate_03
+sentence_01.wav,dataset/chunks/noakhali/noa_cate_13/sentence_01.wav,এই ফোনের দাম কত?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_02.wav,dataset/chunks/noakhali/noa_cate_13/sentence_02.wav,আমি নতুন ল্যাপটপ কিনতে চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_03.wav,dataset/chunks/noakhali/noa_cate_13/sentence_03.wav,এই চার্জার কি original?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_04.wav,dataset/chunks/noakhali/noa_cate_13/sentence_04.wav,SIM কার্ড কীভাবে নিতে হবে?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_05.wav,dataset/chunks/noakhali/noa_cate_13/sentence_05.wav,এই ফোনের warranty কত দিন?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_06.wav,dataset/chunks/noakhali/noa_cate_13/sentence_06.wav,আমি একটা হেডফোন চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_07.wav,dataset/chunks/noakhali/noa_cate_13/sentence_07.wav,এই ফোনে camera ভালো কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_08.wav,dataset/chunks/noakhali/noa_cate_13/sentence_08.wav,আপনার দোকানে laptop আছে কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_09.wav,dataset/chunks/noakhali/noa_cate_13/sentence_09.wav,এই চার্জার কত voltage?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_10.wav,dataset/chunks/noakhali/noa_cate_13/sentence_10.wav,আমি ফোন comparison করতে চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_11.wav,dataset/chunks/noakhali/noa_cate_13/sentence_11.wav,এই ফোনের color কোনটি আছে?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_12.wav,dataset/chunks/noakhali/noa_cate_13/sentence_12.wav,SIM card activate করতে কত সময় লাগে?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_13.wav,dataset/chunks/noakhali/noa_cate_13/sentence_13.wav,এই ফোনের storage কত GB?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_14.wav,dataset/chunks/noakhali/noa_cate_13/sentence_14.wav,আমি power bank চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_15.wav,dataset/chunks/noakhali/noa_cate_13/sentence_15.wav,ফোনে নতুন app install করতে পারি কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_16.wav,dataset/chunks/noakhali/noa_cate_13/sentence_16.wav,এই দোকানে accessories পাওয়া যায়?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_17.wav,dataset/chunks/noakhali/noa_cate_13/sentence_17.wav,এই laptop lightweight কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_18.wav,dataset/chunks/noakhali/noa_cate_13/sentence_18.wav,ফোনের screen protector বিক্রি হয় কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_19.wav,dataset/chunks/noakhali/noa_cate_13/sentence_19.wav,SIM card recharge করা যায় কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_20.wav,dataset/chunks/noakhali/noa_cate_13/sentence_20.wav,আমি refurbished phone কিনতে চাই না।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_21.wav,dataset/chunks/noakhali/noa_cate_13/sentence_21.wav,ফোনের battery কতক্ষণ চলে?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_22.wav,dataset/chunks/noakhali/noa_cate_13/sentence_22.wav,আমি এই smartwatch কিনতে চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_23.wav,dataset/chunks/noakhali/noa_cate_13/sentence_23.wav,ফোনের brand কোনটি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_24.wav,dataset/chunks/noakhali/noa_cate_13/sentence_24.wav,এই charger fast charging support করে কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_25.wav,dataset/chunks/noakhali/noa_cate_13/sentence_25.wav,আমি laptop comparison দেখতে চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_26.wav,dataset/chunks/noakhali/noa_cate_13/sentence_26.wav,ফোনের memory card slot আছে কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_27.wav,dataset/chunks/noakhali/noa_cate_13/sentence_27.wav,SIM card registration করতে কি লাগবে?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_28.wav,dataset/chunks/noakhali/noa_cate_13/sentence_28.wav,আমি wireless earphones চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_29.wav,dataset/chunks/noakhali/noa_cate_13/sentence_29.wav,এই phone case waterproof কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_30.wav,dataset/chunks/noakhali/noa_cate_13/sentence_30.wav,আপনার দোকানে projector আছে কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_31.wav,dataset/chunks/noakhali/noa_cate_13/sentence_31.wav,ফোনের software update হয়েছে কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_32.wav,dataset/chunks/noakhali/noa_cate_13/sentence_32.wav,আমি gaming laptop দেখতে চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_33.wav,dataset/chunks/noakhali/noa_cate_13/sentence_33.wav,ফোনে dual SIM support আছে কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_34.wav,dataset/chunks/noakhali/noa_cate_13/sentence_34.wav,এই power bank কত mAh?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_35.wav,dataset/chunks/noakhali/noa_cate_13/sentence_35.wav,আমি Bluetooth speaker কিনতে চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_36.wav,dataset/chunks/noakhali/noa_cate_13/sentence_36.wav,ফোনের price negotiable কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_37.wav,dataset/chunks/noakhali/noa_cate_13/sentence_37.wav,আমি USB cable চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_38.wav,dataset/chunks/noakhali/noa_cate_13/sentence_38.wav,এই tablet lightweight কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_39.wav,dataset/chunks/noakhali/noa_cate_13/sentence_39.wav,SIM card portability করতে পারি কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_40.wav,dataset/chunks/noakhali/noa_cate_13/sentence_40.wav,ফোনের warranty card আছে কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_41.wav,dataset/chunks/noakhali/noa_cate_13/sentence_41.wav,আমি refurbished laptop চাই না।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_42.wav,dataset/chunks/noakhali/noa_cate_13/sentence_42.wav,ফোনের charger original কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_43.wav,dataset/chunks/noakhali/noa_cate_13/sentence_43.wav,আমি tablet accessories চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_44.wav,dataset/chunks/noakhali/noa_cate_13/sentence_44.wav,ফোনের camera resolution কত?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_45.wav,dataset/chunks/noakhali/noa_cate_13/sentence_45.wav,আমি portable hard drive চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_46.wav,dataset/chunks/noakhali/noa_cate_13/sentence_46.wav,ফোনে earphone jack আছে কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_47.wav,dataset/chunks/noakhali/noa_cate_13/sentence_47.wav,SIM card online recharge করা যায় কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_48.wav,dataset/chunks/noakhali/noa_cate_13/sentence_48.wav,আমি laptop bag কিনতে চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_49.wav,dataset/chunks/noakhali/noa_cate_13/sentence_49.wav,ফোনের display কত inch?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_50.wav,dataset/chunks/noakhali/noa_cate_13/sentence_50.wav,আমি smart home device কিনতে চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_51.wav,dataset/chunks/noakhali/noa_cate_13/sentence_51.wav,এই charger compatible কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_52.wav,dataset/chunks/noakhali/noa_cate_13/sentence_52.wav,ফোনের processor কত GHz?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_53.wav,dataset/chunks/noakhali/noa_cate_13/sentence_53.wav,আমি wireless mouse চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_54.wav,dataset/chunks/noakhali/noa_cate_13/sentence_54.wav,ফোনের screen size বড় কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_55.wav,dataset/chunks/noakhali/noa_cate_13/sentence_55.wav,SIM card balance check করতে পারি কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_56.wav,dataset/chunks/noakhali/noa_cate_13/sentence_56.wav,আমি laptop stand চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_57.wav,dataset/chunks/noakhali/noa_cate_13/sentence_57.wav,ফোনে fingerprint sensor আছে কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_58.wav,dataset/chunks/noakhali/noa_cate_13/sentence_58.wav,আমি external keyboard চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_59.wav,dataset/chunks/noakhali/noa_cate_13/sentence_59.wav,ফোনের battery replace করতে হয় কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_60.wav,dataset/chunks/noakhali/noa_cate_13/sentence_60.wav,আমি smartwatch strap চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_61.wav,dataset/chunks/noakhali/noa_cate_13/sentence_61.wav,ফোনের price range কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_62.wav,dataset/chunks/noakhali/noa_cate_13/sentence_62.wav,আমি gaming console কিনতে চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_63.wav,dataset/chunks/noakhali/noa_cate_13/sentence_63.wav,ফোনে dual camera আছে কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_64.wav,dataset/chunks/noakhali/noa_cate_13/sentence_64.wav,আমি USB hub চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_65.wav,dataset/chunks/noakhali/noa_cate_13/sentence_65.wav,ফোনের warranty কত বছর?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_66.wav,dataset/chunks/noakhali/noa_cate_13/sentence_66.wav,আমি laptop charger চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_67.wav,dataset/chunks/noakhali/noa_cate_13/sentence_67.wav,ফোনের weight কত?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_68.wav,dataset/chunks/noakhali/noa_cate_13/sentence_68.wav,আমি HDMI cable চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_69.wav,dataset/chunks/noakhali/noa_cate_13/sentence_69.wav,ফোনের software version আপডেট হয়েছে কি?,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_70.wav,dataset/chunks/noakhali/noa_cate_13/sentence_70.wav,আমি smart speaker কিনতে চাই।,noakhali,cate_13,SPK_17,noa_cate_13
+sentence_01.wav,dataset/chunks/rangpur/ran_cate_03/sentence_01.wav,এই জিনিসটির দাম কত?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_02.wav,dataset/chunks/rangpur/ran_cate_03/sentence_02.wav,দাম একটু কম হবে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_03.wav,dataset/chunks/rangpur/ran_cate_03/sentence_03.wav,এক কেজি চাল দিন।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_04.wav,dataset/chunks/rangpur/ran_cate_03/sentence_04.wav,আধা কেজি চিনি দিন।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_05.wav,dataset/chunks/rangpur/ran_cate_03/sentence_05.wav,এটা কি দেশি পণ্য?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_06.wav,dataset/chunks/rangpur/ran_cate_03/sentence_06.wav,এটা কি বিদেশি পণ্য?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_07.wav,dataset/chunks/rangpur/ran_cate_03/sentence_07.wav,একটু ভালো মানের দেখান।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_08.wav,dataset/chunks/rangpur/ran_cate_03/sentence_08.wav,এর থেকে সস্তা কিছু আছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_09.wav,dataset/chunks/rangpur/ran_cate_03/sentence_09.wav,এটা খুব দামী।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_10.wav,dataset/chunks/rangpur/ran_cate_03/sentence_10.wav,আমি এটা কিনতে চাই।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_11.wav,dataset/chunks/rangpur/ran_cate_03/sentence_11.wav,আপনার কাছে কি তাজা সবজি আছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_12.wav,dataset/chunks/rangpur/ran_cate_03/sentence_12.wav,এই ফলগুলো কি আজকের?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_13.wav,dataset/chunks/rangpur/ran_cate_03/sentence_13.wav,এক ডজন ডিম দিন।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_14.wav,dataset/chunks/rangpur/ran_cate_03/sentence_14.wav,কত টাকা হলো?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_15.wav,dataset/chunks/rangpur/ran_cate_03/sentence_15.wav,আমি নগদ পরিশোধ করবো।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_16.wav,dataset/chunks/rangpur/ran_cate_03/sentence_16.wav,মোবাইল ব্যাংকিং নেওয়া হয়?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_17.wav,dataset/chunks/rangpur/ran_cate_03/sentence_17.wav,বিকাশে টাকা দিতে পারি?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_18.wav,dataset/chunks/rangpur/ran_cate_03/sentence_18.wav,একটি ব্যাগ দেবেন?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_19.wav,dataset/chunks/rangpur/ran_cate_03/sentence_19.wav,এই কাপড়ের রং কি উঠবে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_20.wav,dataset/chunks/rangpur/ran_cate_03/sentence_20.wav,এই শার্টের অন্য সাইজ আছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_21.wav,dataset/chunks/rangpur/ran_cate_03/sentence_21.wav,ছোট সাইজ দেখান।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_22.wav,dataset/chunks/rangpur/ran_cate_03/sentence_22.wav,বড় সাইজ আছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_23.wav,dataset/chunks/rangpur/ran_cate_03/sentence_23.wav,আমি নীল রঙেরটি চাই।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_24.wav,dataset/chunks/rangpur/ran_cate_03/sentence_24.wav,অন্য রং আছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_25.wav,dataset/chunks/rangpur/ran_cate_03/sentence_25.wav,এটা কি আসল পণ্য?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_26.wav,dataset/chunks/rangpur/ran_cate_03/sentence_26.wav,গ্যারান্টি আছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_27.wav,dataset/chunks/rangpur/ran_cate_03/sentence_27.wav,রসিদ দিন।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_28.wav,dataset/chunks/rangpur/ran_cate_03/sentence_28.wav,আমি পরে এসে নেব।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_29.wav,dataset/chunks/rangpur/ran_cate_03/sentence_29.wav,এটা কি ছাড়ে দেওয়া যাবে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_30.wav,dataset/chunks/rangpur/ran_cate_03/sentence_30.wav,আজ কি কোনো অফার আছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_31.wav,dataset/chunks/rangpur/ran_cate_03/sentence_31.wav,আমি পাইকারি কিনতে চাই।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_32.wav,dataset/chunks/rangpur/ran_cate_03/sentence_32.wav,পাইকারি দাম কত?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_33.wav,dataset/chunks/rangpur/ran_cate_03/sentence_33.wav,এই পণ্যটি নতুন এসেছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_34.wav,dataset/chunks/rangpur/ran_cate_03/sentence_34.wav,এর মেয়াদ কতদিন?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_35.wav,dataset/chunks/rangpur/ran_cate_03/sentence_35.wav,এই ওষুধের মেয়াদ শেষ হয়েছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_36.wav,dataset/chunks/rangpur/ran_cate_03/sentence_36.wav,আমাকে ভালো মানের চাল দিন।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_37.wav,dataset/chunks/rangpur/ran_cate_03/sentence_37.wav,এই মাছটি কি তাজা?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_38.wav,dataset/chunks/rangpur/ran_cate_03/sentence_38.wav,এই মাংস কত কেজি?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_39.wav,dataset/chunks/rangpur/ran_cate_03/sentence_39.wav,এক কেজির কম হবে না।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_40.wav,dataset/chunks/rangpur/ran_cate_03/sentence_40.wav,একটু কম করে দিন।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_41.wav,dataset/chunks/rangpur/ran_cate_03/sentence_41.wav,আমি দরদাম করতে চাই।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_42.wav,dataset/chunks/rangpur/ran_cate_03/sentence_42.wav,চূড়ান্ত দাম কত?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_43.wav,dataset/chunks/rangpur/ran_cate_03/sentence_43.wav,এই জুতাটি কি টেকসই?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_44.wav,dataset/chunks/rangpur/ran_cate_03/sentence_44.wav,এই মোবাইলের দাম কত?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_45.wav,dataset/chunks/rangpur/ran_cate_03/sentence_45.wav,এই ফোনে কি গ্যারান্টি আছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_46.wav,dataset/chunks/rangpur/ran_cate_03/sentence_46.wav,চার্জারটি আলাদা কিনতে হবে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_47.wav,dataset/chunks/rangpur/ran_cate_03/sentence_47.wav,এটি কি ক্যাশ অন ডেলিভারি?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_48.wav,dataset/chunks/rangpur/ran_cate_03/sentence_48.wav,আমি অর্ডার দিতে চাই।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_49.wav,dataset/chunks/rangpur/ran_cate_03/sentence_49.wav,পণ্যটি কখন ডেলিভারি হবে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_50.wav,dataset/chunks/rangpur/ran_cate_03/sentence_50.wav,এই দোকান কখন বন্ধ হয়?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_51.wav,dataset/chunks/rangpur/ran_cate_03/sentence_51.wav,আমি একটা উপহার কিনতে চাই।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_52.wav,dataset/chunks/rangpur/ran_cate_03/sentence_52.wav,উপহার মোড়ানো হবে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_53.wav,dataset/chunks/rangpur/ran_cate_03/sentence_53.wav,এটি কি ফেরত দেওয়া যাবে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_54.wav,dataset/chunks/rangpur/ran_cate_03/sentence_54.wav,রিটার্ন পলিসি কী?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_55.wav,dataset/chunks/rangpur/ran_cate_03/sentence_55.wav,এই কাপড়টি খুব সুন্দর।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_56.wav,dataset/chunks/rangpur/ran_cate_03/sentence_56.wav,এটি কি কটন?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_57.wav,dataset/chunks/rangpur/ran_cate_03/sentence_57.wav,এই পণ্যটি কোথায় তৈরি?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_58.wav,dataset/chunks/rangpur/ran_cate_03/sentence_58.wav,এটি কি ছাড়ে বিক্রি হচ্ছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_59.wav,dataset/chunks/rangpur/ran_cate_03/sentence_59.wav,আমি আরও কিছু দেখতে চাই।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_60.wav,dataset/chunks/rangpur/ran_cate_03/sentence_60.wav,আপনার দোকানে কি কার্ড নেওয়া হয়?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_61.wav,dataset/chunks/rangpur/ran_cate_03/sentence_61.wav,মোট বিল কত হলো?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_62.wav,dataset/chunks/rangpur/ran_cate_03/sentence_62.wav,আমি টাকা ভাঙাতে চাই।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_63.wav,dataset/chunks/rangpur/ran_cate_03/sentence_63.wav,ছোট নোট আছে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_64.wav,dataset/chunks/rangpur/ran_cate_03/sentence_64.wav,এই ফলগুলো ওজন করে দিন।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_65.wav,dataset/chunks/rangpur/ran_cate_03/sentence_65.wav,এক কেজির একটু কম দিন।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_66.wav,dataset/chunks/rangpur/ran_cate_03/sentence_66.wav,আজকে বাজারে ভিড় বেশি।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_67.wav,dataset/chunks/rangpur/ran_cate_03/sentence_67.wav,দাম কেন এত বেশি?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_68.wav,dataset/chunks/rangpur/ran_cate_03/sentence_68.wav,কাল কি দাম কম হবে?,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_69.wav,dataset/chunks/rangpur/ran_cate_03/sentence_69.wav,আমি নিয়মিত ক্রেতা।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_70.wav,dataset/chunks/rangpur/ran_cate_03/sentence_70.wav,আবার আসবো।,rangpur,cate_03,SPK_07,ran_cate_03
+sentence_01.wav,dataset/chunks/rangpur/ran_cate_13/sentence_01.wav,এই ফোনের দাম কত?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_02.wav,dataset/chunks/rangpur/ran_cate_13/sentence_02.wav,আমি নতুন ল্যাপটপ কিনতে চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_03.wav,dataset/chunks/rangpur/ran_cate_13/sentence_03.wav,এই চার্জার কি original?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_04.wav,dataset/chunks/rangpur/ran_cate_13/sentence_04.wav,SIM কার্ড কীভাবে নিতে হবে?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_05.wav,dataset/chunks/rangpur/ran_cate_13/sentence_05.wav,এই ফোনের warranty কত দিন?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_06.wav,dataset/chunks/rangpur/ran_cate_13/sentence_06.wav,আমি একটা হেডফোন চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_07.wav,dataset/chunks/rangpur/ran_cate_13/sentence_07.wav,এই ফোনে camera ভালো কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_08.wav,dataset/chunks/rangpur/ran_cate_13/sentence_08.wav,আপনার দোকানে laptop আছে কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_09.wav,dataset/chunks/rangpur/ran_cate_13/sentence_09.wav,এই চার্জার কত voltage?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_10.wav,dataset/chunks/rangpur/ran_cate_13/sentence_10.wav,আমি ফোন comparison করতে চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_11.wav,dataset/chunks/rangpur/ran_cate_13/sentence_11.wav,এই ফোনের color কোনটি আছে?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_12.wav,dataset/chunks/rangpur/ran_cate_13/sentence_12.wav,SIM card activate করতে কত সময় লাগে?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_13.wav,dataset/chunks/rangpur/ran_cate_13/sentence_13.wav,এই ফোনের storage কত GB?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_14.wav,dataset/chunks/rangpur/ran_cate_13/sentence_14.wav,আমি power bank চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_15.wav,dataset/chunks/rangpur/ran_cate_13/sentence_15.wav,ফোনে নতুন app install করতে পারি কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_16.wav,dataset/chunks/rangpur/ran_cate_13/sentence_16.wav,এই দোকানে accessories পাওয়া যায়?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_17.wav,dataset/chunks/rangpur/ran_cate_13/sentence_17.wav,এই laptop lightweight কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_18.wav,dataset/chunks/rangpur/ran_cate_13/sentence_18.wav,ফোনের screen protector বিক্রি হয় কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_19.wav,dataset/chunks/rangpur/ran_cate_13/sentence_19.wav,SIM card recharge করা যায় কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_20.wav,dataset/chunks/rangpur/ran_cate_13/sentence_20.wav,আমি refurbished phone কিনতে চাই না।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_21.wav,dataset/chunks/rangpur/ran_cate_13/sentence_21.wav,ফোনের battery কতক্ষণ চলে?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_22.wav,dataset/chunks/rangpur/ran_cate_13/sentence_22.wav,আমি এই smartwatch কিনতে চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_23.wav,dataset/chunks/rangpur/ran_cate_13/sentence_23.wav,ফোনের brand কোনটি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_24.wav,dataset/chunks/rangpur/ran_cate_13/sentence_24.wav,এই charger fast charging support করে কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_25.wav,dataset/chunks/rangpur/ran_cate_13/sentence_25.wav,আমি laptop comparison দেখতে চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_26.wav,dataset/chunks/rangpur/ran_cate_13/sentence_26.wav,ফোনের memory card slot আছে কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_27.wav,dataset/chunks/rangpur/ran_cate_13/sentence_27.wav,SIM card registration করতে কি লাগবে?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_28.wav,dataset/chunks/rangpur/ran_cate_13/sentence_28.wav,আমি wireless earphones চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_29.wav,dataset/chunks/rangpur/ran_cate_13/sentence_29.wav,এই phone case waterproof কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_30.wav,dataset/chunks/rangpur/ran_cate_13/sentence_30.wav,আপনার দোকানে projector আছে কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_31.wav,dataset/chunks/rangpur/ran_cate_13/sentence_31.wav,ফোনের software update হয়েছে কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_32.wav,dataset/chunks/rangpur/ran_cate_13/sentence_32.wav,আমি gaming laptop দেখতে চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_33.wav,dataset/chunks/rangpur/ran_cate_13/sentence_33.wav,ফোনে dual SIM support আছে কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_34.wav,dataset/chunks/rangpur/ran_cate_13/sentence_34.wav,এই power bank কত mAh?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_35.wav,dataset/chunks/rangpur/ran_cate_13/sentence_35.wav,আমি Bluetooth speaker কিনতে চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_36.wav,dataset/chunks/rangpur/ran_cate_13/sentence_36.wav,ফোনের price negotiable কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_37.wav,dataset/chunks/rangpur/ran_cate_13/sentence_37.wav,আমি USB cable চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_38.wav,dataset/chunks/rangpur/ran_cate_13/sentence_38.wav,এই tablet lightweight কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_39.wav,dataset/chunks/rangpur/ran_cate_13/sentence_39.wav,SIM card portability করতে পারি কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_40.wav,dataset/chunks/rangpur/ran_cate_13/sentence_40.wav,ফোনের warranty card আছে কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_41.wav,dataset/chunks/rangpur/ran_cate_13/sentence_41.wav,আমি refurbished laptop চাই না।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_42.wav,dataset/chunks/rangpur/ran_cate_13/sentence_42.wav,ফোনের charger original কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_43.wav,dataset/chunks/rangpur/ran_cate_13/sentence_43.wav,আমি tablet accessories চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_44.wav,dataset/chunks/rangpur/ran_cate_13/sentence_44.wav,ফোনের camera resolution কত?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_45.wav,dataset/chunks/rangpur/ran_cate_13/sentence_45.wav,আমি portable hard drive চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_46.wav,dataset/chunks/rangpur/ran_cate_13/sentence_46.wav,ফোনে earphone jack আছে কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_47.wav,dataset/chunks/rangpur/ran_cate_13/sentence_47.wav,SIM card online recharge করা যায় কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_48.wav,dataset/chunks/rangpur/ran_cate_13/sentence_48.wav,আমি laptop bag কিনতে চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_49.wav,dataset/chunks/rangpur/ran_cate_13/sentence_49.wav,ফোনের display কত inch?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_50.wav,dataset/chunks/rangpur/ran_cate_13/sentence_50.wav,আমি smart home device কিনতে চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_51.wav,dataset/chunks/rangpur/ran_cate_13/sentence_51.wav,এই charger compatible কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_52.wav,dataset/chunks/rangpur/ran_cate_13/sentence_52.wav,ফোনের processor কত GHz?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_53.wav,dataset/chunks/rangpur/ran_cate_13/sentence_53.wav,আমি wireless mouse চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_54.wav,dataset/chunks/rangpur/ran_cate_13/sentence_54.wav,ফোনের screen size বড় কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_55.wav,dataset/chunks/rangpur/ran_cate_13/sentence_55.wav,SIM card balance check করতে পারি কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_56.wav,dataset/chunks/rangpur/ran_cate_13/sentence_56.wav,আমি laptop stand চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_57.wav,dataset/chunks/rangpur/ran_cate_13/sentence_57.wav,ফোনে fingerprint sensor আছে কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_58.wav,dataset/chunks/rangpur/ran_cate_13/sentence_58.wav,আমি external keyboard চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_59.wav,dataset/chunks/rangpur/ran_cate_13/sentence_59.wav,ফোনের battery replace করতে হয় কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_60.wav,dataset/chunks/rangpur/ran_cate_13/sentence_60.wav,আমি smartwatch strap চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_61.wav,dataset/chunks/rangpur/ran_cate_13/sentence_61.wav,ফোনের price range কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_62.wav,dataset/chunks/rangpur/ran_cate_13/sentence_62.wav,আমি gaming console কিনতে চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_63.wav,dataset/chunks/rangpur/ran_cate_13/sentence_63.wav,ফোনে dual camera আছে কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_64.wav,dataset/chunks/rangpur/ran_cate_13/sentence_64.wav,আমি USB hub চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_65.wav,dataset/chunks/rangpur/ran_cate_13/sentence_65.wav,ফোনের warranty কত বছর?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_66.wav,dataset/chunks/rangpur/ran_cate_13/sentence_66.wav,আমি laptop charger চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_67.wav,dataset/chunks/rangpur/ran_cate_13/sentence_67.wav,ফোনের weight কত?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_68.wav,dataset/chunks/rangpur/ran_cate_13/sentence_68.wav,আমি HDMI cable চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_69.wav,dataset/chunks/rangpur/ran_cate_13/sentence_69.wav,ফোনের software version আপডেট হয়েছে কি?,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_70.wav,dataset/chunks/rangpur/ran_cate_13/sentence_70.wav,আমি smart speaker কিনতে চাই।,rangpur,cate_13,SPK_07,ran_cate_13
+sentence_01.wav,dataset/chunks/sylhet/syl_cate_03/sentence_01.wav,এই জিনিসটির দাম কত?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_02.wav,dataset/chunks/sylhet/syl_cate_03/sentence_02.wav,দাম একটু কম হবে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_03.wav,dataset/chunks/sylhet/syl_cate_03/sentence_03.wav,এক কেজি চাল দিন।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_04.wav,dataset/chunks/sylhet/syl_cate_03/sentence_04.wav,আধা কেজি চিনি দিন।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_05.wav,dataset/chunks/sylhet/syl_cate_03/sentence_05.wav,এটা কি দেশি পণ্য?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_06.wav,dataset/chunks/sylhet/syl_cate_03/sentence_06.wav,এটা কি বিদেশি পণ্য?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_07.wav,dataset/chunks/sylhet/syl_cate_03/sentence_07.wav,একটু ভালো মানের দেখান।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_08.wav,dataset/chunks/sylhet/syl_cate_03/sentence_08.wav,এর থেকে সস্তা কিছু আছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_09.wav,dataset/chunks/sylhet/syl_cate_03/sentence_09.wav,এটা খুব দামী।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_10.wav,dataset/chunks/sylhet/syl_cate_03/sentence_10.wav,আমি এটা কিনতে চাই।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_11.wav,dataset/chunks/sylhet/syl_cate_03/sentence_11.wav,আপনার কাছে কি তাজা সবজি আছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_12.wav,dataset/chunks/sylhet/syl_cate_03/sentence_12.wav,এই ফলগুলো কি আজকের?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_13.wav,dataset/chunks/sylhet/syl_cate_03/sentence_13.wav,এক ডজন ডিম দিন।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_14.wav,dataset/chunks/sylhet/syl_cate_03/sentence_14.wav,কত টাকা হলো?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_15.wav,dataset/chunks/sylhet/syl_cate_03/sentence_15.wav,আমি নগদ পরিশোধ করবো।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_16.wav,dataset/chunks/sylhet/syl_cate_03/sentence_16.wav,মোবাইল ব্যাংকিং নেওয়া হয়?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_17.wav,dataset/chunks/sylhet/syl_cate_03/sentence_17.wav,বিকাশে টাকা দিতে পারি?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_18.wav,dataset/chunks/sylhet/syl_cate_03/sentence_18.wav,একটি ব্যাগ দেবেন?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_19.wav,dataset/chunks/sylhet/syl_cate_03/sentence_19.wav,এই কাপড়ের রং কি উঠবে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_20.wav,dataset/chunks/sylhet/syl_cate_03/sentence_20.wav,এই শার্টের অন্য সাইজ আছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_21.wav,dataset/chunks/sylhet/syl_cate_03/sentence_21.wav,ছোট সাইজ দেখান।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_22.wav,dataset/chunks/sylhet/syl_cate_03/sentence_22.wav,বড় সাইজ আছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_23.wav,dataset/chunks/sylhet/syl_cate_03/sentence_23.wav,আমি নীল রঙেরটি চাই।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_24.wav,dataset/chunks/sylhet/syl_cate_03/sentence_24.wav,অন্য রং আছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_25.wav,dataset/chunks/sylhet/syl_cate_03/sentence_25.wav,এটা কি আসল পণ্য?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_26.wav,dataset/chunks/sylhet/syl_cate_03/sentence_26.wav,গ্যারান্টি আছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_27.wav,dataset/chunks/sylhet/syl_cate_03/sentence_27.wav,রসিদ দিন।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_28.wav,dataset/chunks/sylhet/syl_cate_03/sentence_28.wav,আমি পরে এসে নেব।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_29.wav,dataset/chunks/sylhet/syl_cate_03/sentence_29.wav,এটা কি ছাড়ে দেওয়া যাবে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_30.wav,dataset/chunks/sylhet/syl_cate_03/sentence_30.wav,আজ কি কোনো অফার আছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_31.wav,dataset/chunks/sylhet/syl_cate_03/sentence_31.wav,আমি পাইকারি কিনতে চাই।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_32.wav,dataset/chunks/sylhet/syl_cate_03/sentence_32.wav,পাইকারি দাম কত?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_33.wav,dataset/chunks/sylhet/syl_cate_03/sentence_33.wav,এই পণ্যটি নতুন এসেছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_34.wav,dataset/chunks/sylhet/syl_cate_03/sentence_34.wav,এর মেয়াদ কতদিন?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_35.wav,dataset/chunks/sylhet/syl_cate_03/sentence_35.wav,এই ওষুধের মেয়াদ শেষ হয়েছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_36.wav,dataset/chunks/sylhet/syl_cate_03/sentence_36.wav,আমাকে ভালো মানের চাল দিন।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_37.wav,dataset/chunks/sylhet/syl_cate_03/sentence_37.wav,এই মাছটি কি তাজা?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_38.wav,dataset/chunks/sylhet/syl_cate_03/sentence_38.wav,এই মাংস কত কেজি?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_39.wav,dataset/chunks/sylhet/syl_cate_03/sentence_39.wav,এক কেজির কম হবে না।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_40.wav,dataset/chunks/sylhet/syl_cate_03/sentence_40.wav,একটু কম করে দিন।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_41.wav,dataset/chunks/sylhet/syl_cate_03/sentence_41.wav,আমি দরদাম করতে চাই।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_42.wav,dataset/chunks/sylhet/syl_cate_03/sentence_42.wav,চূড়ান্ত দাম কত?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_43.wav,dataset/chunks/sylhet/syl_cate_03/sentence_43.wav,এই জুতাটি কি টেকসই?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_44.wav,dataset/chunks/sylhet/syl_cate_03/sentence_44.wav,এই মোবাইলের দাম কত?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_45.wav,dataset/chunks/sylhet/syl_cate_03/sentence_45.wav,এই ফোনে কি গ্যারান্টি আছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_46.wav,dataset/chunks/sylhet/syl_cate_03/sentence_46.wav,চার্জারটি আলাদা কিনতে হবে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_47.wav,dataset/chunks/sylhet/syl_cate_03/sentence_47.wav,এটি কি ক্যাশ অন ডেলিভারি?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_48.wav,dataset/chunks/sylhet/syl_cate_03/sentence_48.wav,আমি অর্ডার দিতে চাই।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_49.wav,dataset/chunks/sylhet/syl_cate_03/sentence_49.wav,পণ্যটি কখন ডেলিভারি হবে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_50.wav,dataset/chunks/sylhet/syl_cate_03/sentence_50.wav,এই দোকান কখন বন্ধ হয়?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_51.wav,dataset/chunks/sylhet/syl_cate_03/sentence_51.wav,আমি একটা উপহার কিনতে চাই।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_52.wav,dataset/chunks/sylhet/syl_cate_03/sentence_52.wav,উপহার মোড়ানো হবে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_53.wav,dataset/chunks/sylhet/syl_cate_03/sentence_53.wav,এটি কি ফেরত দেওয়া যাবে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_54.wav,dataset/chunks/sylhet/syl_cate_03/sentence_54.wav,রিটার্ন পলিসি কী?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_55.wav,dataset/chunks/sylhet/syl_cate_03/sentence_55.wav,এই কাপড়টি খুব সুন্দর।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_56.wav,dataset/chunks/sylhet/syl_cate_03/sentence_56.wav,এটি কি কটন?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_57.wav,dataset/chunks/sylhet/syl_cate_03/sentence_57.wav,এই পণ্যটি কোথায় তৈরি?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_58.wav,dataset/chunks/sylhet/syl_cate_03/sentence_58.wav,এটি কি ছাড়ে বিক্রি হচ্ছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_59.wav,dataset/chunks/sylhet/syl_cate_03/sentence_59.wav,আমি আরও কিছু দেখতে চাই।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_60.wav,dataset/chunks/sylhet/syl_cate_03/sentence_60.wav,আপনার দোকানে কি কার্ড নেওয়া হয়?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_61.wav,dataset/chunks/sylhet/syl_cate_03/sentence_61.wav,মোট বিল কত হলো?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_62.wav,dataset/chunks/sylhet/syl_cate_03/sentence_62.wav,আমি টাকা ভাঙাতে চাই।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_63.wav,dataset/chunks/sylhet/syl_cate_03/sentence_63.wav,ছোট নোট আছে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_64.wav,dataset/chunks/sylhet/syl_cate_03/sentence_64.wav,এই ফলগুলো ওজন করে দিন।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_65.wav,dataset/chunks/sylhet/syl_cate_03/sentence_65.wav,এক কেজির একটু কম দিন।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_66.wav,dataset/chunks/sylhet/syl_cate_03/sentence_66.wav,আজকে বাজারে ভিড় বেশি।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_67.wav,dataset/chunks/sylhet/syl_cate_03/sentence_67.wav,দাম কেন এত বেশি?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_68.wav,dataset/chunks/sylhet/syl_cate_03/sentence_68.wav,কাল কি দাম কম হবে?,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_69.wav,dataset/chunks/sylhet/syl_cate_03/sentence_69.wav,আমি নিয়মিত ক্রেতা।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_70.wav,dataset/chunks/sylhet/syl_cate_03/sentence_70.wav,আবার আসবো।,sylhet,cate_03,SPK_15,syl_cate_03
+sentence_01.wav,dataset/chunks/sylhet/syl_cate_12/sentence_01.wav,আজকের মিটিং কবে?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_02.wav,dataset/chunks/sylhet/syl_cate_12/sentence_02.wav,আমি আমার রিপোর্ট প্রস্তুত করেছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_03.wav,dataset/chunks/sylhet/syl_cate_12/sentence_03.wav,অফিসে সময়মতো পৌঁছানো উচিত।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_04.wav,dataset/chunks/sylhet/syl_cate_12/sentence_04.wav,আপনার সহকর্মী কি সাহায্য করছে?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_05.wav,dataset/chunks/sylhet/syl_cate_12/sentence_05.wav,আমরা নতুন প্রকল্প শুরু করছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_06.wav,dataset/chunks/sylhet/syl_cate_12/sentence_06.wav,আজ অফিসে কি কাজ আছে?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_07.wav,dataset/chunks/sylhet/syl_cate_12/sentence_07.wav,আমার কম্পিউটারে সমস্যা হয়েছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_08.wav,dataset/chunks/sylhet/syl_cate_12/sentence_08.wav,মিটিংটি কত সময়ের জন্য?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_09.wav,dataset/chunks/sylhet/syl_cate_12/sentence_09.wav,আমি প্রেজেন্টেশন প্রস্তুত করছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_10.wav,dataset/chunks/sylhet/syl_cate_12/sentence_10.wav,আপনি কোন দপ্তরে কাজ করেন?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_11.wav,dataset/chunks/sylhet/syl_cate_12/sentence_11.wav,অফিসের সময়সূচি কি?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_12.wav,dataset/chunks/sylhet/syl_cate_12/sentence_12.wav,আমি নতুন কর্মচারী প্রশিক্ষণ দিচ্ছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_13.wav,dataset/chunks/sylhet/syl_cate_12/sentence_13.wav,আজ অফিসে তদারকি করা হয়েছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_14.wav,dataset/chunks/sylhet/syl_cate_12/sentence_14.wav,আমরা ক্লায়েন্টের সঙ্গে মিটিং করেছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_15.wav,dataset/chunks/sylhet/syl_cate_12/sentence_15.wav,আমার ল্যাপটপ কাজ করছে না।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_16.wav,dataset/chunks/sylhet/syl_cate_12/sentence_16.wav,অফিসের কাজ শেষ হয়েছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_17.wav,dataset/chunks/sylhet/syl_cate_12/sentence_17.wav,কি ধরনের রিপোর্ট আজ জমা দিতে হবে?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_18.wav,dataset/chunks/sylhet/syl_cate_12/sentence_18.wav,আমি ইমেইল পাঠাচ্ছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_19.wav,dataset/chunks/sylhet/syl_cate_12/sentence_19.wav,অফিসে নতুন নীতি প্রয়োগ করা হয়েছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_20.wav,dataset/chunks/sylhet/syl_cate_12/sentence_20.wav,আপনার সহকর্মী punctual কি?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_21.wav,dataset/chunks/sylhet/syl_cate_12/sentence_21.wav,আমরা অফিসে কাজ ভাগ করেছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_22.wav,dataset/chunks/sylhet/syl_cate_12/sentence_22.wav,আজ অফিসে কি মিটিং আছে?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_23.wav,dataset/chunks/sylhet/syl_cate_12/sentence_23.wav,আমি ক্লায়েন্টের জন্য ডকুমেন্ট তৈরি করছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_24.wav,dataset/chunks/sylhet/syl_cate_12/sentence_24.wav,অফিসের বাতাস ভালো নেই।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_25.wav,dataset/chunks/sylhet/syl_cate_12/sentence_25.wav,আমরা নতুন সফটওয়্যার ব্যবহার করছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_26.wav,dataset/chunks/sylhet/syl_cate_12/sentence_26.wav,কি কাজ দ্রুত শেষ করতে হবে?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_27.wav,dataset/chunks/sylhet/syl_cate_12/sentence_27.wav,আমার ডেস্কে অনেক নথি আছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_28.wav,dataset/chunks/sylhet/syl_cate_12/sentence_28.wav,অফিসে আজ নতুন অতিথি এসেছেন।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_29.wav,dataset/chunks/sylhet/syl_cate_12/sentence_29.wav,আমরা টিম মিটিং করছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_30.wav,dataset/chunks/sylhet/syl_cate_12/sentence_30.wav,আপনার কাজের অগ্রগতি কেমন?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_31.wav,dataset/chunks/sylhet/syl_cate_12/sentence_31.wav,আমি নতুন প্রকল্পের পরিকল্পনা করছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_32.wav,dataset/chunks/sylhet/syl_cate_12/sentence_32.wav,আজ অফিসে অনেক কাজ হয়েছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_33.wav,dataset/chunks/sylhet/syl_cate_12/sentence_33.wav,আমি ইমেইল চেক করছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_34.wav,dataset/chunks/sylhet/syl_cate_12/sentence_34.wav,অফিসের কম্পিউটার আপডেট হয়েছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_35.wav,dataset/chunks/sylhet/syl_cate_12/sentence_35.wav,আপনি আজ কোন দপ্তরে কাজ করছেন?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_36.wav,dataset/chunks/sylhet/syl_cate_12/sentence_36.wav,আমরা নতুন টিম মিটিং শুরু করেছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_37.wav,dataset/chunks/sylhet/syl_cate_12/sentence_37.wav,কি ধরনের রিপোর্ট শেষ হয়েছে?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_38.wav,dataset/chunks/sylhet/syl_cate_12/sentence_38.wav,আমি অফিসের জন্য প্রেজেন্টেশন তৈরি করেছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_39.wav,dataset/chunks/sylhet/syl_cate_12/sentence_39.wav,আমাদের টিমে নতুন সদস্য যোগ হয়েছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_40.wav,dataset/chunks/sylhet/syl_cate_12/sentence_40.wav,অফিসের কাজের মান খুব ভালো।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_41.wav,dataset/chunks/sylhet/syl_cate_12/sentence_41.wav,আজ অফিসে কি মিটিং শিডিউল আছে?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_42.wav,dataset/chunks/sylhet/syl_cate_12/sentence_42.wav,আমি অফিসের ডকুমেন্ট স্ক্যান করছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_43.wav,dataset/chunks/sylhet/syl_cate_12/sentence_43.wav,আপনার সহকর্মী কি ব্যস্ত?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_44.wav,dataset/chunks/sylhet/syl_cate_12/sentence_44.wav,আমরা অফিসে নথি আপডেট করেছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_45.wav,dataset/chunks/sylhet/syl_cate_12/sentence_45.wav,আজ টিমের সঙ্গে আলোচনা হয়েছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_46.wav,dataset/chunks/sylhet/syl_cate_12/sentence_46.wav,আমি নতুন কর্মচারীর প্রশিক্ষণ দিচ্ছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_47.wav,dataset/chunks/sylhet/syl_cate_12/sentence_47.wav,অফিসে নতুন নীতি প্রয়োগ করা হয়েছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_48.wav,dataset/chunks/sylhet/syl_cate_12/sentence_48.wav,আমার কম্পিউটার হ্যাং করেছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_49.wav,dataset/chunks/sylhet/syl_cate_12/sentence_49.wav,আমরা ক্লায়েন্টের কাছে প্রজেক্ট প্রেজেন্ট করেছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_50.wav,dataset/chunks/sylhet/syl_cate_12/sentence_50.wav,আপনার অফিসের সময়সূচি কি?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_51.wav,dataset/chunks/sylhet/syl_cate_12/sentence_51.wav,আমি আজ নতুন কাজ শিখছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_52.wav,dataset/chunks/sylhet/syl_cate_12/sentence_52.wav,অফিসে নিরাপত্তা ব্যবস্থা ভালো।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_53.wav,dataset/chunks/sylhet/syl_cate_12/sentence_53.wav,আমরা অফিসে নতুন টুল ব্যবহার করছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_54.wav,dataset/chunks/sylhet/syl_cate_12/sentence_54.wav,আপনার টিম কি প্রস্তুত?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_55.wav,dataset/chunks/sylhet/syl_cate_12/sentence_55.wav,আমি অফিসে অনেক নথি সাজাচ্ছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_56.wav,dataset/chunks/sylhet/syl_cate_12/sentence_56.wav,আজ অফিসে নতুন প্রকল্পের আলোচনা হয়েছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_57.wav,dataset/chunks/sylhet/syl_cate_12/sentence_57.wav,আমি আজ টিম মিটিং নিয়ে ব্যস্ত।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_58.wav,dataset/chunks/sylhet/syl_cate_12/sentence_58.wav,অফিসে নতুন সফটওয়্যার ইনস্টল করা হয়েছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_59.wav,dataset/chunks/sylhet/syl_cate_12/sentence_59.wav,কি ধরনের অফিস কাজ শেষ করতে হবে?,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_60.wav,dataset/chunks/sylhet/syl_cate_12/sentence_60.wav,আমি ক্লায়েন্টের জন্য ডকুমেন্ট প্রস্তুত করছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_61.wav,dataset/chunks/sylhet/syl_cate_12/sentence_61.wav,অফিসে আজ অনেক ইমেইল এসেছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_62.wav,dataset/chunks/sylhet/syl_cate_12/sentence_62.wav,আমাদের টিমের সদস্য সক্রিয়।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_63.wav,dataset/chunks/sylhet/syl_cate_12/sentence_63.wav,আমি অফিসে নতুন প্রকল্প পরিকল্পনা করছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_64.wav,dataset/chunks/sylhet/syl_cate_12/sentence_64.wav,আজ অফিসে অনেক visitors এসেছে।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_65.wav,dataset/chunks/sylhet/syl_cate_12/sentence_65.wav,অফিসে meeting room প্রস্তুত।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_66.wav,dataset/chunks/sylhet/syl_cate_12/sentence_66.wav,আমি অফিসের জন্য রিপোর্ট তৈরি করেছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_67.wav,dataset/chunks/sylhet/syl_cate_12/sentence_67.wav,আমরা নতুন guidelines মেনে চলছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_68.wav,dataset/chunks/sylhet/syl_cate_12/sentence_68.wav,অফিসে কাজের চাপ বেশি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_69.wav,dataset/chunks/sylhet/syl_cate_12/sentence_69.wav,আমি ক্লায়েন্টের সাথে discussion করেছি।,sylhet,cate_12,SPK_15,syl_cate_12
+sentence_70.wav,dataset/chunks/sylhet/syl_cate_12/sentence_70.wav,আমাদের অফিসের পরিবেশ খুব ভালো।,sylhet,cate_12,SPK_15,syl_cate_12
