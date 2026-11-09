@@ -1,0 +1,6 @@
+FINAL RESULT
+FINAL TEST DATA RESULT
+Word Error Rate (WER)     : 0.368
+Character Error Rate (CER): 0.273
+Word Accuracy (WAcc)      : 0.632
+Character Accuracy (CAcc) : 0.727
